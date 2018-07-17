@@ -1125,402 +1125,170 @@ http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/252.ts
 http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/247.ts
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="DEUTSCH",======DEUTSCH=======
 http://bit.ly/safwanlogo
-#EXTINF:0,DE:Quran Hidayah
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1747.ts
-#EXTINF:0,DE:ORF Eins
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/897.ts
-#EXTINF:0,DE:ORF 2 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/883.ts
-#EXTINF:0,DE:Sat 1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/909.ts
-#EXTINF:0,DE:BR
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/910.ts
-#EXTINF:0,DE:13th Street HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/911.ts
-#EXTINF:0,DE:Atlantic HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/912.ts
-#EXTINF:0,DE:Das Erste
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/913.ts
-#EXTINF:0,DE:ARD HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/914.ts
-#EXTINF:0,DE:ANIXE Serie HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/915.ts
-#EXTINF:0,DE:ZDF Neo
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1489.ts
-#EXTINF:0,DE:SIXX HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1490.ts
-#EXTINF:0,DE:ZDF info
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1491.ts
-#EXTINF:0,DE:ZDF HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1492.ts
-#EXTINF:0,DE:ZDF 3 SAT
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1493.ts
-#EXTINF:0,DE:HR HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1698.ts
-#EXTINF:0,DE:VIVA Comedy
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1731.ts
-#EXTINF:0,DE:Wdr HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/846.ts
-#EXTINF:0,DE:VOX HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/847.ts
-#EXTINF:0,DE:SAT 1 Bayern
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/849.ts
-#EXTINF:0,DE:Super RTL
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/850.ts
-#EXTINF:0,DE:Disney Cinemagic FHD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/851.ts
-#EXTINF:0,DE:Classica
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/869.ts
-#EXTINF:0,DE:Disney cinemagic HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/872.ts
-#EXTINF:0,DE:DMAX
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/875.ts
-#EXTINF:0,DE:N-TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/878.ts
-#EXTINF:0,DE:Spiegel Geschichte HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/887.ts
-#EXTINF:0,DE:RTL Nitro
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/888.ts
-#EXTINF:0,DE:RTL II
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/889.ts
-#EXTINF:0,DE:RTL PASSION
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/890.ts
-#EXTINF:0,DE:RTL 2 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/891.ts
-#EXTINF:0,DE:ProSieben
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/892.ts
-#EXTINF:0,DE:PRO7 MAXX
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/893.ts
-#EXTINF:0,DE:ProSieben Maxx HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/894.ts
-#EXTINF:0,DE:Phoenix
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/895.ts
-#EXTINF:0,DE:RTL Crime
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/896.ts
-#EXTINF:0,DE:Heimatkanal
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/898.ts
-#EXTINF:0,DE:National Geographic
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/899.ts
-#EXTINF:0,DE:N24 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/901.ts
-#EXTINF:0,DE:Kika
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/903.ts
-#EXTINF:0,DE:kabel eins Doku
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/904.ts
-#EXTINF:0,DE:FOX HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/905.ts
-#EXTINF:0,DE:MDR
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/789.ts
-#EXTINF:0,DE:Sky Nostalgie HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/902.ts
-#EXTINF:0,DE:Sky Bundesliga 2
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1732.ts
-#EXTINF:0,DE:Sky Cinema Star Wars
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1496.ts
-#EXTINF:0,DE:Sky Sport Austria HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/852.ts
-#EXTINF:0,DE:Sky NatGeo Wild HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/868.ts
-#EXTINF:0,DE:Sky Sport News HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/870.ts
-#EXTINF:0,DE:Sky Cinema Hits HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/871.ts
-#EXTINF:0,DE:Sky Fox HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/873.ts
-#EXTINF:0,DE:Sky Emotion
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/874.ts
-#EXTINF:0,DE:Sky Syfy HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/876.ts
-#EXTINF:0,DE:Sky Comedy
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/877.ts
-#EXTINF:0,DE:Sky Cinema 24
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/879.ts
-#EXTINF:0,DE:Sky Cinema HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/880.ts
-#EXTINF:0,DE:Sky Cinema +1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/881.ts
-#EXTINF:0,DE:Sky BundesLiga 1 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/882.ts
-#EXTINF:0,DE:Sky Action HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/884.ts
-#EXTINF:0,DE:Sky NatGeo HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/885.ts
-#EXTINF:0,DE:EuroSport 2 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1751.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/LkXwDc" group-title="FRANCE",======FRANCE=======
-http://bit.ly/safwanlogo
-#EXTINF:0,FR:6TER
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1678.ts
-#EXTINF:0,FR:C8
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1679.ts
-#EXTINF:0,FR:CANAL J
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1693.ts
-#EXTINF:0,FR:Euronews new
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1692.ts
-#EXTINF:0,FR:Canal+ Cinema HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/930.ts
-#EXTINF:0,FR:Canal+ Decale HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/822.ts
-#EXTINF:0,FR:Canal+ Family HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/821.ts
-#EXTINF:0,FR:Canal+ Series HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/819.ts
-#EXTINF:0,FR:Canal+ Sport HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/818.ts
-#EXTINF:0,FR:ALTICE STUDIO
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1686.ts
-#EXTINF:0,FR:CINE POLAR
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/796.ts
-#EXTINF:0,FR:Cine+ Classic HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/812.ts
-#EXTINF:0,Fr:CINE+ CLUB
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1923.ts
-#EXTINF:0,Fr:CINE+ EMOTION
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1920.ts
-#EXTINF:0,Fr:CINE+ FAMIZ
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1922.ts
-#EXTINF:0,FR:CINE+ FRISSON
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1921.ts
-#EXTINF:0,FR:Cine+ Premier HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/813.ts
-#EXTINF:0,FR:DISCOVERY
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1696.ts
-#EXTINF:0,FR:DISCOVERY SCIENCE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1695.ts
-#EXTINF:0,FR:EQUIDIA LIFE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/808.ts
-#EXTINF:0,FR:PARAMOUNT DECALE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/809.ts
-#EXTINF:0,FR:EXTREME SPORTS
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1924.ts
-#EXTINF:0,FR:France 5
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1685.ts
-#EXTINF:0,Fr:GAME ONE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1930.ts
-#EXTINF:0,FR:HD1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/810.ts
-#EXTINF:0,FR:HISTOIRE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/841.ts
-#EXTINF:0,FR:M6 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/787.ts
-#EXTINF:0,FR:Mangas
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/785.ts
-#EXTINF:0,Fr:MCM
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1926.ts
-#EXTINF:0,Fr:MCM  TOP
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1927.ts
-#EXTINF:0,Fr:MEZZO LIVE HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1929.ts
-#EXTINF:0,FR:NATIONAL GEOGRAPHIC
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1697.ts
-#EXTINF:0,FR:NRJ 12 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/782.ts
-#EXTINF:0,FR:NT1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/811.ts
-#EXTINF:0,FR:Paramount Channel HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/669.ts
-#EXTINF:0,FR:PIWI+
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1691.ts
-#EXTINF:0,FR:PLANETE AE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/768.ts
-#EXTINF:0,FR:PLANETE+
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/767.ts
-#EXTINF:0,FR:RMC DECOUVERTE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/798.ts
-#EXTINF:0,FR:Science & VIE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/814.ts
-#EXTINF:0,FR:SEASON
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/797.ts
-#EXTINF:0,FR:SFR SPORT 1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/786.ts
-#EXTINF:0,FR:SYFY
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/848.ts
-#EXTINF:0,FR:TRACE URBAN
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/840.ts
-#EXTINF:0,FR:PARIS PREMIERE HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/778.ts
-#EXTINF:0,FR:Nickelodeon Junior
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/717.ts
-#EXTINF:0,FR:Nickelodeon
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/716.ts
-#EXTINF:0,FR:SFR SPORT 3
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/715.ts
-#EXTINF:0,FR:TF1 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/72.ts
-#EXTINF:0,FR:BRAVA
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/917.ts
-#EXTINF:0,Fr:National Geo Wild
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/920.ts
-#EXTINF:0,Fr:Disney Channel
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/925.ts
-#EXTINF:0,Fr:Disney Junior
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/926.ts
-#EXTINF:0,Fr:Planete  CI
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/927.ts
-#EXTINF:0,FR:DISNEY XD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/928.ts
-#EXTINF:0,FR:AB1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/758.ts
-#EXTINF:0,FR:W9 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/759.ts
-#EXTINF:0,FR:Ushuaia
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/760.ts
-#EXTINF:0,FR:MTV France
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/761.ts
-#EXTINF:0,FR:France 3
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/378.ts
-#EXTINF:0,FR:France 2
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/377.ts
-#EXTINF:0,Fr:L'EQUIPE 21
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/376.ts
-#EXTINF:0,Fr:INFOSPORT
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/375.ts
-#EXTINF:0,FR:TOONAMI dessin animé
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/765.ts
-#EXTINF:0,FR:TeleToon
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/766.ts
-#EXTINF:0,FR:CHERIE 25
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/770.ts
-#EXTINF:0,FR:CSTAR
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/772.ts
-#EXTINF:0,FR:RTL 9 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/773.ts
-#EXTINF:0,FR:TMC
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/777.ts
-#EXTINF:0,FR:E! ENTERTAINMENT
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/788.ts
-#EXTINF:0,FR:SFR SPORT 2
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/790.ts
-#EXTINF:0,FR:13 EME RUE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/791.ts
-#EXTINF:0,FR:GOLF+
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/792.ts
-#EXTINF:0,FR:France 4
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/794.ts
-#EXTINF:0,FR:FRANCE INFO
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/795.ts
-#EXTINF:0,FR:EUROSPORT 1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/799.ts
-#EXTINF:0,FR:ELLE GIRL
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/800.ts
-#EXTINF:0,FR:ANIMAUX
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/801.ts
-#EXTINF:0,FR:DISNEY CINEMA
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/802.ts
-#EXTINF:0,FR:Gulli
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/803.ts
-#EXTINF:0,FR:COMEDIE+
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/805.ts
-#EXTINF:0,FR:Cine FX
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/815.ts
-#EXTINF:0,FR:Chasse & Peche
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/816.ts
-#EXTINF:0,FR:Cartoon NetWork
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/817.ts
-#EXTINF:0,FR:TIJI
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/823.ts
-#EXTINF:0,FR:Canal+ HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/825.ts
-#EXTINF:0,FR:TV BREIZH
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/826.ts
-#EXTINF:0,FR:BoomeRang
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/827.ts
-#EXTINF:0,FR:VOYAGE
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/833.ts
-#EXTINF:0,FR:SFR SPORT 5
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/834.ts
-#EXTINF:0,FR:Action HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/835.ts
-#EXTINF:0,FR:TCM CINEMA
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/836.ts
-#EXTINF:0,FR:EUROSPORT 2
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/838.ts
-#EXTINF:0,FR:BOING
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/839.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/zDh7X6" group-title="AFRICA",======AFRICA=======
-http://bit.ly/safwanlogo
-#EXTINF:0,Afr:Berbere TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1300.ts
-#EXTINF:0,Afr:CGTN News
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/664.ts
-#EXTINF:0,Afr:Vox Africa
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/339.ts
-#EXTINF:0,Afr:TVC News
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1314.ts
-#EXTINF:0,Afr:ETN ElShaddai
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1355.ts
-#EXTINF:0,Afr:Mar-Cil TV+
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1405.ts
-#EXTINF:0,Afr:TIGRAI  TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1339.ts
-#EXTINF:0,Afr:Oromia TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1436.ts
-#EXTINF:0,Afr:ETN El Shaddai
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1042.ts
-#EXTINF:0,Afr:HEESO SOMALI
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/180.ts
-#EXTINF:0,Afr:SNTV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/164.ts
-#EXTINF:0,Afr:Ashorooq Tv
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/106.ts
-#EXTINF:0,Afr:Al Sharqiya KabalaTV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/755.ts
-#EXTINF:0,Afr:Berbere Radio
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1315.ts
-#EXTINF:0,Afr:Berbere Jeunesse
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1318.ts
-#EXTINF:0,Afr:Olive TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/807.ts
-#EXTINF:0,Afr:Amhara TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/565.ts
-#EXTINF:0,Afr:IXIR Sudan
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/922.ts
-#EXTINF:0,Afr:Universal Somali
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1320.ts
-#EXTINF:0,Afr:Tele Tchad
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1350.ts
-#EXTINF:0,Afr:Tayba TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1340.ts
-#EXTINF:0,Afr:MTA Africa
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1374.ts
-#EXTINF:0,Afr:Sudania 24
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1518.ts
-#EXTINF:0,Afr:Sudan TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1334.ts
-#EXTINF:0,Afr:Sudan OUS
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1382.ts
-#EXTINF:0,Afr:Sudania 24 HD
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1373.ts
-#EXTINF:0,Afr:Sudan Drama
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1368.ts
-#EXTINF:0,Afr:Somali Cable
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1322.ts
-#EXTINF:0,Afr:Neelain Sport
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1367.ts
-#EXTINF:0,Afr:MTN Tafawoq
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1375.ts
-#EXTINF:0,Afr:KANA TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1346.ts
-#EXTINF:0,Afr:HCTV Somali
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1325.ts
-#EXTINF:0,Afr:EBC Somali TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1324.ts
-#EXTINF:0,Afr:EBC 3
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1400.ts
-#EXTINF:0,Afr:Blue Nile TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1344.ts
-#EXTINF:0,Afr:Africa TV4
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1372.ts
-#EXTINF:0,Afr:Africa TV3
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1371.ts
-#EXTINF:0,Afr:Africa TV2
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1370.ts
-#EXTINF:0,Afr:Africa TV1
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1369.ts
-#EXTINF:0,Afr:Eriteria TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/245.ts
-#EXTINF:0,Afr:Southern TV
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/1479.ts
-#EXTINF:0,Afr:Sudan Monwaat
-http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/919.ts
+#EXTINF:0,ORF1
+http://www.zeebra.tv:8000/live/Next88/Next88/2431.ts
+#EXTINF:0,ORF2
+http://www.zeebra.tv:8000/live/Next88/Next88/2430.ts
+#EXTINF:0,PRO 7
+http://www.zeebra.tv:8000/live/Next88/Next88/2424.ts
+#EXTINF:0,Kabel 1
+http://www.zeebra.tv:8000/live/Next88/Next88/2475.ts
+#EXTINF:0,ARD
+http://www.zeebra.tv:8000/live/Next88/Next88/2419.ts
+#EXTINF:0,ZDF
+http://www.zeebra.tv:8000/live/Next88/Next88/2418.ts
+#EXTINF:0,VOX
+http://www.zeebra.tv:8000/live/Next88/Next88/2422.ts
+#EXTINF:0,Sat1
+http://www.zeebra.tv:8000/live/Next88/Next88/2426.ts
+#EXTINF:0,RTL
+http://www.zeebra.tv:8000/live/Next88/Next88/2428.ts
+#EXTINF:0,RTL2
+http://www.zeebra.tv:8000/live/Next88/Next88/2427.ts
+#EXTINF:0,SUPER RTL
+http://www.zeebra.tv:8000/live/Next88/Next88/3522.ts
+#EXTINF:0,RTL PASSION HD
+http://www.zeebra.tv:8000/live/Next88/Next88/3524.ts
+#EXTINF:0,AXN
+http://www.zeebra.tv:8000/live/Next88/Next88/2429.ts
+#EXTINF:0,Sixx
+http://www.zeebra.tv:8000/live/Next88/Next88/2423.ts
+#EXTINF:0,FOX
+http://www.zeebra.tv:8000/live/Next88/Next88/2420.ts
+#EXTINF:0,ARTE
+http://www.zeebra.tv:8000/live/Next88/Next88/3521.ts
+#EXTINF:0,PRO MAX 7
+http://www.zeebra.tv:8000/live/Next88/Next88/3523.ts
+#EXTINF:0,DE:13th Street 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3989.ts
+#EXTINF:0,DE:3Sat 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3990.ts
+#EXTINF:0,DE:Arte 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3991.ts
+#EXTINF:0,DE:Das Erste 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3992.ts
+#EXTINF:0,DE:Discovery 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3993.ts
+#EXTINF:0,DE:Disney Cinemacig 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3994.ts
+#EXTINF:0,DE:Disney Junior 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3995.ts
+#EXTINF:0,DE:E! Entertainment 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3996.ts
+#EXTINF:0,DE:Europort 2 Xtra 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3997.ts
+#EXTINF:0,DE:Eurosport 1 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3998.ts
+#EXTINF:0,DE:Eurosport 2 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3999.ts
+#EXTINF:0,DE:Fox 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4000.ts
+#EXTINF:0,DE:History 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4001.ts
+#EXTINF:0,DE:Kabel Eins 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4002.ts
+#EXTINF:0,DE:KiKa 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4003.ts
+#EXTINF:0,DE:Nat Geo 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4004.ts
+#EXTINF:0,DE:Nat Geo Wild 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4005.ts
+#EXTINF:0,DE:One 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4006.ts
+#EXTINF:0,DE:Phoenix 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4007.ts
+#EXTINF:0,DE:Pro 7 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4008.ts
+#EXTINF:0,DE:RBB 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4009.ts
+#EXTINF:0,DE:RTL 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4010.ts
+#EXTINF:0,DE:RTL Crime 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4011.ts
+#EXTINF:0,DE:Sat 1 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4012.ts
+#EXTINF:0,DE:Servus TV 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4013.ts
+#EXTINF:0,DE:Sky Sport 1 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4014.ts
+#EXTINF:0,DE:Sky Sport 2 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4015.ts
+#EXTINF:0,DE:Sky Sport Bundesliga 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4016.ts
+#EXTINF:0,DE:Spiegel Gesichte 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4017.ts
+#EXTINF:0,DE:SyFy 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4018.ts
+#EXTINF:0,DE:TNT Comedy 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4019.ts
+#EXTINF:0,DE:TNT Serie 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3983.ts
+#EXTINF:0,DE:VOX 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3984.ts
+#EXTINF:0,DE:ZDF 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3985.ts
+#EXTINF:0,DE:ZDF Info 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3986.ts
+#EXTINF:0,DE:ZDF Neo 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3987.ts
+#EXTINF:0,DE:Zee One 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/3988.ts
+#EXTINF:0,BAYERN FC TV 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4215.ts
+#EXTINF:0,MUTV 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4216.ts
+#EXTINF:0,STAR GOLD 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4232.ts
+#EXTINF:0,COLORS INFINITY 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4231.ts
+#EXTINF:0,STAR SPORTS 2 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4233.ts
+#EXTINF:0,STAR SPORTS SELECT 2 4K
+http://www.zeebra.tv:8000/live/Next88/Next88/4234.ts
+#EXTINF:0,------- SKY DE CH --------
+http://www.zeebra.tv:8000/live/Next88/Next88/2384.ts
+#EXTINF:0,SKY SPORT HD 1
+http://www.zeebra.tv:8000/live/Next88/Next88/2322.ts
+#EXTINF:0,SKY SPORT HD 2
+http://www.zeebra.tv:8000/live/Next88/Next88/2323.ts
+#EXTINF:0,Sky Bundesliga 1HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2425.ts
+#EXTINF:0,SKY CINEMA HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2859.ts
+#EXTINF:0,SKY CINEMA 1HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2866.ts
+#EXTINF:0,SKY CINEMA 24HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2860.ts
+#EXTINF:0,SKY HITS
+http://www.zeebra.tv:8000/live/Next88/Next88/2849.ts
+#EXTINF:0,SKY EMOTION
+http://www.zeebra.tv:8000/live/Next88/Next88/2855.ts
+#EXTINF:0,SKY COMEDY HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2858.ts
+#EXTINF:0,SKY ATLANTIC HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2850.ts
+#EXTINF:0,SKY KRIMI HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2854.ts
+#EXTINF:0,SKY MGM HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2853.ts
+#EXTINF:0,SKY SELECT 1 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2865.ts
+#EXTINF:0,SKY SELECT 2 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2864.ts
+#EXTINF:0,SKY SELECT 3 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2863.ts
+#EXTINF:0,SKY SELECT 4 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2862.ts
+#EXTINF:0,SKY SELECT 5 HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2861.ts
+#EXTINF:0,SKY NATGEO WILD HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2852.ts
+#EXTINF:0,SKY NATIONAL GEOGRAPHIC HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2851.ts
+#EXTINF:0,SKY DISCOVERY CHANNEL HD
+http://www.zeebra.tv:8000/live/Next88/Next88/2857.ts
+#EXTINF:0,SKY DISNEY CINEMAGIC
+http://www.zeebra.tv:8000/live/Next88/Next88/2856.ts
+#EXTINF:0,SKY 13 STREET HD
+http://www.zeebra.tv:8000/live/Next88/Next88/3525.ts
 
