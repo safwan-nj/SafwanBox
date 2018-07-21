@@ -1125,170 +1125,105 @@ http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/252.ts
 http://srvt.topiptv.org:80/live/Free-V1.Acc@Austria/Au0980Y/247.ts
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="DEUTSCH",======DEUTSCH=======
 http://bit.ly/safwanlogo
-#EXTINF:0,ORF1
-http://www.zeebra.tv:8000/live/Next88/Next88/2431.ts
-#EXTINF:0,ORF2
-http://www.zeebra.tv:8000/live/Next88/Next88/2430.ts
-#EXTINF:0,PRO 7
-http://www.zeebra.tv:8000/live/Next88/Next88/2424.ts
-#EXTINF:0,Kabel 1
-http://www.zeebra.tv:8000/live/Next88/Next88/2475.ts
-#EXTINF:0,ARD
-http://www.zeebra.tv:8000/live/Next88/Next88/2419.ts
-#EXTINF:0,ZDF
-http://www.zeebra.tv:8000/live/Next88/Next88/2418.ts
-#EXTINF:0,VOX
-http://www.zeebra.tv:8000/live/Next88/Next88/2422.ts
-#EXTINF:0,Sat1
-http://www.zeebra.tv:8000/live/Next88/Next88/2426.ts
-#EXTINF:0,RTL
-http://www.zeebra.tv:8000/live/Next88/Next88/2428.ts
-#EXTINF:0,RTL2
-http://www.zeebra.tv:8000/live/Next88/Next88/2427.ts
-#EXTINF:0,SUPER RTL
-http://www.zeebra.tv:8000/live/Next88/Next88/3522.ts
-#EXTINF:0,RTL PASSION HD
-http://www.zeebra.tv:8000/live/Next88/Next88/3524.ts
-#EXTINF:0,AXN
-http://www.zeebra.tv:8000/live/Next88/Next88/2429.ts
-#EXTINF:0,Sixx
-http://www.zeebra.tv:8000/live/Next88/Next88/2423.ts
-#EXTINF:0,FOX
-http://www.zeebra.tv:8000/live/Next88/Next88/2420.ts
-#EXTINF:0,ARTE
-http://www.zeebra.tv:8000/live/Next88/Next88/3521.ts
-#EXTINF:0,PRO MAX 7
-http://www.zeebra.tv:8000/live/Next88/Next88/3523.ts
-#EXTINF:0,DE:13th Street 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3989.ts
-#EXTINF:0,DE:3Sat 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3990.ts
-#EXTINF:0,DE:Arte 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3991.ts
-#EXTINF:0,DE:Das Erste 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3992.ts
-#EXTINF:0,DE:Discovery 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3993.ts
-#EXTINF:0,DE:Disney Cinemacig 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3994.ts
-#EXTINF:0,DE:Disney Junior 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3995.ts
-#EXTINF:0,DE:E! Entertainment 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3996.ts
-#EXTINF:0,DE:Europort 2 Xtra 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3997.ts
-#EXTINF:0,DE:Eurosport 1 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3998.ts
-#EXTINF:0,DE:Eurosport 2 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3999.ts
-#EXTINF:0,DE:Fox 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4000.ts
-#EXTINF:0,DE:History 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4001.ts
-#EXTINF:0,DE:Kabel Eins 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4002.ts
-#EXTINF:0,DE:KiKa 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4003.ts
-#EXTINF:0,DE:Nat Geo 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4004.ts
-#EXTINF:0,DE:Nat Geo Wild 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4005.ts
-#EXTINF:0,DE:One 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4006.ts
-#EXTINF:0,DE:Phoenix 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4007.ts
-#EXTINF:0,DE:Pro 7 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4008.ts
-#EXTINF:0,DE:RBB 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4009.ts
-#EXTINF:0,DE:RTL 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4010.ts
-#EXTINF:0,DE:RTL Crime 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4011.ts
-#EXTINF:0,DE:Sat 1 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4012.ts
-#EXTINF:0,DE:Servus TV 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4013.ts
-#EXTINF:0,DE:Sky Sport 1 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4014.ts
-#EXTINF:0,DE:Sky Sport 2 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4015.ts
-#EXTINF:0,DE:Sky Sport Bundesliga 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4016.ts
-#EXTINF:0,DE:Spiegel Gesichte 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4017.ts
-#EXTINF:0,DE:SyFy 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4018.ts
-#EXTINF:0,DE:TNT Comedy 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4019.ts
-#EXTINF:0,DE:TNT Serie 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3983.ts
-#EXTINF:0,DE:VOX 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3984.ts
-#EXTINF:0,DE:ZDF 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3985.ts
-#EXTINF:0,DE:ZDF Info 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3986.ts
-#EXTINF:0,DE:ZDF Neo 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3987.ts
-#EXTINF:0,DE:Zee One 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/3988.ts
-#EXTINF:0,BAYERN FC TV 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4215.ts
-#EXTINF:0,MUTV 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4216.ts
-#EXTINF:0,STAR GOLD 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4232.ts
-#EXTINF:0,COLORS INFINITY 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4231.ts
-#EXTINF:0,STAR SPORTS 2 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4233.ts
-#EXTINF:0,STAR SPORTS SELECT 2 4K
-http://www.zeebra.tv:8000/live/Next88/Next88/4234.ts
-#EXTINF:0,------- SKY DE CH --------
-http://www.zeebra.tv:8000/live/Next88/Next88/2384.ts
-#EXTINF:0,SKY SPORT HD 1
-http://www.zeebra.tv:8000/live/Next88/Next88/2322.ts
-#EXTINF:0,SKY SPORT HD 2
-http://www.zeebra.tv:8000/live/Next88/Next88/2323.ts
-#EXTINF:0,Sky Bundesliga 1HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2425.ts
-#EXTINF:0,SKY CINEMA HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2859.ts
-#EXTINF:0,SKY CINEMA 1HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2866.ts
-#EXTINF:0,SKY CINEMA 24HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2860.ts
-#EXTINF:0,SKY HITS
-http://www.zeebra.tv:8000/live/Next88/Next88/2849.ts
-#EXTINF:0,SKY EMOTION
-http://www.zeebra.tv:8000/live/Next88/Next88/2855.ts
-#EXTINF:0,SKY COMEDY HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2858.ts
-#EXTINF:0,SKY ATLANTIC HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2850.ts
-#EXTINF:0,SKY KRIMI HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2854.ts
-#EXTINF:0,SKY MGM HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2853.ts
-#EXTINF:0,SKY SELECT 1 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2865.ts
-#EXTINF:0,SKY SELECT 2 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2864.ts
-#EXTINF:0,SKY SELECT 3 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2863.ts
-#EXTINF:0,SKY SELECT 4 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2862.ts
-#EXTINF:0,SKY SELECT 5 HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2861.ts
-#EXTINF:0,SKY NATGEO WILD HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2852.ts
-#EXTINF:0,SKY NATIONAL GEOGRAPHIC HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2851.ts
-#EXTINF:0,SKY DISCOVERY CHANNEL HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2857.ts
-#EXTINF:0,SKY DISNEY CINEMAGIC
-http://www.zeebra.tv:8000/live/Next88/Next88/2856.ts
-#EXTINF:0,SKY 13 STREET HD
-http://www.zeebra.tv:8000/live/Next88/Next88/3525.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" ,1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png" ,3Sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png" ,ALEX Berlin
+http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png" ,Allgau TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" ,Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" ,Bayerischer Rundfunk (Opt-1)
+https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" ,Blizz TV
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7wABSuo.png" ,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firmenpresse.de/adpics/501621.jpg" ,Der Aktionar TV
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" ,Deutsche Welle (Opt-1)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" ,Deutsche Welle (Opt-2)
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" ,Deutsche Welle (Opt-3)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/wixedx.jpg" ,Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" ,Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" ,EOTV
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/B-ddZjpJ.png" ,Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" ,Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg" ,Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" ,HR Fernsehen
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" ,INTV
+https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" ,Isar TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" ,MagentaMusik 360
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hms-dev.com/images/logos/references/mdf1_rbw.png" ,MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" ,Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" ,Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.otv.de/wp-content/themes/otv/img/logo.png" ,Oberpfalz TV
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" ,Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" ,pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" ,RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" ,Rheinmain TV
+http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png" ,Sky Sport News
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/1zcz428.jpg" ,tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg" ,TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png" ,TV Berlin
+http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teamkral.de/uploads/pics/tvo20logo_01.jpg" ,TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg" ,TV Touring Schweinfurt
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg" ,TV Touring Wurzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" ,WDR Fernsehen
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Welt-der-Wunder.jpg" ,Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png" ,Austria 24 [NoRoku]
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png" ,Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 1 [Geo]
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 2 [NoKodi]
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 3 [NoKodi]
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF Sport (Geo)
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" ,ORF Sport + (Geo)
+http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" ,Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stream2watch.cc/images/streams/600x400/14637428725379.png" ,W24
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg",RTL
+http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
