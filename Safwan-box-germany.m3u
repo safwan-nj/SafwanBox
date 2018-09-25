@@ -12,10 +12,14 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1292.ts
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1338.ts
 #EXTINF:0,Ar:I-Sat Comedy
 http://streaming.i-sat.tv:1935/live/hayat/chunklist.m3u8
-#EXTINF:0,AR:NOUR ALSHAM
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1331.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/UgJxPg",Syria is here
+http://5.39.218.151:1984/live/ch1.m3u8
 #EXTINF:0,AR:Al-KhabarTV
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1020.ts
+#EXTINF:0,Ar:Souria Tv
+http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
+#EXTINF:0,AR:NOUR ALSHAM
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1331.ts
 #EXTINF:0,Ar:Halab Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 #EXTINF:0,Ar:ORIENT
@@ -42,10 +46,7 @@ http://82.137.248.16:1935/Ugarit/stream25042018/chunklist.m3u8
 http://82.137.248.16:1935/SEdu/stream25042018/chunklist.m3u8
 #EXTINF:0,Ar:Syria Nour Official
 http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/UgJxPg",Syria is here
-http://5.39.218.151:1984/live/ch1.m3u8
-#EXTINF:0,Ar:Souria Tv
-http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/n3d6Yu" group-title="LEBANON",======LEBANON======
