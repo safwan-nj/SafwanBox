@@ -12,24 +12,16 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1292.ts
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1338.ts
 #EXTINF:0,Ar:I-Sat Comedy
 http://streaming.i-sat.tv:1935/live/hayat/chunklist.m3u8
-#EXTINF:0,Ar:Namsa Tv
-http://78.129.184.15:34546/streaming/stream/playlist.m3u8
 #EXTINF:0,AR:NOUR ALSHAM
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1331.ts
 #EXTINF:0,AR:Al-KhabarTV
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1020.ts
-#EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
-http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
 #EXTINF:0,Ar:Halab Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 #EXTINF:0,Ar:ORIENT
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/80.ts
 #EXTINF:0,Ar:Dorar TV
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1376.ts
-#EXTINF:0,AR:Al Jisr TV
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1052.ts
-#EXTINF:0,Ar:SHADA AL HURRIEH TV
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1023.ts
 #EXTINF:0,Ar:ANN
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/192.ts
 #EXTINF:0,Ar:Halab Today
@@ -57,16 +49,6 @@ http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/zeScPP",Qamishlo
 http://itats.dynv6.net:1935/live/Qamishlo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/tUJVbD",Radio Damascus
-http://82.137.248.20:1935/RDimshq/RDimshqLive/chunklist_w631063346.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/CsyaLP",Radio Sawt Alshabab
-http://82.137.248.20:1935/RShabab/RShababLive/chunklist_w96167931.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Dgddjq",Radio Amwaj
-http://82.137.248.20:1935/RAmwaj/RAmwajLive/chunklist_w710179176.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/9mykra",Radio Zanobia
-http://82.137.248.20:1935/RZenobia/RZenobiaLive/chunklist_w1279437512.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/27d5c2",Radio Sham FM
-http://shamfm.info:8200/;
 
 #EXTINF:-1 tvg-logo="https://goo.gl/n3d6Yu" group-title="LEBANON",======LEBANON======
 http://bit.ly/safwanlogo
@@ -80,8 +62,6 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/198.ts
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/197.ts
 #EXTINF:0,Ar:OTV
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/272.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/CXxkJW",NBN
-http://youness-export.com/tv/nbn
 #EXTINF:0,Ar:Future TV
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/177.ts
 #EXTINF:0,Ar:Lebanon TV
@@ -94,8 +74,7 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/82.ts
 http://bit.ly/safwanlogo
 #EXTINF:0,Ar:Rotana Cinema EGY
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/280.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/ZoEbxG",Rotana cinema 1
-http://selevision9896-i.akamaihd.net/hls/live/219378/98961/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/8ATo9a",Rotana aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/master.m3u8
 #EXTINF:0,Ar:Rotana Classic
@@ -470,148 +449,46 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/173.ts
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/261.ts
 #EXTINF:0,Ar:Aghani TV
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1428.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/iYB8Qz" group-title="WorldCup 2018",======WorldCup 2018=========
+#EXTINF:-1 tvg-logo="https://goo.gl/iYB8Qz" group-title="BeIn Sports",======BeIn Sports=========
 http://bit.ly/safwanlogo
-#EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
-http://178.162.204.47:1935/fifa/fifa/chunklist.m3u8
-
-#EXTINF:0,Gld:BEINSPORTS MAX1HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2070.ts
-#EXTINF:0,Gld:BEINSPORTS MAX1SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2069.ts
-#EXTINF:0,Gld:BEINSPORTS MAX1 EG
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2058.ts
-#EXTINF:0,Gld:BEINSPORTS MAX2HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2068.ts
-#EXTINF:0,Gld:BEINSPORTS MAX2SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2067.ts
-#EXTINF:0,Gld:Bein Max 2 EG
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1929.ts
-#EXTINF:0,Gld:BEINSPORTS MAX3HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2066.ts
-#EXTINF:0,Gld:BEINSPORTS MAX3SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2065.ts
-#EXTINF:0,Gld:BEINSPORTS MAX4HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2064.ts
-#EXTINF:0,Gld:BEINSPORTS MAX4SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2063.ts
-#EXTINF:0,Gld:BEINSPORTS MAX4 EG
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1847.ts
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/iYB8Qz" group-title="BeIn HD2",======BeIn HD2=========
-http://bit.ly/safwanlogo
-#EXTINF:0 tvg-logo="https://goo.gl/gFcx9J",BeIN SPORTS HD1 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts
-#EXTINF:0 tvg-logo="https://goo.gl/UHxrLZ",BeIN SPORTS HD2 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5137.ts
-#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",BeIN SPORTS HD3 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5138.ts
-#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",BeIN SPORTS HD4 MAX
-http://www.zeebra.tv:8000/live/Next88/Next88/5139.ts
-
-#EXTINF:0,beIN SPORTS 1HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1675.ts
-#EXTINF:0,beIN SPORTS 1HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1791.ts
-#EXTINF:0,beIN SPORTS 2HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1674.ts
-#EXTINF:0,beIN SPORTS 2HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1777.ts
-#EXTINF:0,beIN SPORTS 3HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1566.ts
-#EXTINF:0,beIN SPORTS 3HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1776.ts
-#EXTINF:0,beIN SPORTS 4HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1565.ts
-#EXTINF:0,beIN SPORTS 4HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1775.ts
-#EXTINF:0,beIN SPORTS 5HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1564.ts
-#EXTINF:0,beIN SPORTS 5HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1773.ts
-#EXTINF:0,beIN SPORTS 6HD
-http://www.zeebra.tv:8000/live/Next88/Next88/1563.ts
-#EXTINF:0,beIN SPORTS 6HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1772.ts
-#EXTINF:0,beIN SPORTS 7HD
-http://www.zeebra.tv:8000/live/Next88/Next88/487.ts
-#EXTINF:0,beIN SPORTS 7HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1679.ts
-#EXTINF:0,beIN SPORTS 8HD
-http://www.zeebra.tv:8000/live/Next88/Next88/10.ts
-#EXTINF:0,beIN SPORTS 8HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1678.ts
-#EXTINF:0,beIN SPORTS 9HD
-http://www.zeebra.tv:8000/live/Next88/Next88/9.ts
-#EXTINF:0,beIN SPORTS 9HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1677.ts
-#EXTINF:0,beIN SPORTS 10HD
-http://www.zeebra.tv:8000/live/Next88/Next88/8.ts
-#EXTINF:0,beIN SPORTS 10HD+
-http://www.zeebra.tv:8000/live/Next88/Next88/1676.ts
-#EXTINF:0,beIN SPORTS 11 EN HD
-http://www.zeebra.tv:8000/live/Next88/Next88/7.ts
-#EXTINF:0,beIN SPORTS 12 EN HD
-http://www.zeebra.tv:8000/live/Next88/Next88/6.ts
-#EXTINF:0,beIN SPORTS 13 FR HD
-http://www.zeebra.tv:8000/live/Next88/Next88/5.ts
-#EXTINF:0,beIN SPORTS 14 FR HD
-http://www.zeebra.tv:8000/live/Next88/Next88/4.ts
-#EXTINF:0,beIN SPORTS 15 ES HD
-http://www.zeebra.tv:8000/live/Next88/Next88/3.ts
-#EXTINF:0,beIN SPORTS 16 FR HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2.ts
-#EXTINF:0,beIN SPORTS 17 ES HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2917.ts
-#EXTINF:0,beIN SPORTS NBA HD
-http://www.zeebra.tv:8000/live/Next88/Next88/3066.ts
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/iYB8Qz" group-title="BeIN HD2",======BeIN HD2=========
-http://bit.ly/safwanlogo
-#EXTINF:0,BeinSport 2 HD
+#EXTINF:-1,AR:BEINSPORT 1 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/940.ts
+#EXTINF:-1,BeinSport 2 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/31.ts
-#EXTINF:0,BeinSport 3 HD
+#EXTINF:-1,AR:BEINSPORT 2 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/938.ts
+#EXTINF:-1,BeinSport 3 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/32.ts
-#EXTINF:0,BeinSport 4 HD
+#EXTINF:-1,AR:BEINSPORT 3 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/937.ts
+#EXTINF:-1,BeinSport 4 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/33.ts
-#EXTINF:0,BeinSport 5 HD
+#EXTINF:-1,AR:BEINSPORT 4 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/936.ts
+#EXTINF:-1,BeinSport 5 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/34.ts
-#EXTINF:0,BeinSport 6 HD
+#EXTINF:-1,AR:BEINSPORT 5 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/935.ts
+#EXTINF:-1,BeinSport 6 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/35.ts
-#EXTINF:0,BeinSport 7 HD
+#EXTINF:-1,AR:BEINSPORT 6 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/934.ts
+#EXTINF:-1,BeinSport 7 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/36.ts
-#EXTINF:0,BeinSport 8 HD
+#EXTINF:-1,AR:BEINSPORT 7 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/933.ts
+#EXTINF:-1,BeinSport 8 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/37.ts
-#EXTINF:0,BeinSport 9 HD
+#EXTINF:-1,AR:BEINSPORT 8 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/932.ts
+#EXTINF:-1,BeinSport 9 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/38.ts
-#EXTINF:0,BeinSport 10 HD
+#EXTINF:-1,AR:BEINSPORT 9 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/931.ts
+#EXTINF:-1,BeinSport 10 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/39.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/iYB8Qz" group-title="BeIN SD",======BeIN SD=========
-http://bit.ly/safwanlogo
-#EXTINF:0,bein 1 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/121.ts
-#EXTINF:0,bein 10 sd
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/113.ts
-#EXTINF:0,bein 9 sd
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/137.ts
-#EXTINF:0,Bein 2 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/123.ts
-#EXTINF:0,Bein 3 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/125.ts
-#EXTINF:0,Bein 4 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/127.ts
-#EXTINF:0,Bein 5 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/129.ts
-#EXTINF:0,Bein 6 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/131.ts
-#EXTINF:0,Bein 7 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/133.ts
-#EXTINF:0,bein 8 sd
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/135.ts
-#EXTINF:0,Bein 11 SD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/115.ts
+#EXTINF:-1,AR:BEINSPORT 10 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/939.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/1LDg4S" group-title="CHILDREN",======CHILDREN=======
 http://bit.ly/safwanlogo
 #EXTINF:0,Ar:TOYOR AL JANAH
@@ -1125,6 +1002,168 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/252.ts
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/247.ts
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="DEUTSCH",======DEUTSCH=======
 http://bit.ly/safwanlogo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 1 [Geo]
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 2 [NoKodi]
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 3 [NoKodi]
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF Sport (Geo)
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1,DE:ZDF Neo
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1489.ts
+#EXTINF:-1,DE:SIXX HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1490.ts
+#EXTINF:-1,DE:ZDF info
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1491.ts
+#EXTINF:-1,DE:ZDF HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1492.ts
+#EXTINF:-1,DE:ZDF 3 SAT
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1493.ts
+#EXTINF:-1,DE:Sky Cinema Star Wars
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1496.ts
+#EXTINF:-1,DE:VIVA Comedy
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/1731.ts
+#EXTINF:-1,DE:Animal Planet HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2138.ts
+#EXTINF:-1,DE:AXN HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2137.ts
+#EXTINF:-1,DE:Discovery Chanel
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2136.ts
+#EXTINF:-1,DE:DMAX HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2135.ts
+#EXTINF:-1,DE:Eurosport 1 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2134.ts
+#EXTINF:-1,DE:Eurosport 2 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2133.ts
+#EXTINF:-1,DE:Eurosport 2 Xtra HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2132.ts
+#EXTINF:-1,DE:KABEL 1 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2131.ts
+#EXTINF:-1,DE:Kinowelt
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2130.ts
+#EXTINF:-1,DE:Kinowelt HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2129.ts
+#EXTINF:-1,DE:PRO 7 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2128.ts
+#EXTINF:-1,DE:RTL 2 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2127.ts
+#EXTINF:-1,DE:Rtl Crime
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2126.ts
+#EXTINF:-1,DE:RTL CRIME HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2125.ts
+#EXTINF:-1,DE:RTL HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2124.ts
+#EXTINF:-1,DE:Rtl Passion
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2123.ts
+#EXTINF:-1,DE:SAT 1 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2122.ts
+#EXTINF:-1,DE:SKY 1 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2121.ts
+#EXTINF:-1,DE:Sky 13th Street
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2120.ts
+#EXTINF:-1,DE:SKY 13TH STREET HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2119.ts
+#EXTINF:-1,DE:Sky Action
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2118.ts
+#EXTINF:-1,DE:SKY ACTION HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2117.ts
+#EXTINF:-1,DE:SKY ARTS HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2116.ts
+#EXTINF:-1,DE:SKY ATLANTIC
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2115.ts
+#EXTINF:-1,DE:SKY ATLANTIC HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2114.ts
+#EXTINF:-1,DE:SKY Boomerang
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2113.ts
+#EXTINF:-1,DE:SKY Cartoon Network
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2112.ts
+#EXTINF:-1,DE:Sky Cinema
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2111.ts
+#EXTINF:-1,DE:Sky Cinema 1
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2110.ts
+#EXTINF:-1,DE:SKY CINEMA 1  HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2109.ts
+#EXTINF:-1,DE:Sky Cinema 24
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2108.ts
+#EXTINF:-1,DE:SKY CINEMA 24  HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2107.ts
+#EXTINF:-1,DE:SKY CINEMA HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2106.ts
+#EXTINF:-1,DE:Sky Comedy
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2105.ts
+#EXTINF:-1,DE:SKY DISCOVERY CHANNEL HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2104.ts
+#EXTINF:-1,DE:Sky Disney Cinemagic
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2103.ts
+#EXTINF:-1,DE:SKY DISNEY CINEMAGIC HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2102.ts
+#EXTINF:-1,DE:Sky Disney Junior
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2101.ts
+#EXTINF:-1,DE:SKY DISNEY JUNIOR HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2100.ts
+#EXTINF:-1,DE:Sky Disney XD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2099.ts
+#EXTINF:-1,DE:SKY E! Entertainment HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2098.ts
+#EXTINF:-1,DE:Sky Emotion
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2097.ts
+#EXTINF:-1,DE:SKY FAMILY HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2096.ts
+#EXTINF:-1,DE:SKY FOX HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2095.ts
+#EXTINF:-1,DE:Sky Fox Serie
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2094.ts
+#EXTINF:-1,DE:Sky Heimatkanal
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2093.ts
+#EXTINF:-1,DE:SKY HISTORY HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2092.ts
+#EXTINF:-1,DE:Sky Hits
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2091.ts
+#EXTINF:-1,DE:Sky Junior
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2090.ts
+#EXTINF:-1,DE:Sky Krimi
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2089.ts
+#EXTINF:-1,DE:Sky NatGeo Wild
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2088.ts
+#EXTINF:-1,DE:Sky National Geographic
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2087.ts
+#EXTINF:-1,DE:SKY NATIONAL GEOGRAPHIC CHANNEL HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2086.ts
+#EXTINF:-1,DE:Sky Sport 1
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2085.ts
+#EXTINF:-1,DE:SKY SPORT 1 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2084.ts
+#EXTINF:-1,DE:Sky Sport 2
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2083.ts
+#EXTINF:-1,DE:SKY SPORT 2 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2082.ts
+#EXTINF:-1,DE:SKY Sport 3
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2081.ts
+#EXTINF:-1,DE:Sky Sport Austria
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2080.ts
+#EXTINF:-1,DE:SKY SPORT NEWS HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2079.ts
+#EXTINF:-1,DE:Sky Syfy
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2078.ts
+#EXTINF:-1,DE:SKY SYFY HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2077.ts
+#EXTINF:-1,DE:SKY TNT COMEDY HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2076.ts
+#EXTINF:-1,DE:SKY TNT FILM HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2075.ts
+#EXTINF:-1,DE:Sky TNT Serie
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2074.ts
+#EXTINF:-1,DE:SKY TNT SERIE HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2073.ts
+#EXTINF:-1,DE:SKY UNIVERSAL HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2072.ts
+#EXTINF:-1,DE:VOX HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx..V-New/App65080/2071.ts
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" ,1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png" ,3Sat
@@ -1211,14 +1250,6 @@ http://ios-stream.qvc.de/qvc.m3u8
 rtmp://streaming.austria24.tv/live/stream_360p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png" ,Okto TV
 http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 1 [Geo]
-http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 2 [NoKodi]
-http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF 3 [NoKodi]
-http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" ,ORF Sport (Geo)
-http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" ,ORF Sport + (Geo)
 http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" ,Tirol TV
