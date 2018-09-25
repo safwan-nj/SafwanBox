@@ -46,8 +46,6 @@ http://82.137.248.16:1935/Nour/stream25042018/chunklist.m3u8
 http://5.39.218.151:1984/live/ch1.m3u8
 #EXTINF:0,Ar:Souria Tv
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/zeScPP",Qamishlo
-http://itats.dynv6.net:1935/live/Qamishlo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/n3d6Yu" group-title="LEBANON",======LEBANON======
