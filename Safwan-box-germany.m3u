@@ -37,8 +37,98 @@ http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1,########## Arabic ##########
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5918
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="ROTANA",======ROTANA=======
+http://bit.ly/Safwanlogo
+#EXTINF:-1,Rotana ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14832
+#EXTINF:-1,Rotana Aflam ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14831
+#EXTINF:-1,Rotana Cinema AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5795
+#EXTINF:-1,Rotana Cinema EGY ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14830
+#EXTINF:-1,Rotana Cinema HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14828
+#EXTINF:-1,Rotana Cinema KSA ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14829
+#EXTINF:-1,Rotana Classic AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5796
+#EXTINF:-1,Rotana Classic HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14827
+#EXTINF:-1,Rotana Clip AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5798
+#EXTINF:-1,Rotana Khalijiah AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5797
+#EXTINF:-1,Rotana Khalyjia AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8942
+#EXTINF:-1,Rotana Masria HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14826
+#EXTINF:-1,Rotana Masriya AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5793
+#EXTINF:-1,Rotana Music AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5799
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="MBC",======MBC=======
+http://bit.ly/Safwanlogo
+#EXTINF:-1,MBC 1 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5876
+#EXTINF:-1,MBC 2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5875
+#EXTINF:-1,MBC 2 HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14845
+#EXTINF:-1,MBC 3 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4153
+#EXTINF:-1,MBC 3 HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14769
+#EXTINF:-1,MBC 4 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5873
+#EXTINF:-1,MBC 4 FHD AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4152
+#EXTINF:-1,MBC 4 HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14842
+#EXTINF:-1,MBC Action AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5871
+#EXTINF:-1,MBC Action HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14844
+#EXTINF:-1,MBC Bollywood AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5869
+#EXTINF:-1,MBC Drama AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5870
+#EXTINF:-1,MBC Drama HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14841
+#EXTINF:-1,MBC Drama Plus ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14847
+#EXTINF:-1,MBC HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14846
+#EXTINF:-1,MBC Masr 2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4148
+#EXTINF:-1,MBC Masr AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5868
+#EXTINF:-1,MBC Max AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5872
+#EXTINF:-1,MBC Max HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14843
+#EXTINF:-1,MBC Pro Sport 1 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5880
+#EXTINF:-1,MBC Pro Sport 2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5879
+#EXTINF:-1,MBC Pro Sport 3 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5878
+#EXTINF:-1,MBC Pro Sport 4 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5877
+#EXTINF:-1,MBC Sports 2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8847
+#EXTINF:-1,MBC Sports 3 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8846
+#EXTINF:-1,MBC Sports Pro1 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8933
+#EXTINF:-1,MBC Sports Pro2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8934
+#EXTINF:-1,MBC Sports Pro3 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8935
+#EXTINF:-1,MBC Variety AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5866
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Arabic",======Arabic=======
+http://bit.ly/Safwanlogo
 #EXTINF:-1,218 TV Libye AR
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8889
 #EXTINF:-1,2m Maroc AR
@@ -537,64 +627,7 @@ http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14798
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5783
 #EXTINF:-1,MBA Masr 2 AR
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5867
-#EXTINF:-1,MBC 1 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5876
-#EXTINF:-1,MBC 2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5875
-#EXTINF:-1,MBC 2 HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14845
-#EXTINF:-1,MBC 3 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4153
-#EXTINF:-1,MBC 3 HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14769
-#EXTINF:-1,MBC 4 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5873
-#EXTINF:-1,MBC 4 FHD AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4152
-#EXTINF:-1,MBC 4 HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14842
-#EXTINF:-1,MBC Action AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5871
-#EXTINF:-1,MBC Action HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14844
-#EXTINF:-1,MBC Bollywood AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5869
-#EXTINF:-1,MBC Drama AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5870
-#EXTINF:-1,MBC Drama HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14841
-#EXTINF:-1,MBC Drama Plus ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14847
-#EXTINF:-1,MBC HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14846
-#EXTINF:-1,MBC Masr 2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4148
-#EXTINF:-1,MBC Masr AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5868
-#EXTINF:-1,MBC Max AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5872
-#EXTINF:-1,MBC Max HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14843
-#EXTINF:-1,MBC Pro Sport 1 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5880
-#EXTINF:-1,MBC Pro Sport 2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5879
-#EXTINF:-1,MBC Pro Sport 3 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5878
-#EXTINF:-1,MBC Pro Sport 4 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5877
-#EXTINF:-1,MBC Sports 2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8847
-#EXTINF:-1,MBC Sports 3 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8846
-#EXTINF:-1,MBC Sports Pro1 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8933
-#EXTINF:-1,MBC Sports Pro2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8934
-#EXTINF:-1,MBC Sports Pro3 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8935
-#EXTINF:-1,MBC Variety AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5866
+
 #EXTINF:-1,MTV Lebanon +2 ARB
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14785
 #EXTINF:-1,MTV Lebanon AR
@@ -687,6 +720,177 @@ http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14804
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8884
 #EXTINF:-1,ON Sport ARB
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/21080
+#EXTINF:-1,Aghanina AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18652
+#EXTINF:-1,FM AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18651
+#EXTINF:-1,Mazzika TV AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18650
+#EXTINF:-1,Melody Aflam AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18654
+#EXTINF:-1,Melody Classic AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18655
+#EXTINF:-1,Music Alhanen AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18653
+#EXTINF:-1,Suryoyo Sat ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/21322
+#EXTINF:-1,Noursat ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/22699
+#EXTINF:-1,Sat 7 ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/22698
+#EXTINF:-1,Sat 7 Kids ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/22697
+#EXTINF:-1,Maspero Zaman ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/32383
+#EXTINF:-1,ME Sat ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/32384
+#EXTINF:-1,Al Karma Praise ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/32385
+#EXTINF:-1,beIN AMC ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33492
+#EXTINF:-1,beIN DMAX ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33491
+#EXTINF:-1,beIN Dream Works ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33494
+#EXTINF:-1,Baby TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33493
+#EXTINF:-1,Al Majd Educational ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/50211
+#EXTINF:-1,Sham FM ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/50702
+#EXTINF:-1,Roya TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/50969
+#EXTINF:-1,KSA Sport 1 HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/623168
+#EXTINF:-1,KSA Sport 2 HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/623167
+#EXTINF:-1,Yas Sports HD ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/623172
+#EXTINF:-1,Amman TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/624944
+#EXTINF:-1,Jordan Today ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/624943
+#EXTINF:-1,Toyor Al Janah ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/624942
+#EXTINF:-1,Koogi TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/625941
+#EXTINF:-1,Russia Alyaum ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14861
+#EXTINF:-1,Sada El Balad  ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8944
+#EXTINF:-1,Sada Elbalad Drama AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8945
+#EXTINF:-1,Sahar Kurdish ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14750
+#EXTINF:-1,Sama Dubai AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5850
+#EXTINF:-1,Sama TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/17466
+#EXTINF:-1,Sama Yemen ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/15920
+#EXTINF:-1,Samira TV AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8946
+#EXTINF:-1,Saudi 1 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5828
+#EXTINF:-1,Saudi 2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5827
+#EXTINF:-1,Saudi 24 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5826
+#EXTINF:-1,Saudi Sports AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5829
+#EXTINF:-1,SeeVii Al Aoula HD AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8827
+#EXTINF:-1,Semsem AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8947
+#EXTINF:-1,Shabab TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14721
+#EXTINF:-1,Shanpoo Aflam ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14792
+#EXTINF:-1,Sky News Arabia AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5830
+#EXTINF:-1,Spacetoon AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8949
+#EXTINF:-1,Star AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8859
+#EXTINF:-1,Star Cinema 1 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5825
+#EXTINF:-1,Star Cinema 2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5824
+#EXTINF:-1,Sudan TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14757
+#EXTINF:-1,Suhail TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14720
+#EXTINF:-1,Sunna AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8950
+#EXTINF:-1,Syria Aloula AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5800
+#EXTINF:-1,Syria Drama AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5801
+#EXTINF:-1,Syria News AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5802
+#EXTINF:-1,Syria TV AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5803
+#EXTINF:-1,TNN Tunisia AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5781
+#EXTINF:-1,TV 5 Algeria ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14884
+#EXTINF:-1,Tamazight AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8951
+#EXTINF:-1,Tanasoh TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14719
+#EXTINF:-1,Tanasuh TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8952
+#EXTINF:-1,Tele Liban AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5779
+#EXTINF:-1,Telvza TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14890
+#EXTINF:-1,Ten AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8953
+#EXTINF:-1,Thaqalayn TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14711
+#EXTINF:-1,Time Cinema AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5843
+#EXTINF:-1,Time Comedy AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5844
+#EXTINF:-1,Time Film AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5842
+#EXTINF:-1,Toktok Aflam ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14811
+#EXTINF:-1,Toktok Cima ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14812
+#EXTINF:-1,Toyor AL Janah AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8954
+#EXTINF:-1,Toyor Baby ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14768
+#EXTINF:-1,Tunisia First-TV AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5782
+#EXTINF:-1,Tunisia National 1 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5785
+#EXTINF:-1,Tunisia National 2 AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5784
+#EXTINF:-1,Tunisna ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14888
+#EXTINF:-1,Wanasah ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14838
+#EXTINF:-1,Wesal TV ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8955
+#EXTINF:-1,Ya Hala Cinema ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5910
+#EXTINF:-1,Yemen Shabab ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14717
+#EXTINF:-1,Yemen Today ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/15918
+#EXTINF:-1,Zee Aflam AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8959
+#EXTINF:-1,Zee Alwan AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8960
+#EXTINF:-1,Zitouna AR
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8956
+#EXTINF:-1,Zweina Baladna ARB
+http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14871
+
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="OSN",======OSN=======
+http://bit.ly/Safwanlogo
 #EXTINF:-1,OSN Action 2 AR
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5901
 #EXTINF:-1,OSN Action AR
@@ -853,148 +1057,11 @@ http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14687
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14848
 #EXTINF:-1,RT Arabic AR
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/4145
-#EXTINF:-1,Rotana ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14832
-#EXTINF:-1,Rotana Aflam ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14831
-#EXTINF:-1,Rotana Cinema AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5795
-#EXTINF:-1,Rotana Cinema EGY ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14830
-#EXTINF:-1,Rotana Cinema HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14828
-#EXTINF:-1,Rotana Cinema KSA ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14829
-#EXTINF:-1,Rotana Classic AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5796
-#EXTINF:-1,Rotana Classic HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14827
-#EXTINF:-1,Rotana Clip AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5798
-#EXTINF:-1,Rotana Khalijiah AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5797
-#EXTINF:-1,Rotana Khalyjia AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8942
-#EXTINF:-1,Rotana Masria HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14826
-#EXTINF:-1,Rotana Masriya AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5793
-#EXTINF:-1,Rotana Music AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5799
-#EXTINF:-1,Russia Alyaum ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14861
-#EXTINF:-1,Sada El Balad  ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8944
-#EXTINF:-1,Sada Elbalad Drama AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8945
-#EXTINF:-1,Sahar Kurdish ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14750
-#EXTINF:-1,Sama Dubai AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5850
-#EXTINF:-1,Sama TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/17466
-#EXTINF:-1,Sama Yemen ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/15920
-#EXTINF:-1,Samira TV AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8946
-#EXTINF:-1,Saudi 1 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5828
-#EXTINF:-1,Saudi 2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5827
-#EXTINF:-1,Saudi 24 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5826
-#EXTINF:-1,Saudi Sports AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5829
-#EXTINF:-1,SeeVii Al Aoula HD AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8827
-#EXTINF:-1,Semsem AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8947
-#EXTINF:-1,Shabab TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14721
-#EXTINF:-1,Shanpoo Aflam ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14792
-#EXTINF:-1,Sky News Arabia AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5830
-#EXTINF:-1,Spacetoon AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8949
-#EXTINF:-1,Star AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8859
-#EXTINF:-1,Star Cinema 1 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5825
-#EXTINF:-1,Star Cinema 2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5824
-#EXTINF:-1,Sudan TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14757
-#EXTINF:-1,Suhail TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14720
-#EXTINF:-1,Sunna AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8950
-#EXTINF:-1,Syria Aloula AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5800
-#EXTINF:-1,Syria Drama AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5801
-#EXTINF:-1,Syria News AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5802
-#EXTINF:-1,Syria TV AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5803
-#EXTINF:-1,TNN Tunisia AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5781
-#EXTINF:-1,TV 5 Algeria ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14884
-#EXTINF:-1,Tamazight AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8951
-#EXTINF:-1,Tanasoh TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14719
-#EXTINF:-1,Tanasuh TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8952
-#EXTINF:-1,Tele Liban AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5779
-#EXTINF:-1,Telvza TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14890
-#EXTINF:-1,Ten AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8953
-#EXTINF:-1,Thaqalayn TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14711
-#EXTINF:-1,Time Cinema AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5843
-#EXTINF:-1,Time Comedy AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5844
-#EXTINF:-1,Time Film AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5842
-#EXTINF:-1,Toktok Aflam ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14811
-#EXTINF:-1,Toktok Cima ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14812
-#EXTINF:-1,Toyor AL Janah AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8954
-#EXTINF:-1,Toyor Baby ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14768
-#EXTINF:-1,Tunisia First-TV AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5782
-#EXTINF:-1,Tunisia National 1 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5785
-#EXTINF:-1,Tunisia National 2 AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5784
-#EXTINF:-1,Tunisna ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14888
-#EXTINF:-1,Wanasah ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14838
-#EXTINF:-1,Wesal TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8955
-#EXTINF:-1,Ya Hala Cinema ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5910
-#EXTINF:-1,Yemen Shabab ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14717
-#EXTINF:-1,Yemen Today ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/15918
-#EXTINF:-1,Zee Aflam AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8959
-#EXTINF:-1,Zee Alwan AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8960
-#EXTINF:-1,Zitouna AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/8956
-#EXTINF:-1,Zweina Baladna ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14871
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="BEIN",======BEIN=======
+http://bit.ly/Safwanlogo
 #EXTINF:-1,beIN Gourmet HD ARB
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/14839
 #EXTINF:-1,beIN Junior ARB
@@ -1067,62 +1134,9 @@ http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5846
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5845
 #EXTINF:-1,bein Movies 1 AR
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/5848
-#EXTINF:-1,Aghanina AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18652
-#EXTINF:-1,FM AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18651
-#EXTINF:-1,Mazzika TV AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18650
-#EXTINF:-1,Melody Aflam AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18654
-#EXTINF:-1,Melody Classic AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18655
-#EXTINF:-1,Music Alhanen AR
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/18653
-#EXTINF:-1,Suryoyo Sat ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/21322
-#EXTINF:-1,Noursat ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/22699
-#EXTINF:-1,Sat 7 ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/22698
-#EXTINF:-1,Sat 7 Kids ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/22697
-#EXTINF:-1,Maspero Zaman ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/32383
-#EXTINF:-1,ME Sat ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/32384
-#EXTINF:-1,Al Karma Praise ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/32385
-#EXTINF:-1,beIN AMC ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33492
-#EXTINF:-1,beIN DMAX ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33491
-#EXTINF:-1,beIN Dream Works ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33494
-#EXTINF:-1,Baby TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/33493
-#EXTINF:-1,Al Majd Educational ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/50211
-#EXTINF:-1,Sham FM ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/50702
-#EXTINF:-1,Roya TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/50969
-#EXTINF:-1,KSA Sport 1 HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/623168
-#EXTINF:-1,KSA Sport 2 HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/623167
-#EXTINF:-1,Yas Sports HD ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/623172
-#EXTINF:-1,Amman TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/624944
-#EXTINF:-1,Jordan Today ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/624943
-#EXTINF:-1,Toyor Al Janah ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/624942
-#EXTINF:-1,Koogi TV ARB
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/625941
-#EXTINF:-1,########## Germany ##########
-http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/6267
+
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="GERMANY",======GERMANY=======
+http://bit.ly/Safwanlogo
 #EXTINF:-1,Ard DE
 http://mypanel.tv:8080/frenchdubai/uiwyejkhasdlkiowqeKLGHdakldas/6262
 #EXTINF:-1,Das Erste DE
