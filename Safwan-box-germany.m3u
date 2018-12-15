@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="SYRIA",======SYRIA=======
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Satcom",======Satcom=======
 http://bit.ly/Safwanlogo
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 http://bit.ly/Safwanlogo
@@ -37,8 +37,6 @@ http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Other",======Other=======
-http://bit.ly/Safwanlogo
 #EXTINF:0,Ar:2M Maroc
 http://srvt.topiptv.org:80/live/new_start.app/App65080/727.m3u8
 #EXTINF:0,Ar:4G Aflam
