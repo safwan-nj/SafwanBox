@@ -19,7 +19,7 @@ http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
 http://sama-tv.net:1935/live/samatv/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria
-https://svs.itworkscdn.net/lanatvlive/lana/chunklist.m3u8
+https://svs.itworkscdn.net/lanatvlive/lana/chunklist.m3u
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
