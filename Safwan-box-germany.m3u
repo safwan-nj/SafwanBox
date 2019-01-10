@@ -38,2760 +38,1751 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
-#EXTINF:0,Ar:MY Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/526
-#EXTINF:0,Ar:MY Cinema HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MY Cinema HD
 http://srvt.topiptv.org:80/new_start.app/App65080/525
-#EXTINF:0,Ar:MY Cinema Pro
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MY Cinema Pro
 http://srvt.topiptv.org:80/new_start.app/App65080/524
-#EXTINF:0,Ar:MY Discovery Science HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/523
-#EXTINF:0,Ar:MY Docu Box HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/522
-#EXTINF:0,Ar:MY Fight Box HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MY Fight Box HD
 http://srvt.topiptv.org:80/new_start.app/App65080/520
-#EXTINF:0,Ar:MY FilmBox Plus HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MY FilmBox Plus HD
 http://srvt.topiptv.org:80/new_start.app/App65080/519
-#EXTINF:0,Ar:MY Fix Foxi HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/518
-#EXTINF:0,Ar:MY Fox Action HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/517
-#EXTINF:0,Ar:MY Fox Family HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/516
-#EXTINF:0,Ar:MY FX HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/521
-#EXTINF:0,Ar:MY Travel Chanel HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/515
-#EXTINF:0,MYHD | ANIMAL PLANET HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | ANIMAL PLANET HD
 http://srvt.topiptv.org:80/new_start.app/App65080/229
-#EXTINF:0,MYHD | CINEMA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | CINEMA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/228
-#EXTINF:0,MYHD | DISCOVERY SCIENCE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | DISCOVERY SCIENCE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/227
-#EXTINF:0,MYHD | FILMBOX ARTHOUSE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | FILMBOX ARTHOUSE
 http://srvt.topiptv.org:80/new_start.app/App65080/226
-#EXTINF:0,MYHD | FILMBOX HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | FILMBOX HD
 http://srvt.topiptv.org:80/new_start.app/App65080/225
-#EXTINF:0,MYHD | FOX CRIME  HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | FOX CRIME  HD
 http://srvt.topiptv.org:80/new_start.app/App65080/224
-#EXTINF:0,MYHD | FOX LIFE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | FOX LIFE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/223
-#EXTINF:0,MYHD | FOX REWAYAT HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | FOX REWAYAT HD
 http://srvt.topiptv.org:80/new_start.app/App65080/222
-#EXTINF:0,MYHD | GULLI BI AL ARABI
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | GULLI BI AL ARABI
 http://srvt.topiptv.org:80/new_start.app/App65080/221
-#EXTINF:0,MYHD | MBC 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/220
-#EXTINF:0,MYHD | MBC 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/219
-#EXTINF:0,MYHD | MBC 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/218
-#EXTINF:0,MYHD | MBC 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC 4 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/217
-#EXTINF:0,MYHD | MBC ACTION HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC ACTION HD
 http://srvt.topiptv.org:80/new_start.app/App65080/216
-#EXTINF:0,MYHD | MBC BOLLYOOD HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC BOLLYOOD HD
 http://srvt.topiptv.org:80/new_start.app/App65080/215
-#EXTINF:0,MYHD | MBC DRAMA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC DRAMA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/214
-#EXTINF:0,MYHD | MBC DRAMA PLUS  HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC DRAMA PLUS  HD
 http://srvt.topiptv.org:80/new_start.app/App65080/213
-#EXTINF:0,MYHD | MBC MAX HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC MAX HD
 http://srvt.topiptv.org:80/new_start.app/App65080/212
-#EXTINF:0,MYHD | MBC VARIETY HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MBC VARIETY HD
 http://srvt.topiptv.org:80/new_start.app/App65080/211
-#EXTINF:0,MYHD | MUSIC 24 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MUSIC 24 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/210
-#EXTINF:0,MYHD | MYME
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | MYME
 http://srvt.topiptv.org:80/new_start.app/App65080/209
-#EXTINF:0,MYHD | NAT GEO WILD HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | NAT GEO WILD HD
 http://srvt.topiptv.org:80/new_start.app/App65080/208
-#EXTINF:0,MYHD | STAR MOVIES HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | STAR MOVIES HD
 http://srvt.topiptv.org:80/new_start.app/App65080/207
-#EXTINF:0,MYHD | STAR WORLD HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,MYHD | STAR WORLD HD
 http://srvt.topiptv.org:80/new_start.app/App65080/206
-#EXTINF:0,Ar:OSN Al Safwa
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/470
-#EXTINF:0,Ar:OSN Al Yawm
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/469
-#EXTINF:0,Ar:OSN Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/468
-#EXTINF:0,Ar:OSN Baby
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/466
-#EXTINF:0,Ar:OSN BBC First
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/467
-#EXTINF:0,Ar:OSN Box Office 1 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/465
-#EXTINF:0,Ar:OSN Box Office 2 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/464
-#EXTINF:0,Ar:OSN Box Office 3
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/463
-#EXTINF:0,Ar:OSN CNN
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/462
-#EXTINF:0,Ar:OSN Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/461
-#EXTINF:0,Ar:OSN Crime & Investigation
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/460
-#EXTINF:0,Ar:OSN Demand Extra
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/459
-#EXTINF:0,Ar:OSN Discovery HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/458
-#EXTINF:0,Ar:OSN Discovery History
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/457
-#EXTINF:0,Ar:OSN Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/456
-#EXTINF:0,Ar:OSN Discovery Xtra
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/455
-#EXTINF:0,Ar:OSN Disney Channel
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/454
-#EXTINF:0,Ar:OSN Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/453
-#EXTINF:0,Ar:OSN Disney XD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/452
-#EXTINF:0,Ar:OSN E!
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/451
-#EXTINF:0,Ar:OSN Fann
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fann
 http://srvt.topiptv.org:80/new_start.app/App65080/450
-#EXTINF:0,Ar:OSN Fashion
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fashion
 http://srvt.topiptv.org:80/new_start.app/App65080/449
-#EXTINF:0,Ar:OSN FataFeat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN FataFeat
 http://srvt.topiptv.org:80/new_start.app/App65080/448
-#EXTINF:0,Ar:OSN Fight Network
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fight Network
 http://srvt.topiptv.org:80/new_start.app/App65080/447
-#EXTINF:0,Ar:OSN Fine Living
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fine Living
 http://srvt.topiptv.org:80/new_start.app/App65080/446
-#EXTINF:0,Ar:OSN First HBO
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN First HBO
 http://srvt.topiptv.org:80/new_start.app/App65080/445
-#EXTINF:0,Ar:OSN Food Network
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Food Network
 http://srvt.topiptv.org:80/new_start.app/App65080/444
-#EXTINF:0,Ar:OSN Fox Action Movie FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fox Action Movie FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/443
-#EXTINF:0,Ar:OSN Fox Family Movies HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fox Family Movies HD
 http://srvt.topiptv.org:80/new_start.app/App65080/442
-#EXTINF:0,Ar:OSN Fox Movie HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fox Movie HD
 http://srvt.topiptv.org:80/new_start.app/App65080/441
-#EXTINF:0,Ar:OSN Fox News HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Fox News HD
 http://srvt.topiptv.org:80/new_start.app/App65080/440
-#EXTINF:0,Ar:OSN H2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN H2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/439
-#EXTINF:0,Ar:OSN History 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN History 1
 http://srvt.topiptv.org:80/new_start.app/App65080/438
-#EXTINF:0,Ar:OSN IDX FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN IDX FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/437
-#EXTINF:0,Ar:OSN ITV Choice
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN ITV Choice
 http://srvt.topiptv.org:80/new_start.app/App65080/436
-#EXTINF:0,Ar:OSN JimJam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN JimJam
 http://srvt.topiptv.org:80/new_start.app/App65080/435
-#EXTINF:0,Ar:OSN MBC   Drama HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN MBC   Drama HD
 http://srvt.topiptv.org:80/new_start.app/App65080/433
-#EXTINF:0,Ar:OSN MBC Variety HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN MBC Variety HD
 http://srvt.topiptv.org:80/new_start.app/App65080/434
-#EXTINF:0,Ar:OSN Movie 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/432
-#EXTINF:0,Ar:OSN Movie 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/431
-#EXTINF:0,Ar:OSN Movie Action 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Action 1
 http://srvt.topiptv.org:80/new_start.app/App65080/430
-#EXTINF:0,Ar:OSN Movie Action 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Action 2
 http://srvt.topiptv.org:80/new_start.app/App65080/429
-#EXTINF:0,Ar:OSN Movie Comedy
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Comedy
 http://srvt.topiptv.org:80/new_start.app/App65080/428
-#EXTINF:0,Ar:OSN Movie Drama 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Drama 1
 http://srvt.topiptv.org:80/new_start.app/App65080/427
-#EXTINF:0,Ar:OSN Movie Drama 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Drama 2
 http://srvt.topiptv.org:80/new_start.app/App65080/426
-#EXTINF:0,Ar:OSN Movie Family
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Family
 http://srvt.topiptv.org:80/new_start.app/App65080/425
-#EXTINF:0,Ar:OSN Movie Festival
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Festival
 http://srvt.topiptv.org:80/new_start.app/App65080/424
-#EXTINF:0,Ar:OSN Movie Premier 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movie Premier 2
 http://srvt.topiptv.org:80/new_start.app/App65080/421
-#EXTINF:0,Ar:OSN Movies Kids
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movies Kids
 http://srvt.topiptv.org:80/new_start.app/App65080/423
-#EXTINF:0,Ar:OSN Movies Premiere 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Movies Premiere 1
 http://srvt.topiptv.org:80/new_start.app/App65080/422
-#EXTINF:0,Ar:OSN MusalSat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN MusalSat
 http://srvt.topiptv.org:80/new_start.app/App65080/420
-#EXTINF:0,Ar:OSN Music Now
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Music Now
 http://srvt.topiptv.org:80/new_start.app/App65080/419
-#EXTINF:0,Ar:OSN Nat Geo HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Nat Geo HD
 http://srvt.topiptv.org:80/new_start.app/App65080/418
-#EXTINF:0,Ar:OSN Nat Geo People HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Nat Geo People HD
 http://srvt.topiptv.org:80/new_start.app/App65080/417
-#EXTINF:0,Ar:OSN Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Nat Geo Wild HD
 http://srvt.topiptv.org:80/new_start.app/App65080/416
-#EXTINF:0,Ar:OSN News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN News
 http://srvt.topiptv.org:80/new_start.app/App65080/415
-#EXTINF:0,Ar:OSN Nick Junior
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Nick Junior
 http://srvt.topiptv.org:80/new_start.app/App65080/414
-#EXTINF:0,Ar:OSN Nickelodeon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Nickelodeon
 http://srvt.topiptv.org:80/new_start.app/App65080/413
-#EXTINF:0,Ar:OSN ON Demande 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN ON Demande 1
 http://srvt.topiptv.org:80/new_start.app/App65080/412
-#EXTINF:0,Ar:OSN ON Demande 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN ON Demande 2
 http://srvt.topiptv.org:80/new_start.app/App65080/411
-#EXTINF:0,Ar:OSN ON Demande 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN ON Demande 3
 http://srvt.topiptv.org:80/new_start.app/App65080/410
-#EXTINF:0,Ar:OSN Orbit Cinema 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Orbit Cinema 1
 http://srvt.topiptv.org:80/new_start.app/App65080/409
-#EXTINF:0,Ar:OSN Orbit Cinema 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Orbit Cinema 2
 http://srvt.topiptv.org:80/new_start.app/App65080/408
-#EXTINF:0,Ar:OSN Outdoor
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Outdoor
 http://srvt.topiptv.org:80/new_start.app/App65080/407
-#EXTINF:0,Ar:OSN SeeVii Al Aoula HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN SeeVii Al Aoula HD
 http://srvt.topiptv.org:80/new_start.app/App65080/406
-#EXTINF:0,Ar:OSN SeeVii Beelink HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN SeeVii Beelink HD
 http://srvt.topiptv.org:80/new_start.app/App65080/405
-#EXTINF:0,Ar:OSN SeeVii Drama HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN SeeVii Drama HD
 http://srvt.topiptv.org:80/new_start.app/App65080/404
-#EXTINF:0,Ar:OSN SeeVii Shamiya HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN SeeVii Shamiya HD
 http://srvt.topiptv.org:80/new_start.app/App65080/403
-#EXTINF:0,Ar:OSN Series  2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Series  2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/402
-#EXTINF:0,Ar:OSN Series Comedy 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Series Comedy 1
 http://srvt.topiptv.org:80/new_start.app/App65080/401
-#EXTINF:0,Ar:OSN Series Comedy 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Series Comedy 2
 http://srvt.topiptv.org:80/new_start.app/App65080/400
-#EXTINF:0,Ar:OSN Series First
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Series First
 http://srvt.topiptv.org:80/new_start.app/App65080/398
-#EXTINF:0,Ar:OSN Series First 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Series First 1
 http://srvt.topiptv.org:80/new_start.app/App65080/399
-#EXTINF:0,Ar:OSN Sport 1 Action
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Sport 1 Action
 http://srvt.topiptv.org:80/new_start.app/App65080/397
-#EXTINF:0,Ar:OSN Sport 2 Action
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Sport 2 Action
 http://srvt.topiptv.org:80/new_start.app/App65080/396
-#EXTINF:0,Ar:OSN Sport 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Sport 3
 http://srvt.topiptv.org:80/new_start.app/App65080/395
-#EXTINF:0,Ar:OSN Sport 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Sport 4
 http://srvt.topiptv.org:80/new_start.app/App65080/394
-#EXTINF:0,Ar:OSN Sport Cricket HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Sport Cricket HD
 http://srvt.topiptv.org:80/new_start.app/App65080/393
-#EXTINF:0,Ar:OSN Star Movie
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Star Movie
 http://srvt.topiptv.org:80/new_start.app/App65080/392
-#EXTINF:0,Ar:OSN Star World
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Star World
 http://srvt.topiptv.org:80/new_start.app/App65080/391
-#EXTINF:0,Ar:OSN Sundance
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Sundance
 http://srvt.topiptv.org:80/new_start.app/App65080/390
-#EXTINF:0,Ar:OSN SyFy
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN SyFy
 http://srvt.topiptv.org:80/new_start.app/App65080/389
-#EXTINF:0,Ar:OSN Ten Cricket
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Ten Cricket
 http://srvt.topiptv.org:80/new_start.app/App65080/387
-#EXTINF:0,Ar:OSN TLC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN TLC
 http://srvt.topiptv.org:80/new_start.app/App65080/388
-#EXTINF:0,Ar:OSN Travel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Travel
 http://srvt.topiptv.org:80/new_start.app/App65080/386
-#EXTINF:0,Ar:OSN VH1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN VH1
 http://srvt.topiptv.org:80/new_start.app/App65080/385
-#EXTINF:0,Ar:OSN WWE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN WWE
 http://srvt.topiptv.org:80/new_start.app/App65080/384
-#EXTINF:0,Ar:OSN WWE Network
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN WWE Network
 http://srvt.topiptv.org:80/new_start.app/App65080/383
-#EXTINF:0,Ar:OSN Ya Hala
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Ya Hala
 http://srvt.topiptv.org:80/new_start.app/App65080/381
-#EXTINF:0,Ar:OSN Ya Hala 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Ya Hala 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/382
-#EXTINF:0,Ar:OSN Ya Hala Cinema HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OSN Ya Hala Cinema HD
 http://srvt.topiptv.org:80/new_start.app/App65080/380
-#EXTINF:0,VIP: OSN Al Yawm
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Al Yawm
 http://srvt.topiptv.org:80/new_start.app/App65080/190
-#EXTINF:0,VIP: OSN Animal Planet HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Animal Planet HD
 http://srvt.topiptv.org:80/new_start.app/App65080/189
-#EXTINF:0,VIP: OSN BBC First HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN BBC First HD
 http://srvt.topiptv.org:80/new_start.app/App65080/188
-#EXTINF:0,VIP: OSN Cinema 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Cinema 1
 http://srvt.topiptv.org:80/new_start.app/App65080/187
-#EXTINF:0,VIP: OSN Cinema 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Cinema 2
 http://srvt.topiptv.org:80/new_start.app/App65080/186
-#EXTINF:0,VIP: OSN Discovery Family
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Discovery Family
 http://srvt.topiptv.org:80/new_start.app/App65080/185
-#EXTINF:0,VIP: OSN Discovery HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Discovery HD
 http://srvt.topiptv.org:80/new_start.app/App65080/184
-#EXTINF:0,VIP: OSN Discovery ID HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Discovery ID HD
 http://srvt.topiptv.org:80/new_start.app/App65080/183
-#EXTINF:0,VIP: OSN Discovery Science HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Discovery Science HD
 http://srvt.topiptv.org:80/new_start.app/App65080/182
-#EXTINF:0,VIP: OSN Disney Channel HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Disney Channel HD
 http://srvt.topiptv.org:80/new_start.app/App65080/181
-#EXTINF:0,VIP: OSN Fight Network
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Fight Network
 http://srvt.topiptv.org:80/new_start.app/App65080/180
-#EXTINF:0,VIP: OSN First Comedy HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN First Comedy HD
 http://srvt.topiptv.org:80/new_start.app/App65080/179
-#EXTINF:0,VIP: OSN First HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN First HD
 http://srvt.topiptv.org:80/new_start.app/App65080/178
-#EXTINF:0,VIP: OSN First Home Of HBO HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN First Home Of HBO HD
 http://srvt.topiptv.org:80/new_start.app/App65080/177
-#EXTINF:0,VIP: OSN Food Network HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Food Network HD
 http://srvt.topiptv.org:80/new_start.app/App65080/176
-#EXTINF:0,VIP: OSN Fox Family Movies HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Fox Family Movies HD
 http://srvt.topiptv.org:80/new_start.app/App65080/175
-#EXTINF:0,VIP: OSN GMA Life TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN GMA Life TV
 http://srvt.topiptv.org:80/new_start.app/App65080/174
-#EXTINF:0,VIP: OSN GMA News TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN GMA News TV
 http://srvt.topiptv.org:80/new_start.app/App65080/173
-#EXTINF:0,VIP: OSN GMA Pinoy TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN GMA Pinoy TV
 http://srvt.topiptv.org:80/new_start.app/App65080/172
-#EXTINF:0,VIP: OSN Movies Action HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies Action HD
 http://srvt.topiptv.org:80/new_start.app/App65080/171
-#EXTINF:0,VIP: OSN Movies Comedy HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies Comedy HD
 http://srvt.topiptv.org:80/new_start.app/App65080/170
-#EXTINF:0,VIP: OSN Movies Drama HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies Drama HD
 http://srvt.topiptv.org:80/new_start.app/App65080/169
-#EXTINF:0,VIP: OSN Movies Family HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies Family HD
 http://srvt.topiptv.org:80/new_start.app/App65080/168
-#EXTINF:0,VIP: OSN Movies Festival HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies Festival HD
 http://srvt.topiptv.org:80/new_start.app/App65080/167
-#EXTINF:0,VIP: OSN Movies HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies HD
 http://srvt.topiptv.org:80/new_start.app/App65080/166
-#EXTINF:0,VIP: OSN Movies Kids
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies Kids
 http://srvt.topiptv.org:80/new_start.app/App65080/165
-#EXTINF:0,VIP: OSN Movies Premiere HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Movies Premiere HD
 http://srvt.topiptv.org:80/new_start.app/App65080/164
-#EXTINF:0,VIP: OSN Musalsalat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Musalsalat
 http://srvt.topiptv.org:80/new_start.app/App65080/163
-#EXTINF:0,VIP: OSN Nat Geo People HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Nat Geo People HD
 http://srvt.topiptv.org:80/new_start.app/App65080/162
-#EXTINF:0,VIP: OSN Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Nat Geo Wild HD
 http://srvt.topiptv.org:80/new_start.app/App65080/161
-#EXTINF:0,VIP: OSN Nat Geographic HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Nat Geographic HD
 http://srvt.topiptv.org:80/new_start.app/App65080/160
-#EXTINF:0,VIP: OSN Star World HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Star World HD
 http://srvt.topiptv.org:80/new_start.app/App65080/159
-#EXTINF:0,VIP: OSN Ten Cricket
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Ten Cricket
 http://srvt.topiptv.org:80/new_start.app/App65080/158
-#EXTINF:0,VIP: OSN WWE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN WWE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/157
-#EXTINF:0,VIP: OSN Yahala Cinema HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Yahala Cinema HD
 http://srvt.topiptv.org:80/new_start.app/App65080/156
-#EXTINF:0,VIP: OSN Yahala Drama HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Yahala Drama HD
 http://srvt.topiptv.org:80/new_start.app/App65080/155
-#EXTINF:0,VIP: OSN Yahala HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Yahala HD
 http://srvt.topiptv.org:80/new_start.app/App65080/154
-#EXTINF:0,VIP: OSN Yahala Shabab HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,VIP: OSN Yahala Shabab HD
 http://srvt.topiptv.org:80/new_start.app/App65080/153
-#EXTINF:0,BEIN_BARAEEM
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_BARAEEM
 http://srvt.topiptv.org:80/new_start.app/App65080/191
-#EXTINF:0,BEIN_DRAMA 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_DRAMA 1
 http://srvt.topiptv.org:80/new_start.app/App65080/199
-#EXTINF:0,BEIN_DREAMWORKS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_DREAMWORKS
 http://srvt.topiptv.org:80/new_start.app/App65080/198
-#EXTINF:0,BEIN_DTX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_DTX
 http://srvt.topiptv.org:80/new_start.app/App65080/197
-#EXTINF:0,BEIN_Fatafeat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_Fatafeat
 http://srvt.topiptv.org:80/new_start.app/App65080/196
-#EXTINF:0,BEIN_FOX_MOVIES
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_FOX_MOVIES
 http://srvt.topiptv.org:80/new_start.app/App65080/201
-#EXTINF:0,BEIN_FOX_MOVIES_ACTION
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_FOX_MOVIES_ACTION
 http://srvt.topiptv.org:80/new_start.app/App65080/200
-#EXTINF:0,BEIN_GEM
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_GEM
 http://srvt.topiptv.org:80/new_start.app/App65080/195
-#EXTINF:0,BEIN_GOURMET
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_GOURMET
 http://srvt.topiptv.org:80/new_start.app/App65080/194
-#EXTINF:0,BEIN_HGTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_HGTV
 http://srvt.topiptv.org:80/new_start.app/App65080/193
-#EXTINF:0,BEIN_MOVIES_1_HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_MOVIES_1_HD
 http://srvt.topiptv.org:80/new_start.app/App65080/205
-#EXTINF:0,BEIN_MOVIES_2_HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_MOVIES_2_HD
 http://srvt.topiptv.org:80/new_start.app/App65080/204
-#EXTINF:0,BEIN_MOVIES_3_HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_MOVIES_3_HD
 http://srvt.topiptv.org:80/new_start.app/App65080/203
-#EXTINF:0,BEIN_MOVIES_4_HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_MOVIES_4_HD
 http://srvt.topiptv.org:80/new_start.app/App65080/202
-#EXTINF:0,BEIN_TRAVEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN_TRAVEL
 http://srvt.topiptv.org:80/new_start.app/App65080/192
-#EXTINF:0,BEIN SPORTS 1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/152
-#EXTINF:0,BEIN SPORTS 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/151
-#EXTINF:0,BEIN SPORTS 1 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 1 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/150
-#EXTINF:0,BEIN SPORTS 10 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 10 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/125
-#EXTINF:0,BEIN SPORTS 10 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 10 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/124
-#EXTINF:0,BEIN SPORTS 10 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 10 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/123
-#EXTINF:0,BEIN SPORTS 11 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 11 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/122
-#EXTINF:0,BEIN SPORTS 11 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 11 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/121
-#EXTINF:0,BEIN SPORTS 12 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 12 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/120
-#EXTINF:0,BEIN SPORTS 12 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 12 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/119
-#EXTINF:0,BEIN SPORTS 13 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 13 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/118
-#EXTINF:0,BEIN SPORTS 14 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 14 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/117
-#EXTINF:0,BEIN SPORTS 15 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 15 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/116
-#EXTINF:0,BEIN SPORTS 16 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 16 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/115
-#EXTINF:0,BEIN SPORTS 17 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 17 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/114
-#EXTINF:0,BEIN SPORTS 2 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 2 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/149
-#EXTINF:0,BEIN SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/148
-#EXTINF:0,BEIN SPORTS 2 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 2 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/147
-#EXTINF:0,BEIN SPORTS 3 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 3 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/146
-#EXTINF:0,BEIN SPORTS 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/145
-#EXTINF:0,BEIN SPORTS 3 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 3 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/144
-#EXTINF:0,BEIN SPORTS 4 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 4 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/143
-#EXTINF:0,BEIN SPORTS 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 4 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/142
-#EXTINF:0,BEIN SPORTS 4 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 4 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/141
-#EXTINF:0,BEIN SPORTS 5 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 5 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/140
-#EXTINF:0,BEIN SPORTS 5 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 5 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/139
-#EXTINF:0,BEIN SPORTS 5 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 5 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/138
-#EXTINF:0,BEIN SPORTS 6 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 6 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/137
-#EXTINF:0,BEIN SPORTS 6 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 6 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/136
-#EXTINF:0,BEIN SPORTS 6 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 6 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/135
-#EXTINF:0,BEIN SPORTS 7 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 7 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/134
-#EXTINF:0,BEIN SPORTS 7 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 7 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/133
-#EXTINF:0,BEIN SPORTS 7 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 7 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/132
-#EXTINF:0,BEIN SPORTS 8 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 8 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/131
-#EXTINF:0,BEIN SPORTS 8 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 8 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/130
-#EXTINF:0,BEIN SPORTS 8 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 8 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/129
-#EXTINF:0,BEIN SPORTS 9 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 9 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/128
-#EXTINF:0,BEIN SPORTS 9 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 9 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/127
-#EXTINF:0,BEIN SPORTS 9 SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS 9 SD
 http://srvt.topiptv.org:80/new_start.app/App65080/126
-#EXTINF:0,BEIN SPORTS HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS HD
 http://srvt.topiptv.org:80/new_start.app/App65080/112
-#EXTINF:0,BEIN SPORTS NBA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS NBA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/113
-#EXTINF:0,BEIN SPORTS NEWS HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,BEIN SPORTS NEWS HD
 http://srvt.topiptv.org:80/new_start.app/App65080/111
-#EXTINF:0,Ar:2M Maroc
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:2M Maroc
 http://srvt.topiptv.org:80/new_start.app/App65080/818
-#EXTINF:0,Ar:4G Aflam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:4G Aflam
 http://srvt.topiptv.org:80/new_start.app/App65080/817
-#EXTINF:0,Ar:4G Cima
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:4G Cima
 http://srvt.topiptv.org:80/new_start.app/App65080/816
-#EXTINF:0,Ar:4G Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:4G Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/815
-#EXTINF:0,Ar:4G Classic
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:4G Classic
 http://srvt.topiptv.org:80/new_start.app/App65080/814
-#EXTINF:0,Ar:4G Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:4G Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/813
-#EXTINF:0,Ar:4G Film
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:4G Film
 http://srvt.topiptv.org:80/new_start.app/App65080/812
-#EXTINF:0,Ar:7Besha Cima
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:7Besha Cima
 http://srvt.topiptv.org:80/new_start.app/App65080/811
-#EXTINF:0,Ar:ABN TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ABN TV
 http://srvt.topiptv.org:80/new_start.app/App65080/810
-#EXTINF:0,Ar:Abu Dhabi Drama HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Abu Dhabi Drama HD
 http://srvt.topiptv.org:80/new_start.app/App65080/786
-#EXTINF:0,Ar:Abu Dhabi Nat Geo
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Abu Dhabi Nat Geo
 http://srvt.topiptv.org:80/new_start.app/App65080/785
-#EXTINF:0,Ar:Abu Dhabi Sports 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Abu Dhabi Sports 1
 http://srvt.topiptv.org:80/new_start.app/App65080/784
-#EXTINF:0,Ar:Abu Dhabi Sports 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Abu Dhabi Sports 2
 http://srvt.topiptv.org:80/new_start.app/App65080/783
-#EXTINF:0,Ar:Abu Dhabi Sports 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Abu Dhabi Sports 3
 http://srvt.topiptv.org:80/new_start.app/App65080/782
-#EXTINF:0,Ar:Abu Dhabi Sports 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Abu Dhabi Sports 4
 http://srvt.topiptv.org:80/new_start.app/App65080/781
-#EXTINF:0,Ar:Abu Dhabi TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Abu Dhabi TV
 http://srvt.topiptv.org:80/new_start.app/App65080/780
-#EXTINF:0,Ar:Aden TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Aden TV
 http://srvt.topiptv.org:80/new_start.app/App65080/779
-#EXTINF:0,Ar:Afaq TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Afaq TV
 http://srvt.topiptv.org:80/new_start.app/App65080/778
-#EXTINF:0,Ar:Afrah TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Afrah TV
 http://srvt.topiptv.org:80/new_start.app/App65080/777
-#EXTINF:0,Ar:Aghanina
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Aghanina
 http://srvt.topiptv.org:80/new_start.app/App65080/776
-#EXTINF:0,Ar:Aghapy TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Aghapy TV
 http://srvt.topiptv.org:80/new_start.app/App65080/775
-#EXTINF:0,Ar:Ajman TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Ajman TV
 http://srvt.topiptv.org:80/new_start.app/App65080/774
-#EXTINF:0,Ar:Ajyal
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Ajyal
 http://srvt.topiptv.org:80/new_start.app/App65080/773
-#EXTINF:0,Ar:Al Aan TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Aan TV
 http://srvt.topiptv.org:80/new_start.app/App65080/772
-#EXTINF:0,Ar:Al Adjwaa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Adjwaa
 http://srvt.topiptv.org:80/new_start.app/App65080/771
-#EXTINF:0,Ar:Al Ahd
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Ahd
 http://srvt.topiptv.org:80/new_start.app/App65080/770
-#EXTINF:0,Ar:Al Ahly Club
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Ahly Club
 http://srvt.topiptv.org:80/new_start.app/App65080/769
-#EXTINF:0,Ar:Al Alam News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Alam News
 http://srvt.topiptv.org:80/new_start.app/App65080/768
-#EXTINF:0,Ar:AL Anbar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Anbar
 http://srvt.topiptv.org:80/new_start.app/App65080/809
-#EXTINF:0,Ar:Al Anwar 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Anwar 1
 http://srvt.topiptv.org:80/new_start.app/App65080/767
-#EXTINF:0,Ar:Al Anwar 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Anwar 2
 http://srvt.topiptv.org:80/new_start.app/App65080/766
-#EXTINF:0,Ar:Al Aqila
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Aqila
 http://srvt.topiptv.org:80/new_start.app/App65080/765
-#EXTINF:0,Ar:AL Arabia AL Hadath
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Arabia AL Hadath
 http://srvt.topiptv.org:80/new_start.app/App65080/808
-#EXTINF:0,Ar:AL Arabia News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Arabia News
 http://srvt.topiptv.org:80/new_start.app/App65080/807
-#EXTINF:0,Ar:Al Arabiya
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Arabiya
 http://srvt.topiptv.org:80/new_start.app/App65080/764
-#EXTINF:0,Ar:Al Assema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Assema
 http://srvt.topiptv.org:80/new_start.app/App65080/763
-#EXTINF:0,Ar:Al Basira
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Basira
 http://srvt.topiptv.org:80/new_start.app/App65080/762
-#EXTINF:0,Ar:Al Ekhbaria
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Ekhbaria
 http://srvt.topiptv.org:80/new_start.app/App65080/761
-#EXTINF:0,Ar:Al Emarat TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Emarat TV
 http://srvt.topiptv.org:80/new_start.app/App65080/760
-#EXTINF:0,Ar:Al Eshragh
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Eshragh
 http://srvt.topiptv.org:80/new_start.app/App65080/759
-#EXTINF:0,Ar:Al Etejah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Etejah
 http://srvt.topiptv.org:80/new_start.app/App65080/758
-#EXTINF:0,Ar:Al Fady
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Fady
 http://srvt.topiptv.org:80/new_start.app/App65080/757
-#EXTINF:0,Ar:AL Fajer 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Fajer 1
 http://srvt.topiptv.org:80/new_start.app/App65080/806
-#EXTINF:0,Ar:AL Fajer 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Fajer 2
 http://srvt.topiptv.org:80/new_start.app/App65080/805
-#EXTINF:0,Ar:Al Falastiniah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Falastiniah
 http://srvt.topiptv.org:80/new_start.app/App65080/756
-#EXTINF:0,Ar:Al Fath Quran
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Fath Quran
 http://srvt.topiptv.org:80/new_start.app/App65080/755
-#EXTINF:0,Ar:Al Forat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Forat
 http://srvt.topiptv.org:80/new_start.app/App65080/754
-#EXTINF:0,Ar:Al Ghad HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Ghad HD
 http://srvt.topiptv.org:80/new_start.app/App65080/753
-#EXTINF:0,Ar:Al Ghad Mushreq
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Ghad Mushreq
 http://srvt.topiptv.org:80/new_start.app/App65080/752
-#EXTINF:0,Ar:Al Hadath
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hadath
 http://srvt.topiptv.org:80/new_start.app/App65080/751
-#EXTINF:0,Ar:Al Hayat 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hayat 1
 http://srvt.topiptv.org:80/new_start.app/App65080/750
-#EXTINF:0,Ar:Al Hayat 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hayat 2
 http://srvt.topiptv.org:80/new_start.app/App65080/749
-#EXTINF:0,Ar:Al Hayat Series
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hayat Series
 http://srvt.topiptv.org:80/new_start.app/App65080/748
-#EXTINF:0,Ar:Al Hayat We Alnas
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hayat We Alnas
 http://srvt.topiptv.org:80/new_start.app/App65080/747
-#EXTINF:0,Ar:Al Hiwar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hiwar
 http://srvt.topiptv.org:80/new_start.app/App65080/746
-#EXTINF:0,Ar:Al Horreya TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Horreya TV
 http://srvt.topiptv.org:80/new_start.app/App65080/745
-#EXTINF:0,Ar:Al Hurra
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hurra
 http://srvt.topiptv.org:80/new_start.app/App65080/744
-#EXTINF:0,Ar:Al Hurra Iraq
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Hurra Iraq
 http://srvt.topiptv.org:80/new_start.app/App65080/743
-#EXTINF:0,Ar:Al Iman
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Iman
 http://srvt.topiptv.org:80/new_start.app/App65080/742
-#EXTINF:0,Ar:Al Jadeed
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Jadeed
 http://srvt.topiptv.org:80/new_start.app/App65080/741
-#EXTINF:0,Ar:Al Janoubia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Janoubia
 http://srvt.topiptv.org:80/new_start.app/App65080/740
-#EXTINF:0,Ar:Al Jazeera Arabic HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Jazeera Arabic HD
 http://srvt.topiptv.org:80/new_start.app/App65080/739
-#EXTINF:0,Ar:Al Jazeera Docum
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Jazeera Docum
 http://srvt.topiptv.org:80/new_start.app/App65080/738
-#EXTINF:0,Ar:Al Jazeera English
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Jazeera English
 http://srvt.topiptv.org:80/new_start.app/App65080/737
-#EXTINF:0,Ar:Al Jazeera Mubasher
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Jazeera Mubasher
 http://srvt.topiptv.org:80/new_start.app/App65080/736
-#EXTINF:0,Ar:Al Kahera Wal Nas 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Kahera Wal Nas 1
 http://srvt.topiptv.org:80/new_start.app/App65080/735
-#EXTINF:0,Ar:Al Kahera Wal Nas 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Kahera Wal Nas 2
 http://srvt.topiptv.org:80/new_start.app/App65080/734
-#EXTINF:0,Ar:Al Karma TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Karma TV
 http://srvt.topiptv.org:80/new_start.app/App65080/733
-#EXTINF:0,Ar:Al Kawthar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Kawthar
 http://srvt.topiptv.org:80/new_start.app/App65080/732
-#EXTINF:0,Ar:Al Kitab
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Kitab
 http://srvt.topiptv.org:80/new_start.app/App65080/731
-#EXTINF:0,Ar:Al Maaly
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Maaly
 http://srvt.topiptv.org:80/new_start.app/App65080/730
-#EXTINF:0,Ar:Al Maaref
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Maaref
 http://srvt.topiptv.org:80/new_start.app/App65080/729
-#EXTINF:0,Ar:AL Magharibia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Magharibia
 http://srvt.topiptv.org:80/new_start.app/App65080/804
-#EXTINF:0,Ar:Al Magharibia 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Magharibia 2
 http://srvt.topiptv.org:80/new_start.app/App65080/728
-#EXTINF:0,Ar:AL Majd
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Majd
 http://srvt.topiptv.org:80/new_start.app/App65080/803
-#EXTINF:0,Ar:AL Majd Educational
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Majd Educational
 http://srvt.topiptv.org:80/new_start.app/App65080/802
-#EXTINF:0,Ar:AL Majd Hadith
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Majd Hadith
 http://srvt.topiptv.org:80/new_start.app/App65080/801
-#EXTINF:0,Ar:AL Majd Kids
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Majd Kids
 http://srvt.topiptv.org:80/new_start.app/App65080/800
-#EXTINF:0,Ar:AL Majd Quran
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Majd Quran
 http://srvt.topiptv.org:80/new_start.app/App65080/799
-#EXTINF:0,Ar:Al Malakoot
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Malakoot
 http://srvt.topiptv.org:80/new_start.app/App65080/727
-#EXTINF:0,Ar:Al Manar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Manar
 http://srvt.topiptv.org:80/new_start.app/App65080/726
-#EXTINF:0,Ar:AL Mayadeen
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Mayadeen
 http://srvt.topiptv.org:80/new_start.app/App65080/798
-#EXTINF:0,Ar:Al Mehwer TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Mehwer TV
 http://srvt.topiptv.org:80/new_start.app/App65080/725
-#EXTINF:0,Ar:Al Mustakillah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Mustakillah
 http://srvt.topiptv.org:80/new_start.app/App65080/724
-#EXTINF:0,Ar:AL Nabaa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Nabaa
 http://srvt.topiptv.org:80/new_start.app/App65080/797
-#EXTINF:0,Ar:Al Nada
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Nada
 http://srvt.topiptv.org:80/new_start.app/App65080/723
-#EXTINF:0,Ar:AL Nahar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Nahar
 http://srvt.topiptv.org:80/new_start.app/App65080/796
-#EXTINF:0,Ar:Al Nahar Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Nahar Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/722
-#EXTINF:0,Ar:Al Nahar Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Nahar Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/721
-#EXTINF:0,Ar:Al Oula Maroc HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Oula Maroc HD
 http://srvt.topiptv.org:80/new_start.app/App65080/720
-#EXTINF:0,Ar:Al Oula Masr
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Oula Masr
 http://srvt.topiptv.org:80/new_start.app/App65080/719
-#EXTINF:0,Ar:Al Qamar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Qamar
 http://srvt.topiptv.org:80/new_start.app/App65080/718
-#EXTINF:0,Ar:Al Qanat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Qanat
 http://srvt.topiptv.org:80/new_start.app/App65080/717
-#EXTINF:0,Ar:Al Quds
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Quds
 http://srvt.topiptv.org:80/new_start.app/App65080/716
-#EXTINF:0,Ar:AL Rafidain
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Rafidain
 http://srvt.topiptv.org:80/new_start.app/App65080/795
-#EXTINF:0,Ar:Al Rahma TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Rahma TV
 http://srvt.topiptv.org:80/new_start.app/App65080/715
-#EXTINF:0,Ar:Al Rasheed
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Rasheed
 http://srvt.topiptv.org:80/new_start.app/App65080/714
-#EXTINF:0,Ar:Al Rayyan
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Rayyan
 http://srvt.topiptv.org:80/new_start.app/App65080/713
-#EXTINF:0,Ar:Al Resalah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Resalah
 http://srvt.topiptv.org:80/new_start.app/App65080/712
-#EXTINF:0,Ar:Al Saeeda
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Saeeda
 http://srvt.topiptv.org:80/new_start.app/App65080/711
-#EXTINF:0,Ar:Al Saeedah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Saeedah
 http://srvt.topiptv.org:80/new_start.app/App65080/710
-#EXTINF:0,Ar:Al Sahraa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Sahraa
 http://srvt.topiptv.org:80/new_start.app/App65080/709
-#EXTINF:0,Ar:AL Salam Palestine
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:AL Salam Palestine
 http://srvt.topiptv.org:80/new_start.app/App65080/794
-#EXTINF:0,Ar:Al Seha Waljamal TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Seha Waljamal TV
 http://srvt.topiptv.org:80/new_start.app/App65080/708
-#EXTINF:0,Ar:Al Shallal
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Shallal
 http://srvt.topiptv.org:80/new_start.app/App65080/707
-#EXTINF:0,Ar:Al Sharqiya News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Sharqiya News
 http://srvt.topiptv.org:80/new_start.app/App65080/706
-#EXTINF:0,Ar:Al Sirat TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Sirat TV
 http://srvt.topiptv.org:80/new_start.app/App65080/705
-#EXTINF:0,Ar:Al Sumaria
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Sumaria
 http://srvt.topiptv.org:80/new_start.app/App65080/704
-#EXTINF:0,Ar:Al Tanasuh TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Tanasuh TV
 http://srvt.topiptv.org:80/new_start.app/App65080/703
-#EXTINF:0,Ar:Al Thakafeyia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Thakafeyia
 http://srvt.topiptv.org:80/new_start.app/App65080/702
-#EXTINF:0,Ar:Al Thanya
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Thanya
 http://srvt.topiptv.org:80/new_start.app/App65080/701
-#EXTINF:0,Ar:Al Waad
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Waad
 http://srvt.topiptv.org:80/new_start.app/App65080/700
-#EXTINF:0,Ar:Al Waha
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Al Waha
 http://srvt.topiptv.org:80/new_start.app/App65080/699
-#EXTINF:0,Ar:Albait Baitak Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Albait Baitak Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/698
-#EXTINF:0,Ar:Algerie 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Algerie 3
 http://srvt.topiptv.org:80/new_start.app/App65080/697
-#EXTINF:0,Ar:Algerie 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Algerie 4
 http://srvt.topiptv.org:80/new_start.app/App65080/696
-#EXTINF:0,Ar:Algerie 5 Quoran
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Algerie 5 Quoran
 http://srvt.topiptv.org:80/new_start.app/App65080/695
-#EXTINF:0,Ar:ANB
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ANB
 http://srvt.topiptv.org:80/new_start.app/App65080/793
-#EXTINF:0,Ar:ANN
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ANN
 http://srvt.topiptv.org:80/new_start.app/App65080/792
-#EXTINF:0,Ar:Arabica
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Arabica
 http://srvt.topiptv.org:80/new_start.app/App65080/694
-#EXTINF:0,Ar:Arrabiaa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Arrabiaa
 http://srvt.topiptv.org:80/new_start.app/App65080/693
-#EXTINF:0,Ar:Arriadia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Arriadia
 http://srvt.topiptv.org:80/new_start.app/App65080/692
-#EXTINF:0,Ar:ART Aflam 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ART Aflam 1
 http://srvt.topiptv.org:80/new_start.app/App65080/791
-#EXTINF:0,Ar:ART Aflam 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ART Aflam 2
 http://srvt.topiptv.org:80/new_start.app/App65080/790
-#EXTINF:0,Ar:ART Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ART Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/789
-#EXTINF:0,Ar:ART Hekayat 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ART Hekayat 1
 http://srvt.topiptv.org:80/new_start.app/App65080/787
-#EXTINF:0,Ar:ART Hikayat 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ART Hikayat 2
 http://srvt.topiptv.org:80/new_start.app/App65080/788
-#EXTINF:0,Ar:Ashorooq
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Ashorooq
 http://srvt.topiptv.org:80/new_start.app/App65080/691
-#EXTINF:0,Ar:Asia TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Asia TV
 http://srvt.topiptv.org:80/new_start.app/App65080/690
-#EXTINF:0,Ar:Assadisa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Assadisa
 http://srvt.topiptv.org:80/new_start.app/App65080/689
-#EXTINF:0,Ar:Atfal & Mawaheb
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Atfal & Mawaheb
 http://srvt.topiptv.org:80/new_start.app/App65080/688
-#EXTINF:0,Ar:Attesia TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Attesia TV
 http://srvt.topiptv.org:80/new_start.app/App65080/687
-#EXTINF:0,Ar:Azhari TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Azhari TV
 http://srvt.topiptv.org:80/new_start.app/App65080/686
-#EXTINF:0,Ar:B4U Aflam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:B4U Aflam
 http://srvt.topiptv.org:80/new_start.app/App65080/685
-#EXTINF:0,Ar:Baghdad TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Baghdad TV
 http://srvt.topiptv.org:80/new_start.app/App65080/683
-#EXTINF:0,Ar:Bahia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Bahia
 http://srvt.topiptv.org:80/new_start.app/App65080/682
-#EXTINF:0,Ar:Bahrain International
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Bahrain International
 http://srvt.topiptv.org:80/new_start.app/App65080/681
-#EXTINF:0,Ar:Bahrain Quran
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Bahrain Quran
 http://srvt.topiptv.org:80/new_start.app/App65080/680
-#EXTINF:0,Ar:Bahrain Sport 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Bahrain Sport 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/679
-#EXTINF:0,Ar:Bahrain Sport 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Bahrain Sport 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/678
-#EXTINF:0,Ar:Bahrain TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Bahrain TV
 http://srvt.topiptv.org:80/new_start.app/App65080/677
-#EXTINF:0,Ar:BBC Arabic
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:BBC Arabic
 http://srvt.topiptv.org:80/new_start.app/App65080/684
-#EXTINF:0,Ar:Bedaya
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Bedaya
 http://srvt.topiptv.org:80/new_start.app/App65080/676
-#EXTINF:0,Ar:beIN Baby TV
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/289
-#EXTINF:0,Ar:beIN Baraem HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beIN Baraem HD
 http://srvt.topiptv.org:80/new_start.app/App65080/288
-#EXTINF:0,Ar:beIN Dream Works HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/287
-#EXTINF:0,Ar:beIN Extreme Sports HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/286
-#EXTINF:0,Ar:beIN Fatafeat HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beIN Fatafeat HD
 http://srvt.topiptv.org:80/new_start.app/App65080/285
-#EXTINF:0,Ar:beIN Fox Action Movies HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/284
-#EXTINF:0,Ar:beIN Jeem HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beIN Jeem HD
 http://srvt.topiptv.org:80/new_start.app/App65080/283
-#EXTINF:0,Ar:beIN Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/281
-#EXTINF:0,Ar:beIN Nat Geo People HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/280
-#EXTINF:0,Ar:beIN Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/279
-#EXTINF:0,Ar:beIN NBA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beIN NBA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/282
-#EXTINF:0,Ar:beIN Series
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/276
-#EXTINF:0,Ar:beIN Series 1 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/278
-#EXTINF:0,Ar:beIN Series 2 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/277
-#EXTINF:0,Ar:beIN Sports Global
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/275
-#EXTINF:0,Ar:beIN Travel HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/274
-#EXTINF:0,Ar:beINMovies 1 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/273
-#EXTINF:0,Ar:beINMovies 2 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/272
-#EXTINF:0,Ar:beINMovies 3 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/271
-#EXTINF:0,Ar:beINMovies 4 HD
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/270
-#EXTINF:0,Ar:beINSport 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 1
 http://srvt.topiptv.org:80/new_start.app/App65080/269
-#EXTINF:0,Ar:beINSport 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/268
-#EXTINF:0,Ar:beINSport 1 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 1 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/267
-#EXTINF:0,Ar:beINSport 10
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 10
 http://srvt.topiptv.org:80/new_start.app/App65080/266
-#EXTINF:0,Ar:beINSport 10 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 10 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/265
-#EXTINF:0,Ar:beINSport 10 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 10 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/264
-#EXTINF:0,Ar:beINSport 11
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 11
 http://srvt.topiptv.org:80/new_start.app/App65080/263
-#EXTINF:0,Ar:beINSport 11 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 11 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/262
-#EXTINF:0,Ar:beINSport 12
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 12
 http://srvt.topiptv.org:80/new_start.app/App65080/261
-#EXTINF:0,Ar:beINSport 12 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 12 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/260
-#EXTINF:0,Ar:beINSport 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 2
 http://srvt.topiptv.org:80/new_start.app/App65080/259
-#EXTINF:0,Ar:beINSport 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/258
-#EXTINF:0,Ar:beINSport 2 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 2 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/257
-#EXTINF:0,Ar:beINSport 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 3
 http://srvt.topiptv.org:80/new_start.app/App65080/256
-#EXTINF:0,Ar:beINSport 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/255
-#EXTINF:0,Ar:beINSport 3 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 3 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/254
-#EXTINF:0,Ar:beINSport 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 4
 http://srvt.topiptv.org:80/new_start.app/App65080/253
-#EXTINF:0,Ar:beINSport 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 4 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/252
-#EXTINF:0,Ar:beINSport 4 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 4 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/251
-#EXTINF:0,Ar:beINSport 5
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 5
 http://srvt.topiptv.org:80/new_start.app/App65080/250
-#EXTINF:0,Ar:beINSport 5 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 5 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/249
-#EXTINF:0,Ar:beINSport 5 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 5 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/248
-#EXTINF:0,Ar:beINSport 6
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 6
 http://srvt.topiptv.org:80/new_start.app/App65080/247
-#EXTINF:0,Ar:beINSport 6 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 6 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/246
-#EXTINF:0,Ar:beINSport 6 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 6 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/245
-#EXTINF:0,Ar:beINSport 7
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 7
 http://srvt.topiptv.org:80/new_start.app/App65080/244
-#EXTINF:0,Ar:beINSport 7 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 7 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/243
-#EXTINF:0,Ar:beINSport 7 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 7 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/242
-#EXTINF:0,Ar:beINSport 8
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 8
 http://srvt.topiptv.org:80/new_start.app/App65080/241
-#EXTINF:0,Ar:beINSport 8 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 8 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/240
-#EXTINF:0,Ar:beINSport 8 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 8 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/239
-#EXTINF:0,Ar:beINSport 9
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 9
 http://srvt.topiptv.org:80/new_start.app/App65080/238
-#EXTINF:0,Ar:beINSport 9 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 9 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/237
-#EXTINF:0,Ar:beINSport 9 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport 9 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/236
-#EXTINF:0,Ar:beINSport AlKass 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport AlKass 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/235
-#EXTINF:0,Ar:beINSport AlKass 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport AlKass 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/234
-#EXTINF:0,Ar:beINSport AlKass 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport AlKass 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/233
-#EXTINF:0,Ar:beINSport AlKass 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport AlKass 4 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/232
-#EXTINF:0,Ar:beINSport News HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:beINSport News HD
 http://srvt.topiptv.org:80/new_start.app/App65080/231
-#EXTINF:0,Ar:Belody Aflam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Belody Aflam
 http://srvt.topiptv.org:80/new_start.app/App65080/675
-#EXTINF:0,Ar:Belqees
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Belqees
 http://srvt.topiptv.org:80/new_start.app/App65080/674
-#EXTINF:0,Ar:Beur TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Beur TV
 http://srvt.topiptv.org:80/new_start.app/App65080/673
-#EXTINF:0,Ar:Blue Nile Channel
-#EXTVLCOPT:network-caching=1000
-http://srvt.topiptv.org:80/new_start.app/App65080/672
-#EXTINF:0,Ar:Cairo Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cairo Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/661
-#EXTINF:0,Ar:Cairo Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cairo Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/660
-#EXTINF:0,Ar:Cairo Film
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cairo Film
 http://srvt.topiptv.org:80/new_start.app/App65080/659
-#EXTINF:0,Ar:Canal Algerie
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Canal Algerie
 http://srvt.topiptv.org:80/new_start.app/App65080/658
-#EXTINF:0,Ar:Carthage
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Carthage
 http://srvt.topiptv.org:80/new_start.app/App65080/657
-#EXTINF:0,Ar:Cartoon Network
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cartoon Network
 http://srvt.topiptv.org:80/new_start.app/App65080/656
-#EXTINF:0,Ar:CBC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CBC
 http://srvt.topiptv.org:80/new_start.app/App65080/670
-#EXTINF:0,Ar:CBC 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CBC 2
 http://srvt.topiptv.org:80/new_start.app/App65080/671
-#EXTINF:0,Ar:CBC Benna
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CBC Benna
 http://srvt.topiptv.org:80/new_start.app/App65080/624
-#EXTINF:0,Ar:CBC Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CBC Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/669
-#EXTINF:0,Ar:CBC Extra
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CBC Extra
 http://srvt.topiptv.org:80/new_start.app/App65080/668
-#EXTINF:0,Ar:CBC Sofra
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CBC Sofra
 http://srvt.topiptv.org:80/new_start.app/App65080/667
-#EXTINF:0,Ar:CCTV News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CCTV News
 http://srvt.topiptv.org:80/new_start.app/App65080/666
-#EXTINF:0,Ar:Cima
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cima
 http://srvt.topiptv.org:80/new_start.app/App65080/655
-#EXTINF:0,Ar:Cinema 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cinema 1
 http://srvt.topiptv.org:80/new_start.app/App65080/654
-#EXTINF:0,Ar:Cinema 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cinema 2
 http://srvt.topiptv.org:80/new_start.app/App65080/653
-#EXTINF:0,Ar:Cinema Pro
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Cinema Pro
 http://srvt.topiptv.org:80/new_start.app/App65080/652
-#EXTINF:0,Ar:City 7
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:City 7
 http://srvt.topiptv.org:80/new_start.app/App65080/651
-#EXTINF:0,Ar:CNBC Arabiyah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CNBC Arabiyah
 http://srvt.topiptv.org:80/new_start.app/App65080/665
-#EXTINF:0,Ar:CNN
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CNN
 http://srvt.topiptv.org:80/new_start.app/App65080/664
-#EXTINF:0,Ar:CTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CTV
 http://srvt.topiptv.org:80/new_start.app/App65080/663
-#EXTINF:0,Ar:CTV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:CTV HD
 http://srvt.topiptv.org:80/new_start.app/App65080/662
-#EXTINF:0,Ar:Darbaka Aflam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Darbaka Aflam
 http://srvt.topiptv.org:80/new_start.app/App65080/646
-#EXTINF:0,Ar:Dijla TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dijla TV
 http://srvt.topiptv.org:80/new_start.app/App65080/645
-#EXTINF:0,Ar:DMC Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:DMC Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/650
-#EXTINF:0,Ar:DMC HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:DMC HD
 http://srvt.topiptv.org:80/new_start.app/App65080/649
-#EXTINF:0,Ar:DMC Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:DMC Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/648
-#EXTINF:0,Ar:Dorar TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dorar TV
 http://srvt.topiptv.org:80/new_start.app/App65080/644
-#EXTINF:0,Ar:Dream 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dream 1
 http://srvt.topiptv.org:80/new_start.app/App65080/643
-#EXTINF:0,Ar:Dream 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dream 2
 http://srvt.topiptv.org:80/new_start.app/App65080/642
-#EXTINF:0,Ar:Dubai Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/641
-#EXTINF:0,Ar:Dubai One HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai One HD
 http://srvt.topiptv.org:80/new_start.app/App65080/640
-#EXTINF:0,Ar:Dubai Racing Channel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai Racing Channel
 http://srvt.topiptv.org:80/new_start.app/App65080/639
-#EXTINF:0,Ar:Dubai Sport 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai Sport 1
 http://srvt.topiptv.org:80/new_start.app/App65080/638
-#EXTINF:0,Ar:Dubai Sport 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai Sport 2
 http://srvt.topiptv.org:80/new_start.app/App65080/637
-#EXTINF:0,Ar:Dubai Sport 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai Sport 3
 http://srvt.topiptv.org:80/new_start.app/App65080/636
-#EXTINF:0,Ar:Dubai Sport 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai Sport 4
 http://srvt.topiptv.org:80/new_start.app/App65080/635
-#EXTINF:0,Ar:Dubai TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai TV
 http://srvt.topiptv.org:80/new_start.app/App65080/634
-#EXTINF:0,Ar:Dubai Zaman
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dubai Zaman
 http://srvt.topiptv.org:80/new_start.app/App65080/633
-#EXTINF:0,Ar:DW TV Arabia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:DW TV Arabia
 http://srvt.topiptv.org:80/new_start.app/App65080/647
-#EXTINF:0,Ar:Dzair New
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dzair New
 http://srvt.topiptv.org:80/new_start.app/App65080/632
-#EXTINF:0,Ar:Dzair TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Dzair TV
 http://srvt.topiptv.org:80/new_start.app/App65080/631
-#EXTINF:0,Ar:Echourouk News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Echourouk News
 http://srvt.topiptv.org:80/new_start.app/App65080/623
-#EXTINF:0,Ar:Echourouk TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Echourouk TV
 http://srvt.topiptv.org:80/new_start.app/App65080/622
-#EXTINF:0,Ar:EL Bilad
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:EL Bilad
 http://srvt.topiptv.org:80/new_start.app/App65080/630
-#EXTINF:0,Ar:EL Djazairia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:EL Djazairia
 http://srvt.topiptv.org:80/new_start.app/App65080/629
-#EXTINF:0,Ar:El Heddaf
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:El Heddaf
 http://srvt.topiptv.org:80/new_start.app/App65080/621
-#EXTINF:0,Ar:EL Heddaf TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:EL Heddaf TV
 http://srvt.topiptv.org:80/new_start.app/App65080/628
-#EXTINF:0,Ar:El Hiwar Ettounsi TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:El Hiwar Ettounsi TV
 http://srvt.topiptv.org:80/new_start.app/App65080/620
-#EXTINF:0,Ar:El Moled
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:El Moled
 http://srvt.topiptv.org:80/new_start.app/App65080/619
-#EXTINF:0,Ar:El Sharq
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:El Sharq
 http://srvt.topiptv.org:80/new_start.app/App65080/618
-#EXTINF:0,Ar:ENNahar TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ENNahar TV
 http://srvt.topiptv.org:80/new_start.app/App65080/627
-#EXTINF:0,Ar:ENTV Algerie
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ENTV Algerie
 http://srvt.topiptv.org:80/new_start.app/App65080/626
-#EXTINF:0,Ar:ESC Al Masriya
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ESC Al Masriya
 http://srvt.topiptv.org:80/new_start.app/App65080/625
-#EXTINF:0,Ar:Euronews Arabic
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Euronews Arabic
 http://srvt.topiptv.org:80/new_start.app/App65080/617
-#EXTINF:0,Ar:Fatafeat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Fatafeat
 http://srvt.topiptv.org:80/new_start.app/App65080/615
-#EXTINF:0,Ar:First TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:First TV
 http://srvt.topiptv.org:80/new_start.app/App65080/614
-#EXTINF:0,Ar:FM
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:FM
 http://srvt.topiptv.org:80/new_start.app/App65080/616
-#EXTINF:0,Ar:France 24
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:France 24
 http://srvt.topiptv.org:80/new_start.app/App65080/613
-#EXTINF:0,Ar:Free TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Free TV
 http://srvt.topiptv.org:80/new_start.app/App65080/612
-#EXTINF:0,Ar:Fujairah TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Fujairah TV
 http://srvt.topiptv.org:80/new_start.app/App65080/611
-#EXTINF:0,Ar:Funoon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Funoon
 http://srvt.topiptv.org:80/new_start.app/App65080/610
-#EXTINF:0,Ar:Future Lebanon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Future Lebanon
 http://srvt.topiptv.org:80/new_start.app/App65080/609
-#EXTINF:0,Ar:Hala Palestine
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hala Palestine
 http://srvt.topiptv.org:80/new_start.app/App65080/608
-#EXTINF:0,Ar:Hannibal
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hannibal
 http://srvt.topiptv.org:80/new_start.app/App65080/607
-#EXTINF:0,Ar:Hareem Elsultan
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hareem Elsultan
 http://srvt.topiptv.org:80/new_start.app/App65080/606
-#EXTINF:0,Ar:Hawacom
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hawacom
 http://srvt.topiptv.org:80/new_start.app/App65080/605
-#EXTINF:0,Ar:Hawacom TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hawacom TV
 http://srvt.topiptv.org:80/new_start.app/App65080/604
-#EXTINF:0,Ar:Hodhod
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hodhod
 http://srvt.topiptv.org:80/new_start.app/App65080/603
-#EXTINF:0,Ar:Hona Alquds
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hona Alquds
 http://srvt.topiptv.org:80/new_start.app/App65080/602
-#EXTINF:0,Ar:Hona Baghdad
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Hona Baghdad
 http://srvt.topiptv.org:80/new_start.app/App65080/601
-#EXTINF:0,Ar:iFilm
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:iFilm
 http://srvt.topiptv.org:80/new_start.app/App65080/230
-#EXTINF:0,Ar:Imagine Movies
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Imagine Movies
 http://srvt.topiptv.org:80/new_start.app/App65080/599
-#EXTINF:0,Ar:Iqraa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Iqraa
 http://srvt.topiptv.org:80/new_start.app/App65080/598
-#EXTINF:0,Ar:Iraqia Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Iraqia Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/597
-#EXTINF:0,Ar:Iraqia TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Iraqia TV
 http://srvt.topiptv.org:80/new_start.app/App65080/596
-#EXTINF:0,Ar:IUC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:IUC
 http://srvt.topiptv.org:80/new_start.app/App65080/600
-#EXTINF:0,Ar:Jordan Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Jordan Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/595
-#EXTINF:0,Ar:Jordan TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Jordan TV
 http://srvt.topiptv.org:80/new_start.app/App65080/594
-#EXTINF:0,Ar:Karamesh
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Karamesh
 http://srvt.topiptv.org:80/new_start.app/App65080/587
-#EXTINF:0,Ar:Karbala TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Karbala TV
 http://srvt.topiptv.org:80/new_start.app/App65080/586
-#EXTINF:0,Ar:KBC Algerie
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:KBC Algerie
 http://srvt.topiptv.org:80/new_start.app/App65080/593
-#EXTINF:0,Ar:Khaer TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Khaer TV
 http://srvt.topiptv.org:80/new_start.app/App65080/585
-#EXTINF:0,Ar:Kids Baraem
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Kids Baraem
 http://srvt.topiptv.org:80/new_start.app/App65080/584
-#EXTINF:0,Ar:Koky Kids
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Koky Kids
 http://srvt.topiptv.org:80/new_start.app/App65080/583
-#EXTINF:0,Ar:Koogi TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Koogi TV
 http://srvt.topiptv.org:80/new_start.app/App65080/582
-#EXTINF:0,Ar:KTV 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:KTV 1
 http://srvt.topiptv.org:80/new_start.app/App65080/592
-#EXTINF:0,Ar:KTV 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:KTV 2
 http://srvt.topiptv.org:80/new_start.app/App65080/591
-#EXTINF:0,Ar:KTV Arabe
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:KTV Arabe
 http://srvt.topiptv.org:80/new_start.app/App65080/590
-#EXTINF:0,Ar:KTV Ethraa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:KTV Ethraa
 http://srvt.topiptv.org:80/new_start.app/App65080/589
-#EXTINF:0,Ar:KTV Sport Plus
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:KTV Sport Plus
 http://srvt.topiptv.org:80/new_start.app/App65080/588
-#EXTINF:0,Ar:Kuwait AL Arabi
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Kuwait AL Arabi
 http://srvt.topiptv.org:80/new_start.app/App65080/581
-#EXTINF:0,Ar:Kuwait Ethraa
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Kuwait Ethraa
 http://srvt.topiptv.org:80/new_start.app/App65080/580
-#EXTINF:0,Ar:Kuwait Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Kuwait Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/579
-#EXTINF:0,Ar:Kuwait Sport Plus
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Kuwait Sport Plus
 http://srvt.topiptv.org:80/new_start.app/App65080/578
-#EXTINF:0,Ar:Kuwait TV 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Kuwait TV 1
 http://srvt.topiptv.org:80/new_start.app/App65080/577
-#EXTINF:0,Ar:Kuwait TV 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Kuwait TV 2
 http://srvt.topiptv.org:80/new_start.app/App65080/576
-#EXTINF:0,Ar:Layali Al Ons
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Layali Al Ons
 http://srvt.topiptv.org:80/new_start.app/App65080/571
-#EXTINF:0,Ar:LBC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:LBC
 http://srvt.topiptv.org:80/new_start.app/App65080/575
-#EXTINF:0,Ar:LBC Sat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:LBC Sat
 http://srvt.topiptv.org:80/new_start.app/App65080/574
-#EXTINF:0,Ar:LDC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:LDC
 http://srvt.topiptv.org:80/new_start.app/App65080/573
-#EXTINF:0,Ar:Lebanon TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Lebanon TV
 http://srvt.topiptv.org:80/new_start.app/App65080/570
-#EXTINF:0,Ar:Libya 218
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libya 218
 http://srvt.topiptv.org:80/new_start.app/App65080/569
-#EXTINF:0,Ar:Libya 24
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libya 24
 http://srvt.topiptv.org:80/new_start.app/App65080/568
-#EXTINF:0,Ar:Libya Al Ahrar
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libya Al Ahrar
 http://srvt.topiptv.org:80/new_start.app/App65080/567
-#EXTINF:0,Ar:Libya Almarah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libya Almarah
 http://srvt.topiptv.org:80/new_start.app/App65080/566
-#EXTINF:0,Ar:Libya Alrasmeya
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libya Alrasmeya
 http://srvt.topiptv.org:80/new_start.app/App65080/565
-#EXTINF:0,Ar:Libya One
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libya One
 http://srvt.topiptv.org:80/new_start.app/App65080/564
-#EXTINF:0,Ar:Libya TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libya TV
 http://srvt.topiptv.org:80/new_start.app/App65080/563
-#EXTINF:0,Ar:Libyas Channel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Libyas Channel
 http://srvt.topiptv.org:80/new_start.app/App65080/562
-#EXTINF:0,Ar:Logos TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Logos TV
 http://srvt.topiptv.org:80/new_start.app/App65080/561
-#EXTINF:0,Ar:LTC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:LTC
 http://srvt.topiptv.org:80/new_start.app/App65080/572
-#EXTINF:0,Ar:M Tunisia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:M Tunisia
 http://srvt.topiptv.org:80/new_start.app/App65080/560
-#EXTINF:0,Ar:Maan Palestine
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Maan Palestine
 http://srvt.topiptv.org:80/new_start.app/App65080/514
-#EXTINF:0,Ar:Madani Channel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Madani Channel
 http://srvt.topiptv.org:80/new_start.app/App65080/513
-#EXTINF:0,Ar:Majid Kids TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Majid Kids TV
 http://srvt.topiptv.org:80/new_start.app/App65080/512
-#EXTINF:0,Ar:Marjaeyat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Marjaeyat
 http://srvt.topiptv.org:80/new_start.app/App65080/511
-#EXTINF:0,Ar:Maspero Zaman
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Maspero Zaman
 http://srvt.topiptv.org:80/new_start.app/App65080/510
-#EXTINF:0,Ar:Mazzika 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Mazzika 1
 http://srvt.topiptv.org:80/new_start.app/App65080/509
-#EXTINF:0,Ar:MBC 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 1
 http://srvt.topiptv.org:80/new_start.app/App65080/559
-#EXTINF:0,Ar:MBC 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/558
-#EXTINF:0,Ar:MBC 1 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 1 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/557
-#EXTINF:0,Ar:MBC 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 2
 http://srvt.topiptv.org:80/new_start.app/App65080/556
-#EXTINF:0,Ar:MBC 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/555
-#EXTINF:0,Ar:MBC 2 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 2 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/554
-#EXTINF:0,Ar:MBC 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 3
 http://srvt.topiptv.org:80/new_start.app/App65080/553
-#EXTINF:0,Ar:MBC 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/552
-#EXTINF:0,Ar:MBC 3 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 3 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/551
-#EXTINF:0,Ar:MBC 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 4
 http://srvt.topiptv.org:80/new_start.app/App65080/550
-#EXTINF:0,Ar:MBC 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 4 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/549
-#EXTINF:0,Ar:MBC 4 HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC 4 HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/548
-#EXTINF:0,Ar:MBC Action
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Action
 http://srvt.topiptv.org:80/new_start.app/App65080/547
-#EXTINF:0,Ar:MBC Action HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Action HD
 http://srvt.topiptv.org:80/new_start.app/App65080/546
-#EXTINF:0,Ar:MBC Action HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Action HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/545
-#EXTINF:0,Ar:MBC Bollywood
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Bollywood
 http://srvt.topiptv.org:80/new_start.app/App65080/544
-#EXTINF:0,Ar:MBC Boolywood HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Boolywood HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/543
-#EXTINF:0,Ar:MBC Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/542
-#EXTINF:0,Ar:MBC Drama HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Drama HD
 http://srvt.topiptv.org:80/new_start.app/App65080/541
-#EXTINF:0,Ar:MBC Drama HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Drama HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/540
-#EXTINF:0,Ar:MBC Egypt
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Egypt
 http://srvt.topiptv.org:80/new_start.app/App65080/539
-#EXTINF:0,Ar:MBC Masr 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Masr 1
 http://srvt.topiptv.org:80/new_start.app/App65080/537
-#EXTINF:0,Ar:MBC Masr 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Masr 2
 http://srvt.topiptv.org:80/new_start.app/App65080/536
-#EXTINF:0,Ar:MBC Max
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Max
 http://srvt.topiptv.org:80/new_start.app/App65080/535
-#EXTINF:0,Ar:MBC Max HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Max HD
 http://srvt.topiptv.org:80/new_start.app/App65080/534
-#EXTINF:0,Ar:MBC MAX HD VIP
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC MAX HD VIP
 http://srvt.topiptv.org:80/new_start.app/App65080/538
-#EXTINF:0,Ar:MBC P Variety HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC P Variety HD
 http://srvt.topiptv.org:80/new_start.app/App65080/533
-#EXTINF:0,Ar:MBC Plus Drama HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Plus Drama HD
 http://srvt.topiptv.org:80/new_start.app/App65080/532
-#EXTINF:0,Ar:MBC Pro Sport 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Pro Sport 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/531
-#EXTINF:0,Ar:MBC Pro Sport 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Pro Sport 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/530
-#EXTINF:0,Ar:MBC Pro Sport 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MBC Pro Sport 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/529
-#EXTINF:0,Ar:Me Sat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Me Sat
 http://srvt.topiptv.org:80/new_start.app/App65080/508
-#EXTINF:0,Ar:Mecca
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Mecca
 http://srvt.topiptv.org:80/new_start.app/App65080/507
-#EXTINF:0,Ar:Medi 1 Sat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Medi 1 Sat
 http://srvt.topiptv.org:80/new_start.app/App65080/506
-#EXTINF:0,Ar:Melody Classic
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Melody Classic
 http://srvt.topiptv.org:80/new_start.app/App65080/505
-#EXTINF:0,Ar:Mickey Channel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Mickey Channel
 http://srvt.topiptv.org:80/new_start.app/App65080/504
-#EXTINF:0,Ar:Miracle Channel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Miracle Channel
 http://srvt.topiptv.org:80/new_start.app/App65080/503
-#EXTINF:0,Ar:Misr ELBald
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Misr ELBald
 http://srvt.topiptv.org:80/new_start.app/App65080/502
-#EXTINF:0,Ar:Moga Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Moga Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/501
-#EXTINF:0,Ar:Moga Comedy
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Moga Comedy
 http://srvt.topiptv.org:80/new_start.app/App65080/500
-#EXTINF:0,Ar:MTA 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MTA 3
 http://srvt.topiptv.org:80/new_start.app/App65080/528
-#EXTINF:0,Ar:MTV Lebanon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:MTV Lebanon
 http://srvt.topiptv.org:80/new_start.app/App65080/527
-#EXTINF:0,Ar:Music Alhanen
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Music Alhanen
 http://srvt.topiptv.org:80/new_start.app/App65080/499
-#EXTINF:0,Ar:Nahyoum
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nahyoum
 http://srvt.topiptv.org:80/new_start.app/App65080/497
-#EXTINF:0,Ar:NBN
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:NBN
 http://srvt.topiptv.org:80/new_start.app/App65080/498
-#EXTINF:0,Ar:Neelain Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Neelain Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/496
-#EXTINF:0,Ar:Nessma TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nessma TV
 http://srvt.topiptv.org:80/new_start.app/App65080/495
-#EXTINF:0,Ar:Nile Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/494
-#EXTINF:0,Ar:Nile Comedy
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile Comedy
 http://srvt.topiptv.org:80/new_start.app/App65080/493
-#EXTINF:0,Ar:Nile Culture
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile Culture
 http://srvt.topiptv.org:80/new_start.app/App65080/492
-#EXTINF:0,Ar:Nile Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/491
-#EXTINF:0,Ar:Nile Family
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile Family
 http://srvt.topiptv.org:80/new_start.app/App65080/490
-#EXTINF:0,Ar:Nile Life
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile Life
 http://srvt.topiptv.org:80/new_start.app/App65080/489
-#EXTINF:0,Ar:Nile News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile News
 http://srvt.topiptv.org:80/new_start.app/App65080/488
-#EXTINF:0,Ar:Nile Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/487
-#EXTINF:0,Ar:Nile TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nile TV
 http://srvt.topiptv.org:80/new_start.app/App65080/486
-#EXTINF:0,Ar:Noor Dubai
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noor Dubai
 http://srvt.topiptv.org:80/new_start.app/App65080/485
-#EXTINF:0,Ar:Noorsat Alsharq
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noorsat Alsharq
 http://srvt.topiptv.org:80/new_start.app/App65080/484
-#EXTINF:0,Ar:Noorsat Mariam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noorsat Mariam
 http://srvt.topiptv.org:80/new_start.app/App65080/483
-#EXTINF:0,Ar:Noorsat Music
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noorsat Music
 http://srvt.topiptv.org:80/new_start.app/App65080/482
-#EXTINF:0,Ar:Nour El Sham
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Nour El Sham
 http://srvt.topiptv.org:80/new_start.app/App65080/481
-#EXTINF:0,Ar:Noursat
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noursat
 http://srvt.topiptv.org:80/new_start.app/App65080/479
-#EXTINF:0,Ar:Noursat Acham
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noursat Acham
 http://srvt.topiptv.org:80/new_start.app/App65080/478
-#EXTINF:0,Ar:Noursat AL Shabab
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noursat AL Shabab
 http://srvt.topiptv.org:80/new_start.app/App65080/480
-#EXTINF:0,Ar:Noursat Kids
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noursat Kids
 http://srvt.topiptv.org:80/new_start.app/App65080/477
-#EXTINF:0,Ar:Noursat Koddass
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Noursat Koddass
 http://srvt.topiptv.org:80/new_start.app/App65080/476
-#EXTINF:0,Ar:Numedia Algerie
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Numedia Algerie
 http://srvt.topiptv.org:80/new_start.app/App65080/475
-#EXTINF:0,Ar:Oman Culture HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Oman Culture HD
 http://srvt.topiptv.org:80/new_start.app/App65080/378
-#EXTINF:0,Ar:Oman Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Oman Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/377
-#EXTINF:0,Ar:Oman TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Oman TV
 http://srvt.topiptv.org:80/new_start.app/App65080/376
-#EXTINF:0,Ar:Oman TV Live
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Oman TV Live
 http://srvt.topiptv.org:80/new_start.app/App65080/375
-#EXTINF:0,Ar:ON E
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ON E
 http://srvt.topiptv.org:80/new_start.app/App65080/474
-#EXTINF:0,Ar:ON Live
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ON Live
 http://srvt.topiptv.org:80/new_start.app/App65080/473
-#EXTINF:0,Ar:ON Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ON Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/472
-#EXTINF:0,Ar:ON TV Egypt
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:ON TV Egypt
 http://srvt.topiptv.org:80/new_start.app/App65080/471
-#EXTINF:0,Ar:Orient
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Orient
 http://srvt.topiptv.org:80/new_start.app/App65080/374
-#EXTINF:0,Ar:OTV Lebanon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:OTV Lebanon
 http://srvt.topiptv.org:80/new_start.app/App65080/379
-#EXTINF:0,Ar:Palestine Live
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Palestine Live
 http://srvt.topiptv.org:80/new_start.app/App65080/373
-#EXTINF:0,Ar:Palestine News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Palestine News
 http://srvt.topiptv.org:80/new_start.app/App65080/372
-#EXTINF:0,Ar:Palestine Today
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Palestine Today
 http://srvt.topiptv.org:80/new_start.app/App65080/370
-#EXTINF:0,Ar:Palestine TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Palestine TV
 http://srvt.topiptv.org:80/new_start.app/App65080/371
-#EXTINF:0,Ar:Panorama Comedy
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Panorama Comedy
 http://srvt.topiptv.org:80/new_start.app/App65080/369
-#EXTINF:0,Ar:Panorama Drama 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Panorama Drama 1
 http://srvt.topiptv.org:80/new_start.app/App65080/368
-#EXTINF:0,Ar:Panorama Drama 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Panorama Drama 2
 http://srvt.topiptv.org:80/new_start.app/App65080/367
-#EXTINF:0,Ar:Panorama Film
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Panorama Film
 http://srvt.topiptv.org:80/new_start.app/App65080/366
-#EXTINF:0,Ar:Panorama Food
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Panorama Food
 http://srvt.topiptv.org:80/new_start.app/App65080/365
-#EXTINF:0,Ar:Press TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Press TV
 http://srvt.topiptv.org:80/new_start.app/App65080/364
-#EXTINF:0,Ar:Qatar TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Qatar TV
 http://srvt.topiptv.org:80/new_start.app/App65080/363
-#EXTINF:0,Ar:Qatar TV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Qatar TV HD
 http://srvt.topiptv.org:80/new_start.app/App65080/362
-#EXTINF:0,Ar:Quest Arabiya
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Quest Arabiya
 http://srvt.topiptv.org:80/new_start.app/App65080/361
-#EXTINF:0,Ar:Raya Palestine
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Raya Palestine
 http://srvt.topiptv.org:80/new_start.app/App65080/360
-#EXTINF:0,Ar:Resalat Al Islam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Resalat Al Islam
 http://srvt.topiptv.org:80/new_start.app/App65080/359
-#EXTINF:0,Ar:Rotana
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana
 http://srvt.topiptv.org:80/new_start.app/App65080/358
-#EXTINF:0,Ar:Rotana Aflam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Aflam
 http://srvt.topiptv.org:80/new_start.app/App65080/357
-#EXTINF:0,Ar:Rotana Aflam HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Aflam HD
 http://srvt.topiptv.org:80/new_start.app/App65080/356
-#EXTINF:0,Ar:Rotana Cinema EGY
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Cinema EGY
 http://srvt.topiptv.org:80/new_start.app/App65080/355
-#EXTINF:0,Ar:Rotana Cinema HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Cinema HD
 http://srvt.topiptv.org:80/new_start.app/App65080/354
-#EXTINF:0,Ar:Rotana Cinema KSA
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Cinema KSA
 http://srvt.topiptv.org:80/new_start.app/App65080/353
-#EXTINF:0,Ar:Rotana Classic
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Classic
 http://srvt.topiptv.org:80/new_start.app/App65080/352
-#EXTINF:0,Ar:Rotana Classic HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Classic HD
 http://srvt.topiptv.org:80/new_start.app/App65080/351
-#EXTINF:0,Ar:Rotana Clip
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Clip
 http://srvt.topiptv.org:80/new_start.app/App65080/350
-#EXTINF:0,Ar:Rotana Khalijiah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Khalijiah
 http://srvt.topiptv.org:80/new_start.app/App65080/349
-#EXTINF:0,Ar:Rotana Khalijiah HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Khalijiah HD
 http://srvt.topiptv.org:80/new_start.app/App65080/348
-#EXTINF:0,Ar:Rotana Masriya
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Masriya
 http://srvt.topiptv.org:80/new_start.app/App65080/347
-#EXTINF:0,Ar:Rotana Masriya HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Masriya HD
 http://srvt.topiptv.org:80/new_start.app/App65080/346
-#EXTINF:0,Ar:Rotana Music
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Music
 http://srvt.topiptv.org:80/new_start.app/App65080/345
-#EXTINF:0,Ar:Rotana Music HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Rotana Music HD
 http://srvt.topiptv.org:80/new_start.app/App65080/344
-#EXTINF:0,Ar:Roya TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Roya TV
 http://srvt.topiptv.org:80/new_start.app/App65080/343
-#EXTINF:0,Ar:Russia Alyaum
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Russia Alyaum
 http://srvt.topiptv.org:80/new_start.app/App65080/342
-#EXTINF:0,Ar:Sada El Balad
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sada El Balad
 http://srvt.topiptv.org:80/new_start.app/App65080/341
-#EXTINF:0,Ar:Sada El Balad Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sada El Balad Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/340
-#EXTINF:0,Ar:Safa TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Safa TV
 http://srvt.topiptv.org:80/new_start.app/App65080/339
-#EXTINF:0,Ar:Sama Dubai
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sama Dubai
 http://srvt.topiptv.org:80/new_start.app/App65080/338
-#EXTINF:0,Ar:Sama Syria TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sama Syria TV
 http://srvt.topiptv.org:80/new_start.app/App65080/337
-#EXTINF:0,Ar:Sama TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sama TV
 http://srvt.topiptv.org:80/new_start.app/App65080/336
-#EXTINF:0,Ar:Sama Yemen
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sama Yemen
 http://srvt.topiptv.org:80/new_start.app/App65080/335
-#EXTINF:0,Ar:Samira TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Samira TV
 http://srvt.topiptv.org:80/new_start.app/App65080/334
-#EXTINF:0,Ar:Sat 7 Kids
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sat 7 Kids
 http://srvt.topiptv.org:80/new_start.app/App65080/333
-#EXTINF:0,Ar:Saudi 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Saudi 1
 http://srvt.topiptv.org:80/new_start.app/App65080/332
-#EXTINF:0,Ar:Saudi 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Saudi 2
 http://srvt.topiptv.org:80/new_start.app/App65080/331
-#EXTINF:0,Ar:Saudi Ajial
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Saudi Ajial
 http://srvt.topiptv.org:80/new_start.app/App65080/330
-#EXTINF:0,Ar:Saudi Quran TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Saudi Quran TV
 http://srvt.topiptv.org:80/new_start.app/App65080/329
-#EXTINF:0,Ar:Saudi Sport 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Saudi Sport 1
 http://srvt.topiptv.org:80/new_start.app/App65080/328
-#EXTINF:0,Ar:Saudi Sport 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Saudi Sport 2
 http://srvt.topiptv.org:80/new_start.app/App65080/327
-#EXTINF:0,Ar:Saudi Sunnah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Saudi Sunnah
 http://srvt.topiptv.org:80/new_start.app/App65080/326
-#EXTINF:0,Ar:Sharjah Sport
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sharjah Sport
 http://srvt.topiptv.org:80/new_start.app/App65080/325
-#EXTINF:0,Ar:Sharjah TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sharjah TV
 http://srvt.topiptv.org:80/new_start.app/App65080/324
-#EXTINF:0,Ar:Sharqia TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sharqia TV
 http://srvt.topiptv.org:80/new_start.app/App65080/323
-#EXTINF:0,Ar:Sky News Arabia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sky News Arabia
 http://srvt.topiptv.org:80/new_start.app/App65080/322
-#EXTINF:0,Ar:Sofra
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sofra
 http://srvt.topiptv.org:80/new_start.app/App65080/321
-#EXTINF:0,Ar:Sout El Shaab
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sout El Shaab
 http://srvt.topiptv.org:80/new_start.app/App65080/320
-#EXTINF:0,Ar:SpaceToon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:SpaceToon
 http://srvt.topiptv.org:80/new_start.app/App65080/319
-#EXTINF:0,Ar:Star Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Star Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/317
-#EXTINF:0,Ar:Star Cinema 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Star Cinema 2
 http://srvt.topiptv.org:80/new_start.app/App65080/318
-#EXTINF:0,Ar:Sudan Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sudan Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/316
-#EXTINF:0,Ar:Sudan TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Sudan TV
 http://srvt.topiptv.org:80/new_start.app/App65080/315
-#EXTINF:0,Ar:Syria
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Syria
 http://srvt.topiptv.org:80/new_start.app/App65080/314
-#EXTINF:0,Ar:Syria Education
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Syria Education
 http://srvt.topiptv.org:80/new_start.app/App65080/313
-#EXTINF:0,Ar:Syria Medical TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Syria Medical TV
 http://srvt.topiptv.org:80/new_start.app/App65080/312
-#EXTINF:0,Ar:Syria Nour
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Syria Nour
 http://srvt.topiptv.org:80/new_start.app/App65080/311
-#EXTINF:0,Ar:Syrian Drama
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Syrian Drama
 http://srvt.topiptv.org:80/new_start.app/App65080/310
-#EXTINF:0,Ar:Taha TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Taha TV
 http://srvt.topiptv.org:80/new_start.app/App65080/308
-#EXTINF:0,Ar:Tamazight
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Tamazight
 http://srvt.topiptv.org:80/new_start.app/App65080/307
-#EXTINF:0,Ar:Tele Liban
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Tele Liban
 http://srvt.topiptv.org:80/new_start.app/App65080/306
-#EXTINF:0,Ar:Telvza TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Telvza TV
 http://srvt.topiptv.org:80/new_start.app/App65080/305
-#EXTINF:0,Ar:Time Cinema
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Time Cinema
 http://srvt.topiptv.org:80/new_start.app/App65080/304
-#EXTINF:0,Ar:Time Quran
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Time Quran
 http://srvt.topiptv.org:80/new_start.app/App65080/303
-#EXTINF:0,Ar:TokTok Aflam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:TokTok Aflam
 http://srvt.topiptv.org:80/new_start.app/App65080/302
-#EXTINF:0,Ar:Toyor Al-Jannah
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Toyor Al-Jannah
 http://srvt.topiptv.org:80/new_start.app/App65080/301
-#EXTINF:0,Ar:Toyor Baby
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Toyor Baby
 http://srvt.topiptv.org:80/new_start.app/App65080/300
-#EXTINF:0,Ar:TRT Al Arabiye
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:TRT Al Arabiye
 http://srvt.topiptv.org:80/new_start.app/App65080/309
-#EXTINF:0,Ar:Tunisia First TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Tunisia First TV
 http://srvt.topiptv.org:80/new_start.app/App65080/299
-#EXTINF:0,Ar:Tunisia Nat 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Tunisia Nat 1
 http://srvt.topiptv.org:80/new_start.app/App65080/298
-#EXTINF:0,Ar:Tunisia Nat 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Tunisia Nat 2
 http://srvt.topiptv.org:80/new_start.app/App65080/297
-#EXTINF:0,Ar:Yas Sports
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Yas Sports
 http://srvt.topiptv.org:80/new_start.app/App65080/296
-#EXTINF:0,Ar:Yemen Shabab
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Yemen Shabab
 http://srvt.topiptv.org:80/new_start.app/App65080/295
-#EXTINF:0,Ar:Zaytouna Hidaya TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Zaytouna Hidaya TV
 http://srvt.topiptv.org:80/new_start.app/App65080/294
-#EXTINF:0,Ar:Zaytouna TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Zaytouna TV
 http://srvt.topiptv.org:80/new_start.app/App65080/293
-#EXTINF:0,Ar:Zee Aflam
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Zee Aflam
 http://srvt.topiptv.org:80/new_start.app/App65080/292
-#EXTINF:0,Ar:Zee Alwan
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Zee Alwan
 http://srvt.topiptv.org:80/new_start.app/App65080/291
-#EXTINF:0,Ar:Zweina Baladna
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Ar:Zweina Baladna
 http://srvt.topiptv.org:80/new_start.app/App65080/290
-#EXTINF:0,FR : TF1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,FR : TF1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/10
-#EXTINF:0,Fr:13 EME RUE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:13 EME RUE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/110
-#EXTINF:0,Fr:6TER HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:6TER HD
 http://srvt.topiptv.org:80/new_start.app/App65080/109
-#EXTINF:0,Fr:AB 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:AB 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/108
-#EXTINF:0,Fr:ACTION HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:ACTION HD
 http://srvt.topiptv.org:80/new_start.app/App65080/107
-#EXTINF:0,Fr:ANIMAUX HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:ANIMAUX HD
 http://srvt.topiptv.org:80/new_start.app/App65080/106
-#EXTINF:0,Fr:ARTE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:ARTE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/105
-#EXTINF:0,Fr:BEIN SPORT 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:BEIN SPORT 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/104
-#EXTINF:0,Fr:BEIN SPORT 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:BEIN SPORT 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/103
-#EXTINF:0,Fr:BEIN SPORT 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:BEIN SPORT 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/102
-#EXTINF:0,Fr:BFM HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:BFM HD
 http://srvt.topiptv.org:80/new_start.app/App65080/101
-#EXTINF:0,Fr:BOOMERANG HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:BOOMERANG HD
 http://srvt.topiptv.org:80/new_start.app/App65080/100
-#EXTINF:0,Fr:C8 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:C8 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/99
-#EXTINF:0,Fr:CANAL  CINEMA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL  CINEMA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/98
-#EXTINF:0,Fr:CANAL  DECALE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL  DECALE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/97
-#EXTINF:0,Fr:CANAL  FAMILY HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL  FAMILY HD
 http://srvt.topiptv.org:80/new_start.app/App65080/96
-#EXTINF:0,Fr:CANAL  HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL  HD
 http://srvt.topiptv.org:80/new_start.app/App65080/95
-#EXTINF:0,Fr:CANAL  SERIE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL  SERIE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/94
-#EXTINF:0,Fr:CANAL  SPORT HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL  SPORT HD
 http://srvt.topiptv.org:80/new_start.app/App65080/93
-#EXTINF:0,Fr:CANAL J HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL J HD
 http://srvt.topiptv.org:80/new_start.app/App65080/92
-#EXTINF:0,Fr:CANAL NEWS HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL NEWS HD
 http://srvt.topiptv.org:80/new_start.app/App65080/91
-#EXTINF:0,Fr:CANAL PLUS HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CANAL PLUS HD
 http://srvt.topiptv.org:80/new_start.app/App65080/90
-#EXTINF:0,Fr:CARTOON NETWORK HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CARTOON NETWORK HD
 http://srvt.topiptv.org:80/new_start.app/App65080/89
-#EXTINF:0,Fr:CHERIE25 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CHERIE25 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/88
-#EXTINF:0,Fr:CINE  CLASSIC HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE  CLASSIC HD
 http://srvt.topiptv.org:80/new_start.app/App65080/87
-#EXTINF:0,Fr:CINE  CLUB HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE  CLUB HD
 http://srvt.topiptv.org:80/new_start.app/App65080/86
-#EXTINF:0,Fr:CINE  EMOTION HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE  EMOTION HD
 http://srvt.topiptv.org:80/new_start.app/App65080/85
-#EXTINF:0,Fr:CINE  FAMIZ HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE  FAMIZ HD
 http://srvt.topiptv.org:80/new_start.app/App65080/84
-#EXTINF:0,Fr:CINE  FRISSON HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE  FRISSON HD
 http://srvt.topiptv.org:80/new_start.app/App65080/83
-#EXTINF:0,Fr:CINE  POLAR HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE  POLAR HD
 http://srvt.topiptv.org:80/new_start.app/App65080/82
-#EXTINF:0,Fr:CINE  PREMIERE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE  PREMIERE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/81
-#EXTINF:0,Fr:CINE FX HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CINE FX HD
 http://srvt.topiptv.org:80/new_start.app/App65080/80
-#EXTINF:0,Fr:COMEDIE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:COMEDIE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/79
-#EXTINF:0,Fr:CSTAR HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:CSTAR HD
 http://srvt.topiptv.org:80/new_start.app/App65080/78
-#EXTINF:0,Fr:DISCOVERY HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:DISCOVERY HD
 http://srvt.topiptv.org:80/new_start.app/App65080/77
-#EXTINF:0,Fr:DISCOVERY SCIENCE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:DISCOVERY SCIENCE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/76
-#EXTINF:0,Fr:DISNEY CINEMAGIC HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:DISNEY CINEMAGIC HD
 http://srvt.topiptv.org:80/new_start.app/App65080/75
-#EXTINF:0,Fr:DISNEY JUNIOR HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:DISNEY JUNIOR HD
 http://srvt.topiptv.org:80/new_start.app/App65080/74
-#EXTINF:0,Fr:DISNEY XD HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:DISNEY XD HD
 http://srvt.topiptv.org:80/new_start.app/App65080/73
-#EXTINF:0,Fr:E! ENTERTAINMENT HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:E! ENTERTAINMENT HD
 http://srvt.topiptv.org:80/new_start.app/App65080/72
-#EXTINF:0,Fr:ELLE GIRL HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:ELLE GIRL HD
 http://srvt.topiptv.org:80/new_start.app/App65080/71
-#EXTINF:0,Fr:EQUIDIA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:EQUIDIA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/70
-#EXTINF:0,Fr:EQUIDIA LIVE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:EQUIDIA LIVE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/69
-#EXTINF:0,Fr:EURONEWS (FRENCH)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:EURONEWS (FRENCH)
 http://srvt.topiptv.org:80/new_start.app/App65080/68
-#EXTINF:0,Fr:EUROSPORT 1HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:EUROSPORT 1HD
 http://srvt.topiptv.org:80/new_start.app/App65080/67
-#EXTINF:0,Fr:EUROSPORT 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:EUROSPORT 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/66
-#EXTINF:0,Fr:EXTREME SPORTS HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:EXTREME SPORTS HD
 http://srvt.topiptv.org:80/new_start.app/App65080/65
-#EXTINF:0,Fr:FOOT 24 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FOOT 24 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/64
-#EXTINF:0,Fr:FRANCE 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FRANCE 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/63
-#EXTINF:0,Fr:FRANCE 24
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FRANCE 24
 http://srvt.topiptv.org:80/new_start.app/App65080/62
-#EXTINF:0,Fr:FRANCE 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FRANCE 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/61
-#EXTINF:0,Fr:FRANCE 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FRANCE 4 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/60
-#EXTINF:0,Fr:FRANCE 5 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FRANCE 5 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/59
-#EXTINF:0,Fr:FRANCE INFO HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FRANCE INFO HD
 http://srvt.topiptv.org:80/new_start.app/App65080/58
-#EXTINF:0,Fr:FRANCE O HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:FRANCE O HD
 http://srvt.topiptv.org:80/new_start.app/App65080/57
-#EXTINF:0,Fr:GAME ONE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:GAME ONE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/56
-#EXTINF:0,Fr:GOLF  HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:GOLF  HD
 http://srvt.topiptv.org:80/new_start.app/App65080/55
-#EXTINF:0,Fr:GOLF CHANNEL HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:GOLF CHANNEL HD
 http://srvt.topiptv.org:80/new_start.app/App65080/54
-#EXTINF:0,Fr:GULLI HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:GULLI HD
 http://srvt.topiptv.org:80/new_start.app/App65080/53
-#EXTINF:0,Fr:HD1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:HD1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/52
-#EXTINF:0,Fr:HISTOIRE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:HISTOIRE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/51
-#EXTINF:0,Fr:INFOSPORT  HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:INFOSPORT  HD
 http://srvt.topiptv.org:80/new_start.app/App65080/50
-#EXTINF:0,Fr:L EQUIPE21 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:L EQUIPE21 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/49
-#EXTINF:0,Fr:LCI HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:LCI HD
 http://srvt.topiptv.org:80/new_start.app/App65080/48
-#EXTINF:0,Fr:M6 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:M6 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/47
-#EXTINF:0,Fr:MANGAS HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:MANGAS HD
 http://srvt.topiptv.org:80/new_start.app/App65080/46
-#EXTINF:0,Fr:MCM HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:MCM HD
 http://srvt.topiptv.org:80/new_start.app/App65080/45
-#EXTINF:0,Fr:MCM TOP HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:MCM TOP HD
 http://srvt.topiptv.org:80/new_start.app/App65080/44
-#EXTINF:0,Fr:MEZZO HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:MEZZO HD
 http://srvt.topiptv.org:80/new_start.app/App65080/43
-#EXTINF:0,Fr:MEZZO LIVE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:MEZZO LIVE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/42
-#EXTINF:0,Fr:MTV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:MTV HD
 http://srvt.topiptv.org:80/new_start.app/App65080/41
-#EXTINF:0,Fr:National Geographic HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:National Geographic HD
 http://srvt.topiptv.org:80/new_start.app/App65080/40
-#EXTINF:0,Fr:National Geographic WILD HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:National Geographic WILD HD
 http://srvt.topiptv.org:80/new_start.app/App65080/39
-#EXTINF:0,Fr:NICKELODEON HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:NICKELODEON HD
 http://srvt.topiptv.org:80/new_start.app/App65080/38
-#EXTINF:0,Fr:NICKELODEON JUNIOR HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:NICKELODEON JUNIOR HD
 http://srvt.topiptv.org:80/new_start.app/App65080/37
-#EXTINF:0,Fr:NRJ 12 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:NRJ 12 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/36
-#EXTINF:0,Fr:NT 1HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:NT 1HD
 http://srvt.topiptv.org:80/new_start.app/App65080/35
-#EXTINF:0,Fr:NUMERO 23 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:NUMERO 23 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/34
-#EXTINF:0,Fr:OCS CHOC HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:OCS CHOC HD
 http://srvt.topiptv.org:80/new_start.app/App65080/33
-#EXTINF:0,Fr:OCS CITY HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:OCS CITY HD
 http://srvt.topiptv.org:80/new_start.app/App65080/32
-#EXTINF:0,Fr:OCS GEANTS HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:OCS GEANTS HD
 http://srvt.topiptv.org:80/new_start.app/App65080/31
-#EXTINF:0,Fr:OCS MAX HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:OCS MAX HD
 http://srvt.topiptv.org:80/new_start.app/App65080/30
-#EXTINF:0,Fr:PARAMOUNT CHANNEL HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:PARAMOUNT CHANNEL HD
 http://srvt.topiptv.org:80/new_start.app/App65080/29
-#EXTINF:0,Fr:PARIS PREMIERE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:PARIS PREMIERE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/28
-#EXTINF:0,Fr:PIWI HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:PIWI HD
 http://srvt.topiptv.org:80/new_start.app/App65080/27
-#EXTINF:0,Fr:PLANET  CI HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:PLANET  CI HD
 http://srvt.topiptv.org:80/new_start.app/App65080/26
-#EXTINF:0,Fr:PLANET  HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:PLANET  HD
 http://srvt.topiptv.org:80/new_start.app/App65080/25
-#EXTINF:0,Fr:PLANET A&E HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:PLANET A&E HD
 http://srvt.topiptv.org:80/new_start.app/App65080/24
-#EXTINF:0,Fr:RFM TV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:RFM TV HD
 http://srvt.topiptv.org:80/new_start.app/App65080/23
-#EXTINF:0,Fr:RMC DECOVERTE 24 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:RMC DECOVERTE 24 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/22
-#EXTINF:0,Fr:RMC SPORT 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:RMC SPORT 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/18
-#EXTINF:0,Fr:RMC SPORT 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:RMC SPORT 2 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/17
-#EXTINF:0,Fr:RMC SPORT 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:RMC SPORT 3 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/16
-#EXTINF:0,Fr:RMC SPORT 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:RMC SPORT 4 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/15
-#EXTINF:0,Fr:RTL 9 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:RTL 9 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/21
-#EXTINF:0,Fr:SCIENCE ET VIE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:SCIENCE ET VIE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/20
-#EXTINF:0,Fr:SEASON HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:SEASON HD
 http://srvt.topiptv.org:80/new_start.app/App65080/19
-#EXTINF:0,Fr:SYFY HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:SYFY HD
 http://srvt.topiptv.org:80/new_start.app/App65080/14
-#EXTINF:0,Fr:TCM CINEMA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TCM CINEMA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/13
-#EXTINF:0,Fr:TELETOON 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TELETOON 1 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/12
-#EXTINF:0,Fr:TEVA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TEVA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/11
-#EXTINF:0,Fr:TIJI HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TIJI HD
 http://srvt.topiptv.org:80/new_start.app/App65080/9
-#EXTINF:0,Fr:TMC HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TMC HD
 http://srvt.topiptv.org:80/new_start.app/App65080/8
-#EXTINF:0,Fr:TRACE URBAN HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TRACE URBAN HD
 http://srvt.topiptv.org:80/new_start.app/App65080/7
-#EXTINF:0,Fr:TREK HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TREK HD
 http://srvt.topiptv.org:80/new_start.app/App65080/6
-#EXTINF:0,Fr:TV 5 MONDE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TV 5 MONDE
 http://srvt.topiptv.org:80/new_start.app/App65080/5
-#EXTINF:0,Fr:TV BREIZH HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:TV BREIZH HD
 http://srvt.topiptv.org:80/new_start.app/App65080/4
-#EXTINF:0,Fr:USHUAIA HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:USHUAIA HD
 http://srvt.topiptv.org:80/new_start.app/App65080/3
-#EXTINF:0,Fr:VOYAGE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:VOYAGE HD
 http://srvt.topiptv.org:80/new_start.app/App65080/2
-#EXTINF:0,Fr:W9 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Fr:W9 HD
 http://srvt.topiptv.org:80/new_start.app/App65080/1
-#EXTINF:0,DE: 13th Street FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: 13th Street FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/819
-#EXTINF:0,DE: A&E FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: A&E FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/820
-#EXTINF:0,DE: Animal Planet FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Animal Planet FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/821
-#EXTINF:0,DE: arte FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: arte FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/822
-#EXTINF:0,DE: Augsburg TV FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Augsburg TV FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/823
-#EXTINF:0,DE: Auto Motor und Sport FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Auto Motor und Sport FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/824
-#EXTINF:0,DE: AXN FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: AXN FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/825
-#EXTINF:0,DE: Bibel TV FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Bibel TV FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/826
-#EXTINF:0,DE: CLASSICA FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: CLASSICA FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/827
-#EXTINF:0,DE: Das Erste FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Das Erste FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/828
-#EXTINF:0,DE: Discovery Channel FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Discovery Channel FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/829
-#EXTINF:0,DE: Disney Channel FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Disney Channel FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/830
-#EXTINF:0,DE: Disney Cinemagic FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Disney Cinemagic FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/831
-#EXTINF:0,DE: Disney XD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Disney XD
 http://srvt.topiptv.org:80/new_start.app/App65080/832
-#EXTINF:0,DE: Eurosport 1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Eurosport 1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/833
-#EXTINF:0,DE: Eurosport 2 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Eurosport 2 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/834
-#EXTINF:0,DE: Eurosport 2 Xtra FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Eurosport 2 Xtra FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/835
-#EXTINF:0,DE: FC Bayern TV FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: FC Bayern TV FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/836
-#EXTINF:0,DE: FOX FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: FOX FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/837
-#EXTINF:0,DE: History FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: History FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/838
-#EXTINF:0,DE: kabel eins FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: kabel eins FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/839
-#EXTINF:0,DE: KiKa FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: KiKa FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/840
-#EXTINF:0,DE: Motorvision FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Motorvision FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/841
-#EXTINF:0,DE: MTV FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: MTV FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/842
-#EXTINF:0,DE: n-tv FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: n-tv FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/843
-#EXTINF:0,DE: Nat Geo Wild
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Nat Geo Wild
 http://srvt.topiptv.org:80/new_start.app/App65080/844
-#EXTINF:0,DE: Nat Geo Wild FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Nat Geo Wild FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/845
-#EXTINF:0,DE: National Geographic
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: National Geographic
 http://srvt.topiptv.org:80/new_start.app/App65080/846
-#EXTINF:0,DE: National Geographic FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: National Geographic FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/847
-#EXTINF:0,DE: Nickelodeon FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Nickelodeon FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/848
-#EXTINF:0,DE: Noa4 Norderstedt FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Noa4 Norderstedt FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/849
-#EXTINF:0,DE: ProSieben FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: ProSieben FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/850
-#EXTINF:0,DE: ProSieben MAXX FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: ProSieben MAXX FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/851
-#EXTINF:0,DE: QVC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: QVC
 http://srvt.topiptv.org:80/new_start.app/App65080/852
-#EXTINF:0,DE: RAN 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RAN 1
 http://srvt.topiptv.org:80/new_start.app/App65080/853
-#EXTINF:0,DE: RiC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RiC
 http://srvt.topiptv.org:80/new_start.app/App65080/854
-#EXTINF:0,DE: RTL Crime
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RTL Crime
 http://srvt.topiptv.org:80/new_start.app/App65080/855
-#EXTINF:0,DE: RTL FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RTL FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/856
-#EXTINF:0,DE: RTL II
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RTL II
 http://srvt.topiptv.org:80/new_start.app/App65080/857
-#EXTINF:0,DE: RTL II FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RTL II FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/858
-#EXTINF:0,DE: RTL Nitro FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RTL Nitro FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/859
-#EXTINF:0,DE: RTL Passion
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RTL Passion
 http://srvt.topiptv.org:80/new_start.app/App65080/860
-#EXTINF:0,DE: RTL plus
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: RTL plus
 http://srvt.topiptv.org:80/new_start.app/App65080/861
-#EXTINF:0,DE: SAT 1 emotions
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SAT 1 emotions
 http://srvt.topiptv.org:80/new_start.app/App65080/862
-#EXTINF:0,DE: SAT 1 GOLD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SAT 1 GOLD
 http://srvt.topiptv.org:80/new_start.app/App65080/863
-#EXTINF:0,DE: SIXX FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SIXX FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/864
-#EXTINF:0,DE: Sky 1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky 1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/865
-#EXTINF:0,DE: Sky ARTS FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky ARTS FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/866
-#EXTINF:0,DE: Sky Atlantic FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Atlantic FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/867
-#EXTINF:0,DE: Sky Cinema  1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Cinema  1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/868
-#EXTINF:0,DE: Sky Cinema  24 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Cinema  24 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/869
-#EXTINF:0,DE: Sky Cinema Action FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Cinema Action FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/870
-#EXTINF:0,DE: Sky Cinema Emotion
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Cinema Emotion
 http://srvt.topiptv.org:80/new_start.app/App65080/871
-#EXTINF:0,DE: Sky Cinema Family FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Cinema Family FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/872
-#EXTINF:0,DE: Sky Cinema FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Cinema FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/873
-#EXTINF:0,DE: Sky Cinema Hits FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Cinema Hits FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/874
-#EXTINF:0,DE: SKY SELECT 1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/875
-#EXTINF:0,DE: SKY SELECT 2 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 2 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/876
-#EXTINF:0,DE: SKY SELECT 3 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 3 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/877
-#EXTINF:0,DE: SKY SELECT 4 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 4 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/878
-#EXTINF:0,DE: SKY SELECT 5 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 5 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/879
-#EXTINF:0,DE: SKY SELECT 6 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 6 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/880
-#EXTINF:0,DE: SKY SELECT 7 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 7 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/881
-#EXTINF:0,DE: SKY SELECT 8 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 8 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/882
-#EXTINF:0,DE: SKY SELECT 9 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SKY SELECT 9 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/883
-#EXTINF:0,DE: Sky Sport 1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/884
-#EXTINF:0,DE: Sky Sport 10 FHD (Match time)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 10 FHD (Match time)
 http://srvt.topiptv.org:80/new_start.app/App65080/885
-#EXTINF:0,DE: Sky Sport 2 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 2 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/886
-#EXTINF:0,DE: Sky Sport 4 FHD (Match time)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 4 FHD (Match time)
 http://srvt.topiptv.org:80/new_start.app/App65080/887
-#EXTINF:0,DE: Sky Sport 5 FHD (Match time)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 5 FHD (Match time)
 http://srvt.topiptv.org:80/new_start.app/App65080/888
-#EXTINF:0,DE: Sky Sport 6 FHD (Match time)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 6 FHD (Match time)
 http://srvt.topiptv.org:80/new_start.app/App65080/889
-#EXTINF:0,DE: Sky Sport 7 FHD (Match time)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 7 FHD (Match time)
 http://srvt.topiptv.org:80/new_start.app/App65080/890
-#EXTINF:0,DE: Sky Sport 8 FHD (Match time)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 8 FHD (Match time)
 http://srvt.topiptv.org:80/new_start.app/App65080/891
-#EXTINF:0,DE: Sky Sport 9 FHD (Match time)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport 9 FHD (Match time)
 http://srvt.topiptv.org:80/new_start.app/App65080/892
-#EXTINF:0,DE: Sky Sport Austria FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Austria FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/893
-#EXTINF:0,DE: Sky Sport Bundesliga 1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/894
-#EXTINF:0,DE: Sky Sport Bundesliga 10 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/895
-#EXTINF:0,DE: Sky Sport Bundesliga 2 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/896
-#EXTINF:0,DE: Sky Sport Bundesliga 3 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/897
-#EXTINF:0,DE: Sky Sport Bundesliga 4 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/898
-#EXTINF:0,DE: Sky Sport Bundesliga 5 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/899
-#EXTINF:0,DE: Sky Sport Bundesliga 6 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/900
-#EXTINF:0,DE: Sky Sport Bundesliga 7 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/901
-#EXTINF:0,DE: Sky Sport Bundesliga 8 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/902
-#EXTINF:0,DE: Sky Sport Bundesliga 9 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/903
-#EXTINF:0,DE: Sonnenklar TV FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sonnenklar TV FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/904
-#EXTINF:0,DE: Sony TV FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sony TV FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/905
-#EXTINF:0,DE: Spiegel TV Wissen FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Spiegel TV Wissen FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/906
-#EXTINF:0,DE: Sport digital FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sport digital FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/907
-#EXTINF:0,DE: SPORT1  FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: SPORT1  FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/910
-#EXTINF:0,DE: Sport1 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sport1 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/908
-#EXTINF:0,DE: Sport1 US FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Sport1 US FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/909
-#EXTINF:0,DE: Super RTL FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Super RTL FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/911
-#EXTINF:0,DE: Syfy FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Syfy FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/912
-#EXTINF:0,DE: TELE 5 FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: TELE 5 FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/913
-#EXTINF:0,DE: TLC FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: TLC FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/914
-#EXTINF:0,DE: TNT Comedy FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: TNT Comedy FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/915
-#EXTINF:0,DE: TNT Film FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: TNT Film FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/916
-#EXTINF:0,DE: TNT Serie FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: TNT Serie FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/917
-#EXTINF:0,DE: VOX FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: VOX FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/918
-#EXTINF:0,DE: Zee One FHD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,DE: Zee One FHD
 http://srvt.topiptv.org:80/new_start.app/App65080/919
