@@ -1,42 +1,114 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Satcom",======Satcom=======
 http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
-http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
-http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
-http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
-http://bit.ly/Safwanlogo
-#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria
-http://82.137.248.16:1935/Sat/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
-http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
-http://82.137.248.16:1935/Snews/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham HD
-http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
-http://sama-tv.net:1935/live/samatv/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria
-http://svs.itworkscdn.net/lanatvlive/lana/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
-#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
-http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
-http://82.137.248.16:1935/SEdu/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/tE95C8",Ninar
-http://5.39.218.151:1984/live/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
-http://82.137.248.16:1935/Souryana/stream20112018/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
-http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
-http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/eiDkcF",Orient
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1,Syrian Education
+http://68.183.163.103:8000/live/safwan/satcom/40.ts
+#EXTINF:-1,Syria Drama
+http://68.183.163.103:8000/live/safwan/satcom/37.ts
+#EXTINF:-1,Souryana
+http://68.183.163.103:8000/live/safwan/satcom/42.ts
+#EXTINF:-1,Sham FM TV
+http://68.183.163.103:8000/live/safwan/satcom/38.ts
+#EXTINF:-1,OTV
+http://68.183.163.103:8000/live/safwan/satcom/51.ts
+#EXTINF:-1,Orient
+http://68.183.163.103:8000/live/safwan/satcom/44.ts
+#EXTINF:-1,Ogarit Syria
+http://68.183.163.103:8000/live/safwan/satcom/39.ts
+#EXTINF:-1,Ninar
+http://68.183.163.103:8000/live/safwan/satcom/41.ts
+#EXTINF:-1,MTV Lebanon
+http://68.183.163.103:8000/live/safwan/satcom/49.ts
+#EXTINF:-1,LDC
+http://68.183.163.103:8000/live/safwan/satcom/48.ts
+#EXTINF:-1,Halab Today
+http://68.183.163.103:8000/live/safwan/satcom/43.ts
+#EXTINF:-1,Future TV
+http://68.183.163.103:8000/live/safwan/satcom/52.ts
+#EXTINF:-1,Dorar
+http://68.183.163.103:8000/live/safwan/satcom/45.ts
+#EXTINF:-1,ANN
+http://68.183.163.103:8000/live/safwan/satcom/46.ts
+#EXTINF:-1,Almanar
+http://68.183.163.103:8000/live/safwan/satcom/47.ts
+#EXTINF:-1,Al Nahar Drama
+http://68.183.163.103:8000/live/safwan/satcom/54.ts
+#EXTINF:-1,Al Nahar
+http://68.183.163.103:8000/live/safwan/satcom/53.ts
+#EXTINF:-1,Al Iman
+http://68.183.163.103:8000/live/safwan/satcom/50.ts
+#EXTINF:-1,Syria Sat
+http://68.183.163.103:8000/live/safwan/satcom/32.ts
+#EXTINF:-1,Lana
+http://68.183.163.103:8000/live/safwan/satcom/36.ts
+#EXTINF:-1,Lana +
+http://68.183.163.103:8000/live/safwan/satcom/35.ts
+#EXTINF:-1,Syria news
+http://68.183.163.103:8000/live/safwan/satcom/33.ts
+#EXTINF:-1,Zee Alwan
+http://68.183.163.103:8000/live/safwan/satcom/14.ts
+#EXTINF:-1,Zee Aflam
+http://68.183.163.103:8000/live/safwan/satcom/15.ts
+#EXTINF:-1,Sada El Balad 2
+http://68.183.163.103:8000/live/safwan/satcom/22.ts
+#EXTINF:-1,Rotana Music
+http://68.183.163.103:8000/live/safwan/satcom/19.ts
+#EXTINF:-1,Rotana Khalijia
+http://68.183.163.103:8000/live/safwan/satcom/21.ts
+#EXTINF:-1,Rotana Clip
+http://68.183.163.103:8000/live/safwan/satcom/20.ts
+#EXTINF:-1,Rotana Classic
+http://68.183.163.103:8000/live/safwan/satcom/18.ts
+#EXTINF:-1,Rotana Cinema
+http://68.183.163.103:8000/live/safwan/satcom/16.ts
+#EXTINF:-1,Rotana Aflam
+http://68.183.163.103:8000/live/safwan/satcom/17.ts
+#EXTINF:-1,Noor Alsham
+http://68.183.163.103:8000/live/safwan/satcom/34.ts
+#EXTINF:-1,Mekameleen
+http://68.183.163.103:8000/live/safwan/satcom/30.ts
+#EXTINF:-1,Mehwar TV
+http://68.183.163.103:8000/live/safwan/satcom/31.ts
+#EXTINF:-1,MBC4 HD
+http://68.183.163.103:8000/live/safwan/satcom/6.ts
+#EXTINF:-1,MBC2 HD
+http://68.183.163.103:8000/live/safwan/satcom/3.ts
+#EXTINF:-1,MBC1 HD
+http://68.183.163.103:8000/live/safwan/satcom/1.ts
+#EXTINF:-1,MBC MAX HD
+http://68.183.163.103:8000/live/safwan/satcom/8.ts
+#EXTINF:-1,MBC MAX
+http://68.183.163.103:8000/live/safwan/satcom/9.ts
+#EXTINF:-1,MBC Masr 2
+http://68.183.163.103:8000/live/safwan/satcom/12.ts
+#EXTINF:-1,MBC Drama HD
+http://68.183.163.103:8000/live/safwan/satcom/11.ts
+#EXTINF:-1,MBC Bollywood  HD
+http://68.183.163.103:8000/live/safwan/satcom/13.ts
+#EXTINF:-1,MBC Action HD
+http://68.183.163.103:8000/live/safwan/satcom/10.ts
+#EXTINF:-1,MBC Action
+http://68.183.163.103:8000/live/safwan/satcom/7.ts
+#EXTINF:-1,MBC 3
+http://68.183.163.103:8000/live/safwan/satcom/5.ts
+#EXTINF:-1,MBC 2
+http://68.183.163.103:8000/live/safwan/satcom/4.ts
+#EXTINF:-1,MBC 1
+http://68.183.163.103:8000/live/safwan/satcom/2.ts
+#EXTINF:-1,dmc Live
+http://68.183.163.103:8000/live/safwan/satcom/25.ts
+#EXTINF:-1,dmc  DRAMA
+http://68.183.163.103:8000/live/safwan/satcom/26.ts
+#EXTINF:-1,CBC Sofra
+http://68.183.163.103:8000/live/safwan/satcom/27.ts
+#EXTINF:-1,CBC  Drama
+http://68.183.163.103:8000/live/safwan/satcom/28.ts
+#EXTINF:-1,CBC
+http://68.183.163.103:8000/live/safwan/satcom/29.ts
+#EXTINF:-1,Al Kahera Wal Nas 2
+http://68.183.163.103:8000/live/safwan/satcom/23.ts
+#EXTINF:-1,Al Kahera Wal Nas 1
+http://68.183.163.103:8000/live/safwan/satcom/24.ts
+
 
 #EXTINF:-1,Ar:MY Cinema HD
 http://srvt.topiptv.org:80/new_start.app/App65080/525
