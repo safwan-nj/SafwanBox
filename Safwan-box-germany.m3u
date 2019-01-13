@@ -40,7 +40,7 @@ http://68.183.163.103:8000/live/safwan/satcom/38.ts
 #EXTINF:-1,Souryana
 http://68.183.163.103:8000/live/safwan/satcom/42.ts
 #EXTINF:-1,MTV Lebanon
-http://68.183.163.103:8000/live/safwan/satcom/49.ts
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
 #EXTINF:-1,OTV
 http://68.183.163.103:8000/live/safwan/satcom/51.ts
 #EXTINF:-1,Future TV
