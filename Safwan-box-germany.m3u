@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,[̲̅$̲̅(̲̅  Satcom Gold  )̲̅$̲̅]
+http://www.satcom.ml:8000/movie/safwan/satcom/412.mp4
 #EXTINF:-1,Quran TV
 http://www.satcom.ml:8000/live/safwan/satcom/348.ts
 #EXTINF:-1,syria tv
@@ -11,6 +13,42 @@ http://www.satcom.ml:8000/live/safwan/satcom/355.ts
 http://www.satcom.ml:8000/live/safwan/satcom/366.ts
 #EXTINF:-1,Lana Syria +
 http://www.satcom.ml:8000/live/safwan/satcom/367.ts
+#EXTINF:-1,Ninar TV
+http://www.satcom.ml:8000/live/safwan/satcom/371.ts
+#EXTINF:-1,Ugarit Syria
+http://www.satcom.ml:8000/live/safwan/satcom/370.ts
+#EXTINF:-1,Sham FM TV
+http://www.satcom.ml:8000/live/safwan/satcom/368.ts
+#EXTINF:-1,Syriana
+http://www.satcom.ml:8000/live/safwan/satcom/372.ts
+#EXTINF:-1,Hawa Syria
+http://www.satcom.ml:8000/live/safwan/satcom/369.ts
+#EXTINF:-1,Souria
+http://www.satcom.ml:8000/live/safwan/satcom/373.ts
+#EXTINF:-1,Orient
+http://www.satcom.ml:8000/live/safwan/satcom/375.ts
+#EXTINF:-1,Halab Today
+http://www.satcom.ml:8000/live/safwan/satcom/374.ts
+#EXTINF:-1,ANN
+http://www.satcom.ml:8000/live/safwan/satcom/376.ts
+#EXTINF:-1,Future TV
+http://www.satcom.ml:8000/live/safwan/satcom/381.ts
+#EXTINF:-1,OTV Lebanon
+http://www.satcom.ml:8000/live/safwan/satcom/379.ts
+#EXTINF:-1,TL Lebanon
+http://www.satcom.ml:8000/live/safwan/satcom/382.ts
+#EXTINF:-1,Rotana Cinema
+http://www.satcom.ml:8000/live/safwan/satcom/383.ts
+#EXTINF:-1,Rotana Aflam
+http://www.satcom.ml:8000/live/safwan/satcom/384.ts
+#EXTINF:-1,Rotana Music
+http://www.satcom.ml:8000/live/safwan/satcom/386.ts
+#EXTINF:-1,Rotana Khalijia
+http://www.satcom.ml:8000/live/safwan/satcom/388.ts
+#EXTINF:-1,Rotana Clip
+http://www.satcom.ml:8000/live/safwan/satcom/387.ts
+#EXTINF:-1,Rotana Classic
+http://www.satcom.ml:8000/live/safwan/satcom/385.ts
 #EXTINF:-1,Mbc 1
 http://www.satcom.ml:8000/live/safwan/satcom/319.ts
 #EXTINF:-1,MBC 2
@@ -93,28 +131,62 @@ http://www.satcom.ml:8000/live/safwan/satcom/290.ts
 http://www.satcom.ml:8000/live/safwan/satcom/285.ts
 #EXTINF:-1,abu dhabi drama
 http://www.satcom.ml:8000/live/safwan/satcom/284.ts
+#EXTINF:-1,Dubai Tv
+http://www.satcom.ml:8000/live/safwan/satcom/406.ts
+#EXTINF:-1,Dubai one
+http://www.satcom.ml:8000/live/safwan/satcom/408.ts
 #EXTINF:-1,ad natgeo
 http://www.satcom.ml:8000/live/safwan/satcom/286.ts
 #EXTINF:-1,alfajer
 http://www.satcom.ml:8000/live/safwan/satcom/292.ts
+#EXTINF:-1,Hala Tv
+http://www.satcom.ml:8000/live/safwan/satcom/400.ts
+#EXTINF:-1,Bait Lahm
+http://www.satcom.ml:8000/live/safwan/satcom/404.ts
+#EXTINF:-1,Al Salam
+http://www.satcom.ml:8000/live/safwan/satcom/403.ts
+#EXTINF:-1,Mekameleen
+http://www.satcom.ml:8000/live/safwan/satcom/389.ts
+#EXTINF:-1,Kul Al Nas
+http://www.satcom.ml:8000/live/safwan/satcom/402.ts
+#EXTINF:-1,Dejla
+http://www.satcom.ml:8000/live/safwan/satcom/391.ts
+#EXTINF:-1,Al Hurriya
+http://www.satcom.ml:8000/live/safwan/satcom/405.ts
+#EXTINF:-1,Al Fat7
+http://www.satcom.ml:8000/live/safwan/satcom/401.ts
+#EXTINF:-1,Abu Dhabi Emarat
+http://www.satcom.ml:8000/live/safwan/satcom/409.ts
 #EXTINF:-1,arabiya
 http://www.satcom.ml:8000/live/safwan/satcom/306.ts
+#EXTINF:-1,Al Arabiya Al Hadath
+http://www.satcom.ml:8000/live/safwan/satcom/393.ts
 #EXTINF:-1,aljazeera
 http://www.satcom.ml:8000/live/safwan/satcom/299.ts
+#EXTINF:-1,Sky News Arabia
+http://www.satcom.ml:8000/live/safwan/satcom/395.ts
+#EXTINF:-1,TRT Arabia
+http://www.satcom.ml:8000/live/safwan/satcom/398.ts
+#EXTINF:-1,Rusia Al Yaum
+http://www.satcom.ml:8000/live/safwan/satcom/394.ts
+#EXTINF:-1,DW Arabic
+http://www.satcom.ml:8000/live/safwan/satcom/397.ts
+#EXTINF:-1,Al Sharqiya News
+http://www.satcom.ml:8000/live/safwan/satcom/390.ts
 #EXTINF:-1,alhurra
 http://www.satcom.ml:8000/live/safwan/satcom/298.ts
-#EXTINF:-1,tunsia 2
-http://www.satcom.ml:8000/live/safwan/satcom/354.ts
+#EXTINF:-1,al manar
+http://www.satcom.ml:8000/live/safwan/satcom/289.ts
+#EXTINF:-1,CNBC Arabic
+http://www.satcom.ml:8000/live/safwan/satcom/396.ts
 #EXTINF:-1,tunsia 1
 http://www.satcom.ml:8000/live/safwan/satcom/353.ts
+#EXTINF:-1,tunsia 2
+http://www.satcom.ml:8000/live/safwan/satcom/354.ts
 #EXTINF:-1,samira tv
 http://www.satcom.ml:8000/live/safwan/satcom/356.ts
-#EXTINF:-1,on sport
-http://www.satcom.ml:8000/live/safwan/satcom/331.ts
 #EXTINF:-1,nessma
 http://www.satcom.ml:8000/live/safwan/satcom/329.ts
-#EXTINF:-1,iraqia sport
-http://www.satcom.ml:8000/live/safwan/satcom/318.ts
 #EXTINF:-1,heddaf tv
 http://www.satcom.ml:8000/live/safwan/satcom/317.ts
 #EXTINF:-1,elchourok tv
@@ -125,18 +197,8 @@ http://www.satcom.ml:8000/live/safwan/satcom/315.ts
 http://www.satcom.ml:8000/live/safwan/satcom/314.ts
 #EXTINF:-1,beur tv
 http://www.satcom.ml:8000/live/safwan/satcom/309.ts
-#EXTINF:-1,arriyadiya
-http://www.satcom.ml:8000/live/safwan/satcom/307.ts
 #EXTINF:-1,almgharibia
 http://www.satcom.ml:8000/live/safwan/satcom/305.ts
-#EXTINF:-1,Alkass 4
-http://www.satcom.ml:8000/live/safwan/satcom/303.ts
-#EXTINF:-1,Alkass 3
-http://www.satcom.ml:8000/live/safwan/satcom/302.ts
-#EXTINF:-1,Alkass 2
-http://www.satcom.ml:8000/live/safwan/satcom/301.ts
-#EXTINF:-1,Alkass 1
-http://www.satcom.ml:8000/live/safwan/satcom/300.ts
 #EXTINF:-1,alhiwar ettounssi
 http://www.satcom.ml:8000/live/safwan/satcom/297.ts
 #EXTINF:-1,algeria one
@@ -145,11 +207,23 @@ http://www.satcom.ml:8000/live/safwan/satcom/295.ts
 http://www.satcom.ml:8000/live/safwan/satcom/294.ts
 #EXTINF:-1,Alg Programme nationnel
 http://www.satcom.ml:8000/live/safwan/satcom/293.ts
-#EXTINF:-1,al manar
-http://www.satcom.ml:8000/live/safwan/satcom/289.ts
-#EXTINF:-1,ad sport 2
-http://www.satcom.ml:8000/live/safwan/satcom/288.ts
-#EXTINF:-1,ad sport 1
-http://www.satcom.ml:8000/live/safwan/satcom/287.ts
 #EXTINF:-1,2m maroc
 http://www.satcom.ml:8000/live/safwan/satcom/283.ts
+#EXTINF:-1,ad sport 1
+http://www.satcom.ml:8000/live/safwan/satcom/287.ts
+#EXTINF:-1,ad sport 2
+http://www.satcom.ml:8000/live/safwan/satcom/288.ts
+#EXTINF:-1,Alkass 1
+http://www.satcom.ml:8000/live/safwan/satcom/300.ts
+#EXTINF:-1,Alkass 2
+http://www.satcom.ml:8000/live/safwan/satcom/301.ts
+#EXTINF:-1,Alkass 3
+http://www.satcom.ml:8000/live/safwan/satcom/302.ts
+#EXTINF:-1,Alkass 4
+http://www.satcom.ml:8000/live/safwan/satcom/303.ts
+#EXTINF:-1,on sport
+http://www.satcom.ml:8000/live/safwan/satcom/331.ts
+#EXTINF:-1,iraqia sport
+http://www.satcom.ml:8000/live/safwan/satcom/318.ts
+#EXTINF:-1,arriyadiya
+http://www.satcom.ml:8000/live/safwan/satcom/307.ts
