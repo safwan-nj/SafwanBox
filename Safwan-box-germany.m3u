@@ -1,299 +1,155 @@
 #EXTM3U
-#EXTINF:-1,Syria Sat
-http://68.183.163.103:8000/live/safwan/satcom/32.ts
-#EXTINF:-1,Syria Drama
-http://68.183.163.103:8000/live/safwan/satcom/37.ts
-#EXTINF:-1,|AR|_SAMA_SYRIA
-http://68.183.163.103:8000/live/safwan/satcom/111.ts
-#EXTINF:-1,Lana
-http://68.183.163.103:8000/live/safwan/satcom/36.ts
-#EXTINF:-1,Lana +
-http://68.183.163.103:8000/live/safwan/satcom/35.ts
-#EXTINF:-1,Ogarit Syria
-http://68.183.163.103:8000/live/safwan/satcom/39.ts
-#EXTINF:-1,Ninar
-http://68.183.163.103:8000/live/safwan/satcom/41.ts
-#EXTINF:-1,Syria news
-http://68.183.163.103:8000/live/safwan/satcom/33.ts
-#EXTINF:-1,Souria
-http://68.183.163.103:8000/live/safwan/satcom/129.ts
-#EXTINF:-1,Orient
-http://68.183.163.103:8000/live/safwan/satcom/44.ts
-#EXTINF:-1,Halab Today
-http://68.183.163.103:8000/live/safwan/satcom/43.ts
-#EXTINF:-1,ANN
-http://68.183.163.103:8000/live/safwan/satcom/46.ts
-#EXTINF:-1,Rotana Music
-http://68.183.163.103:8000/live/safwan/satcom/19.ts
-#EXTINF:-1,Rotana Khalijia
-http://68.183.163.103:8000/live/safwan/satcom/21.ts
-#EXTINF:-1,Rotana Clip
-http://68.183.163.103:8000/live/safwan/satcom/20.ts
-#EXTINF:-1,Rotana Classic
-http://68.183.163.103:8000/live/safwan/satcom/18.ts
-#EXTINF:-1,Syrian Education
-http://68.183.163.103:8000/live/safwan/satcom/40.ts
-#EXTINF:-1,Rotana Cinema
-http://68.183.163.103:8000/live/safwan/satcom/16.ts
-#EXTINF:-1,Sham FM TV
-http://68.183.163.103:8000/live/safwan/satcom/38.ts
-#EXTINF:-1,Souryana
-http://68.183.163.103:8000/live/safwan/satcom/42.ts
-#EXTINF:-1,MTV Lebanon
-http://68.183.163.103:8000/live/SaTcOm/gOlD/49.ts
-#EXTINF:-1,OTV
-http://68.183.163.103:8000/live/safwan/satcom/51.ts
-#EXTINF:-1,Future TV
-http://68.183.163.103:8000/live/safwan/satcom/52.ts
-#EXTINF:-1,Almanar
-http://68.183.163.103:8000/live/safwan/satcom/47.ts
-#EXTINF:-1,Rotana Aflam
-http://68.183.163.103:8000/live/safwan/satcom/17.ts
-#EXTINF:-1,Noor Alsham
-http://68.183.163.103:8000/live/safwan/satcom/34.ts
-#EXTINF:-1,MBC-1-HD
-http://68.183.163.103:8000/live/safwan/satcom/245.ts
-#EXTINF:-1,MBC-2-HD
-http://68.183.163.103:8000/live/safwan/satcom/246.ts
-#EXTINF:-1,MBC-3-HD
-http://68.183.163.103:8000/live/safwan/satcom/247.ts
-#EXTINF:-1,MBC-4-HD
-http://68.183.163.103:8000/live/safwan/satcom/248.ts
-#EXTINF:-1,MBC-ACTION-HD
-http://68.183.163.103:8000/live/safwan/satcom/249.ts
-#EXTINF:-1,MBC-MAX-HD
-http://68.183.163.103:8000/live/safwan/satcom/250.ts
-#EXTINF:-1,MBC VARIETY
-http://68.183.163.103:8000/live/safwan/satcom/252.ts
-#EXTINF:-1,MBC-Bollywood-HD
-http://68.183.163.103:8000/live/safwan/satcom/253.ts
-#EXTINF:-1,MBC-DRAMA-HD
-http://68.183.163.103:8000/live/safwan/satcom/251.ts
-#EXTINF:-1,AD_Nat_Geo
-http://68.183.163.103:8000/live/safwan/satcom/254.ts
-#EXTINF:-1,Animal-Planet
-http://68.183.163.103:8000/live/safwan/satcom/242.ts
-#EXTINF:-1,Bein-Fatafeat
-http://68.183.163.103:8000/live/safwan/satcom/236.ts
-#EXTINF:-1,Zee_Aflam
-http://68.183.163.103:8000/live/safwan/satcom/265.ts
-#EXTINF:-1,Nat-Geo
-http://68.183.163.103:8000/live/safwan/satcom/255.ts
-#EXTINF:-1,Majid_Kids
-http://68.183.163.103:8000/live/safwan/satcom/268.ts
-#EXTINF:-1,FOX-SERIAS
-http://68.183.163.103:8000/live/safwan/satcom/264.ts
-#EXTINF:-1,FOX-FAMILY-MOV
-http://68.183.163.103:8000/live/safwan/satcom/234.ts
-#EXTINF:-1,FOX-FAMILY
-http://68.183.163.103:8000/live/safwan/satcom/262.ts
-#EXTINF:-1,FOX-CLASSIC
-http://68.183.163.103:8000/live/safwan/satcom/263.ts
-#EXTINF:-1,FOX-ACTION-MOVIES
-http://68.183.163.103:8000/live/safwan/satcom/261.ts
-#EXTINF:-1,OSN-Movies-Kids
-http://68.183.163.103:8000/live/safwan/satcom/238.ts
-#EXTINF:-1,OSN-Movies-First
-http://68.183.163.103:8000/live/safwan/satcom/241.ts
-#EXTINF:-1,OSN-MOVIES
-http://68.183.163.103:8000/live/safwan/satcom/239.ts
-#EXTINF:-1,Bein-MY-FILM-BOX-HD
-http://68.183.163.103:8000/live/safwan/satcom/237.ts
-#EXTINF:-1,BEIN SPORTS NBA
-http://68.183.163.103:8000/live/safwan/satcom/227.ts
-#EXTINF:-1,BEIN Series-HD1
-http://68.183.163.103:8000/live/safwan/satcom/232.ts
-#EXTINF:-1,BEIN Series-HD2
-http://68.183.163.103:8000/live/safwan/satcom/233.ts
-#EXTINF:-1,BEIN MOVIES 1 HD
-http://68.183.163.103:8000/live/safwan/satcom/228.ts
-#EXTINF:-1,BEIN MOVIES 2 HD
-http://68.183.163.103:8000/live/safwan/satcom/229.ts
-#EXTINF:-1,BEIN MOVIES 3 HD
-http://68.183.163.103:8000/live/safwan/satcom/230.ts
-#EXTINF:-1,BEIN MOVIES 4 HD
-http://68.183.163.103:8000/live/safwan/satcom/231.ts
-#EXTINF:-1,ARTHikayat1
-http://68.183.163.103:8000/live/safwan/satcom/273.ts
-#EXTINF:-1,ARTHikayat2
-http://68.183.163.103:8000/live/safwan/satcom/274.ts
-#EXTINF:-1,ARTAflem1
-http://68.183.163.103:8000/live/safwan/satcom/271.ts
-#EXTINF:-1,ARTAflem2
-http://68.183.163.103:8000/live/safwan/satcom/272.ts
-#EXTINF:-1,Baraem-HD
-http://68.183.163.103:8000/live/safwan/satcom/235.ts
-#EXTINF:-1,Toyor_Al_Janah
-http://68.183.163.103:8000/live/safwan/satcom/267.ts
-#EXTINF:-1,Tivibu-sport-4
-http://68.183.163.103:8000/live/safwan/satcom/259.ts
-#EXTINF:-1,Tivibu-sport-3
-http://68.183.163.103:8000/live/safwan/satcom/258.ts
-#EXTINF:-1,Tivibu-sport-2
-http://68.183.163.103:8000/live/safwan/satcom/257.ts
-#EXTINF:-1,Tivibu-sport-1
-http://68.183.163.103:8000/live/safwan/satcom/256.ts
-#EXTINF:-1,sport1
-http://68.183.163.103:8000/live/safwan/satcom/276.ts
-#EXTINF:-1,sport2
-http://68.183.163.103:8000/live/safwan/satcom/275.ts
-#EXTINF:-1,sport3
-http://68.183.163.103:8000/live/safwan/satcom/277.ts
-#EXTINF:-1,Astera-Sport
-http://68.183.163.103:8000/live/safwan/satcom/266.ts
-#EXTINF:-1,Aso-Sport
-http://68.183.163.103:8000/live/safwan/satcom/260.ts
-#EXTINF:-1,Disney-Channel
-http://68.183.163.103:8000/live/safwan/satcom/240.ts
-#EXTINF:-1,CN_Arabia
-http://68.183.163.103:8000/live/safwan/satcom/270.ts
-#EXTINF:-1,Boomerang
-http://68.183.163.103:8000/live/safwan/satcom/269.ts
-#EXTINF:-1,BeinMax1HD
-http://68.183.163.103:8000/live/safwan/satcom/207.ts
-#EXTINF:-1,Bein-Max-HD1
-http://68.183.163.103:8000/live/safwan/satcom/208.ts
-#EXTINF:-1,Bein-Max-HD2
-http://68.183.163.103:8000/live/safwan/satcom/209.ts
-#EXTINF:-1,Bein-Sport-News
-http://68.183.163.103:8000/live/safwan/satcom/206.ts
-#EXTINF:-1,BEIN SPORTS 1
-http://68.183.163.103:8000/live/safwan/satcom/210.ts
-#EXTINF:-1,BEIN SPORTS 2
-http://68.183.163.103:8000/live/safwan/satcom/211.ts
-#EXTINF:-1,BEIN SPORTS 3
-http://68.183.163.103:8000/live/safwan/satcom/212.ts
-#EXTINF:-1,BEIN SPORTS 4
-http://68.183.163.103:8000/live/safwan/satcom/213.ts
-#EXTINF:-1,BEIN SPORTS 5
-http://68.183.163.103:8000/live/safwan/satcom/214.ts
-#EXTINF:-1,BEIN SPORTS 6
-http://68.183.163.103:8000/live/safwan/satcom/215.ts
-#EXTINF:-1,BEIN SPORTS 7
-http://68.183.163.103:8000/live/safwan/satcom/216.ts
-#EXTINF:-1,BEIN SPORTS 8
-http://68.183.163.103:8000/live/safwan/satcom/217.ts
-#EXTINF:-1,BEIN SPORTS 9
-http://68.183.163.103:8000/live/safwan/satcom/218.ts
-#EXTINF:-1,BEIN SPORTS 10
-http://68.183.163.103:8000/live/safwan/satcom/219.ts
-#EXTINF:-1,BEIN SPORTS 11
-http://68.183.163.103:8000/live/safwan/satcom/220.ts
-#EXTINF:-1,BEIN SPORTS 12
-http://68.183.163.103:8000/live/safwan/satcom/221.ts
-#EXTINF:-1,BEIN SPORTS 13
-http://68.183.163.103:8000/live/safwan/satcom/222.ts
-#EXTINF:-1,BEIN SPORTS 14
-http://68.183.163.103:8000/live/safwan/satcom/223.ts
-#EXTINF:-1,BEIN SPORTS 15
-http://68.183.163.103:8000/live/safwan/satcom/224.ts
-#EXTINF:-1,BEIN SPORTS 16
-http://68.183.163.103:8000/live/safwan/satcom/225.ts
-#EXTINF:-1,BEIN SPORTS 17
-http://68.183.163.103:8000/live/safwan/satcom/226.ts
-#EXTINF:-1,TR Bein_Sports1
-http://68.183.163.103:8000/live/safwan/satcom/279.ts
-#EXTINF:-1,TR Bein_Sports2
-http://68.183.163.103:8000/live/safwan/satcom/280.ts
-#EXTINF:-1,TR Bein_Sports3
-http://68.183.163.103:8000/live/safwan/satcom/281.ts
-#EXTINF:-1,Alfajertv
-http://68.183.163.103:8000/live/safwan/satcom/278.ts
-#EXTINF:-1,AD-Sport-HD4
-http://68.183.163.103:8000/live/safwan/satcom/243.ts
-#EXTINF:-1,AD-Sport-HD3
-http://68.183.163.103:8000/live/safwan/satcom/244.ts
-#EXTINF:-1,|AR|_TUNISIE_NAT2_TV
-http://68.183.163.103:8000/live/safwan/satcom/56.ts
-#EXTINF:-1,|AR|_TRT_Arabiya
-http://68.183.163.103:8000/live/safwan/satcom/104.ts
-#EXTINF:-1,|AR|_Space_Toon
-http://68.183.163.103:8000/live/safwan/satcom/90.ts
-#EXTINF:-1,|AR|_Sky_News_Arabic
-http://68.183.163.103:8000/live/safwan/satcom/83.ts
-#EXTINF:-1,|AR|_SHARQIYA_TV
-http://68.183.163.103:8000/live/safwan/satcom/112.ts
-#EXTINF:-1,|AR|_SAUDI_SONNA_HD
-http://68.183.163.103:8000/live/safwan/satcom/94.ts
-#EXTINF:-1,|AR|_SAMA_DUBAI_HD
-http://68.183.163.103:8000/live/safwan/satcom/118.ts
-#EXTINF:-1,|AR|_NOUR_DUBAI
-http://68.183.163.103:8000/live/safwan/satcom/119.ts
-#EXTINF:-1,|AR|_Nahar_Drama_Egypt
-http://68.183.163.103:8000/live/safwan/satcom/101.ts
-#EXTINF:-1,|AR|_MTV_lebenon
-http://68.183.163.103:8000/live/safwan/satcom/72.ts
-#EXTINF:-1,|AR|_Al_Manar_TV
-http://68.183.163.103:8000/live/safwan/satcom/108.ts
-#EXTINF:-1,|AR|_medi1afrique
-http://68.183.163.103:8000/live/safwan/satcom/63.ts
-#EXTINF:-1,|AR|_MBC_4
-http://68.183.163.103:8000/live/safwan/satcom/71.ts
-#EXTINF:-1,|AR|_MBC_1
-http://68.183.163.103:8000/live/safwan/satcom/69.ts
-#EXTINF:-1,|AR|_Makkah_TV
-http://68.183.163.103:8000/live/safwan/satcom/93.ts
-#EXTINF:-1,|AR|_Libya_TV
-http://68.183.163.103:8000/live/safwan/satcom/65.ts
-#EXTINF:-1,|AR|_Libya_Hadash
-http://68.183.163.103:8000/live/safwan/satcom/64.ts
-#EXTINF:-1,|AR|_Libya218
-http://68.183.163.103:8000/live/safwan/satcom/67.ts
-#EXTINF:-1,|AR|_hiwar_news
-http://68.183.163.103:8000/live/safwan/satcom/87.ts
-#EXTINF:-1,|AR|_FRANCE_24_AR
-http://68.183.163.103:8000/live/safwan/satcom/82.ts
-#EXTINF:-1,|AR|_Elhiwar_Ettounsi
-http://68.183.163.103:8000/live/safwan/satcom/57.ts
-#EXTINF:-1,|AR|_DW_AR
-http://68.183.163.103:8000/live/safwan/satcom/121.ts
-#EXTINF:-1,|AR|_DUBAI_ZAMAN
-http://68.183.163.103:8000/live/safwan/satcom/122.ts
-#EXTINF:-1,|AR|_DUBAI_TV_HD
-http://68.183.163.103:8000/live/safwan/satcom/123.ts
-#EXTINF:-1,|AR|_DUBAI_SPORTS_3_HD
-http://68.183.163.103:8000/live/safwan/satcom/128.ts
-#EXTINF:-1,|AR|_DUBAI_RACING_2_HD
-http://68.183.163.103:8000/live/safwan/satcom/127.ts
-#EXTINF:-1,|AR|_DUBAI_RACING_1_HD
-http://68.183.163.103:8000/live/safwan/satcom/126.ts
-#EXTINF:-1,|AR|_DUBAI_ONE_HD
-http://68.183.163.103:8000/live/safwan/satcom/97.ts
-#EXTINF:-1,|AR|_CBC_Drama
-http://68.183.163.103:8000/live/safwan/satcom/100.ts
-#EXTINF:-1,|AR|_BBC_Arabic
-http://68.183.163.103:8000/live/safwan/satcom/84.ts
-#EXTINF:-1,|AR|_BAHRAIN_TV
-http://68.183.163.103:8000/live/safwan/satcom/78.ts
-#EXTINF:-1,|AR|_BAHRAIN_SPORTS
-http://68.183.163.103:8000/live/safwan/satcom/74.ts
-#EXTINF:-1,|AR|_BAHRAIN_QURAN
-http://68.183.163.103:8000/live/safwan/satcom/75.ts
-#EXTINF:-1,|AR|_BAHRAIN_INTERNATIONAL
-http://68.183.163.103:8000/live/safwan/satcom/76.ts
-#EXTINF:-1,|AR|_Al_Jazeera_Documentaire
-http://68.183.163.103:8000/live/safwan/satcom/79.ts
-#EXTINF:-1,|AR|_ALRAI_TV
-http://68.183.163.103:8000/live/safwan/satcom/109.ts
-#EXTINF:-1,|AR|_ALCHARQIYA
-http://68.183.163.103:8000/live/safwan/satcom/107.ts
-#EXTINF:-1,|AR|_Alalam_news
-http://68.183.163.103:8000/live/safwan/satcom/88.ts
-#EXTINF:-1,|AR|_ALAAN_TV
-http://68.183.163.103:8000/live/safwan/satcom/85.ts
-#EXTINF:-1,|AR|_AD_Drama
-http://68.183.163.103:8000/live/safwan/satcom/99.ts
-#EXTINF:-1,|AR|_ABU_DHABI_TV
-http://68.183.163.103:8000/live/safwan/satcom/115.ts
-#EXTINF:-1,|AR|_ABUDHABI_Emirat
-http://68.183.163.103:8000/live/safwan/satcom/98.ts
-#EXTINF:-1,Al Nahar Drama
-http://68.183.163.103:8000/live/safwan/satcom/54.ts
-#EXTINF:-1,Al Nahar
-http://68.183.163.103:8000/live/safwan/satcom/53.ts
-#EXTINF:-1,Al Iman
-http://68.183.163.103:8000/live/safwan/satcom/50.ts
-#EXTINF:-1,Mekameleen
-http://68.183.163.103:8000/live/safwan/satcom/30.ts
-#EXTINF:-1,Mehwar TV
-http://68.183.163.103:8000/live/safwan/satcom/31.ts
+#EXTINF:-1,Quran TV
+http://www.satcom.ml:8000/live/safwan/satcom/348.ts
+#EXTINF:-1,syria tv
+http://www.satcom.ml:8000/live/safwan/satcom/350.ts
+#EXTINF:-1,syria drama
+http://www.satcom.ml:8000/live/safwan/satcom/349.ts
+#EXTINF:-1,sama syria
+http://www.satcom.ml:8000/live/safwan/satcom/355.ts
+#EXTINF:-1,Lana Syria
+http://www.satcom.ml:8000/live/safwan/satcom/366.ts
+#EXTINF:-1,Lana Syria +
+http://www.satcom.ml:8000/live/safwan/satcom/367.ts
+#EXTINF:-1,Mbc 1
+http://www.satcom.ml:8000/live/safwan/satcom/319.ts
+#EXTINF:-1,MBC 2
+http://www.satcom.ml:8000/live/safwan/satcom/320.ts
+#EXTINF:-1,MBC 4
+http://www.satcom.ml:8000/live/safwan/satcom/322.ts
+#EXTINF:-1,MBC Action
+http://www.satcom.ml:8000/live/safwan/satcom/323.ts
+#EXTINF:-1,MBC MAX
+http://www.satcom.ml:8000/live/safwan/satcom/327.ts
+#EXTINF:-1,MBC Masr
+http://www.satcom.ml:8000/live/safwan/satcom/326.ts
+#EXTINF:-1,MBC DRAMA
+http://www.satcom.ml:8000/live/safwan/satcom/325.ts
+#EXTINF:-1,MBC Bollywood
+http://www.satcom.ml:8000/live/safwan/satcom/324.ts
+#EXTINF:-1,zee aflam
+http://www.satcom.ml:8000/live/safwan/satcom/358.ts
+#EXTINF:-1,MBC 3
+http://www.satcom.ml:8000/live/safwan/satcom/321.ts
+#EXTINF:-1,toyor baby
+http://www.satcom.ml:8000/live/safwan/satcom/352.ts
+#EXTINF:-1,toyor aljanah
+http://www.satcom.ml:8000/live/safwan/satcom/351.ts
+#EXTINF:-1,spacetoon
+http://www.satcom.ml:8000/live/safwan/satcom/357.ts
+#EXTINF:-1,Bein baraem
+http://www.satcom.ml:8000/live/safwan/satcom/359.ts
+#EXTINF:-1,osn yahala cinema
+http://www.satcom.ml:8000/live/safwan/satcom/346.ts
+#EXTINF:-1,osn yahala 1
+http://www.satcom.ml:8000/live/safwan/satcom/344.ts
+#EXTINF:-1,osn yahala 2
+http://www.satcom.ml:8000/live/safwan/satcom/345.ts
+#EXTINF:-1,osn art aflam 1
+http://www.satcom.ml:8000/live/safwan/satcom/333.ts
+#EXTINF:-1,osn art aflam 2
+http://www.satcom.ml:8000/live/safwan/satcom/334.ts
+#EXTINF:-1,osn natgeo wild
+http://www.satcom.ml:8000/live/safwan/satcom/343.ts
+#EXTINF:-1,osn movies thriller
+http://www.satcom.ml:8000/live/safwan/satcom/342.ts
+#EXTINF:-1,osn movies HD
+http://www.satcom.ml:8000/live/safwan/satcom/341.ts
+#EXTINF:-1,osn movies first
+http://www.satcom.ml:8000/live/safwan/satcom/340.ts
+#EXTINF:-1,osn movies drama
+http://www.satcom.ml:8000/live/safwan/satcom/339.ts
+#EXTINF:-1,osn Fastival
+http://www.satcom.ml:8000/live/safwan/satcom/336.ts
+#EXTINF:-1,Osn boxoffice1
+http://www.satcom.ml:8000/live/safwan/satcom/335.ts
+#EXTINF:-1,osn action
+http://www.satcom.ml:8000/live/safwan/satcom/332.ts
+#EXTINF:-1,Bein Movies HD1
+http://www.satcom.ml:8000/live/safwan/satcom/362.ts
+#EXTINF:-1,Bein Movies HD2
+http://www.satcom.ml:8000/live/safwan/satcom/363.ts
+#EXTINF:-1,bein fatafeat
+http://www.satcom.ml:8000/live/safwan/satcom/361.ts
+#EXTINF:-1,bbc arabic
+http://www.satcom.ml:8000/live/safwan/satcom/308.ts
+#EXTINF:-1,cbc sofra
+http://www.satcom.ml:8000/live/safwan/satcom/313.ts
+#EXTINF:-1,cbc extra
+http://www.satcom.ml:8000/live/safwan/satcom/312.ts
+#EXTINF:-1,cbc egypte
+http://www.satcom.ml:8000/live/safwan/satcom/311.ts
+#EXTINF:-1,cbc drama
+http://www.satcom.ml:8000/live/safwan/satcom/310.ts
+#EXTINF:-1,panorama drama
+http://www.satcom.ml:8000/live/safwan/satcom/347.ts
+#EXTINF:-1,alhayat
+http://www.satcom.ml:8000/live/safwan/satcom/296.ts
+#EXTINF:-1,nahar tv
+http://www.satcom.ml:8000/live/safwan/satcom/328.ts
+#EXTINF:-1,al nahar drama
+http://www.satcom.ml:8000/live/safwan/satcom/290.ts
+#EXTINF:-1,abu dhabi tv
+http://www.satcom.ml:8000/live/safwan/satcom/285.ts
+#EXTINF:-1,abu dhabi drama
+http://www.satcom.ml:8000/live/safwan/satcom/284.ts
+#EXTINF:-1,ad natgeo
+http://www.satcom.ml:8000/live/safwan/satcom/286.ts
+#EXTINF:-1,alfajer
+http://www.satcom.ml:8000/live/safwan/satcom/292.ts
+#EXTINF:-1,arabiya
+http://www.satcom.ml:8000/live/safwan/satcom/306.ts
+#EXTINF:-1,aljazeera
+http://www.satcom.ml:8000/live/safwan/satcom/299.ts
+#EXTINF:-1,alhurra
+http://www.satcom.ml:8000/live/safwan/satcom/298.ts
+#EXTINF:-1,tunsia 2
+http://www.satcom.ml:8000/live/safwan/satcom/354.ts
+#EXTINF:-1,tunsia 1
+http://www.satcom.ml:8000/live/safwan/satcom/353.ts
+#EXTINF:-1,samira tv
+http://www.satcom.ml:8000/live/safwan/satcom/356.ts
+#EXTINF:-1,on sport
+http://www.satcom.ml:8000/live/safwan/satcom/331.ts
+#EXTINF:-1,nessma
+http://www.satcom.ml:8000/live/safwan/satcom/329.ts
+#EXTINF:-1,iraqia sport
+http://www.satcom.ml:8000/live/safwan/satcom/318.ts
+#EXTINF:-1,heddaf tv
+http://www.satcom.ml:8000/live/safwan/satcom/317.ts
+#EXTINF:-1,elchourok tv
+http://www.satcom.ml:8000/live/safwan/satcom/316.ts
+#EXTINF:-1,EL bilad
+http://www.satcom.ml:8000/live/safwan/satcom/315.ts
+#EXTINF:-1,echourok news
+http://www.satcom.ml:8000/live/safwan/satcom/314.ts
+#EXTINF:-1,beur tv
+http://www.satcom.ml:8000/live/safwan/satcom/309.ts
+#EXTINF:-1,arriyadiya
+http://www.satcom.ml:8000/live/safwan/satcom/307.ts
+#EXTINF:-1,almgharibia
+http://www.satcom.ml:8000/live/safwan/satcom/305.ts
+#EXTINF:-1,Alkass 4
+http://www.satcom.ml:8000/live/safwan/satcom/303.ts
+#EXTINF:-1,Alkass 3
+http://www.satcom.ml:8000/live/safwan/satcom/302.ts
+#EXTINF:-1,Alkass 2
+http://www.satcom.ml:8000/live/safwan/satcom/301.ts
+#EXTINF:-1,Alkass 1
+http://www.satcom.ml:8000/live/safwan/satcom/300.ts
+#EXTINF:-1,alhiwar ettounssi
+http://www.satcom.ml:8000/live/safwan/satcom/297.ts
+#EXTINF:-1,algeria one
+http://www.satcom.ml:8000/live/safwan/satcom/295.ts
+#EXTINF:-1,algeria 3
+http://www.satcom.ml:8000/live/safwan/satcom/294.ts
+#EXTINF:-1,Alg Programme nationnel
+http://www.satcom.ml:8000/live/safwan/satcom/293.ts
+#EXTINF:-1,al manar
+http://www.satcom.ml:8000/live/safwan/satcom/289.ts
+#EXTINF:-1,ad sport 2
+http://www.satcom.ml:8000/live/safwan/satcom/288.ts
+#EXTINF:-1,ad sport 1
+http://www.satcom.ml:8000/live/safwan/satcom/287.ts
+#EXTINF:-1,2m maroc
+http://www.satcom.ml:8000/live/safwan/satcom/283.ts
