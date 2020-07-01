@@ -1,10 +1,142 @@
-#EXTM3U
-#EXTINF:0,AR: MBC Drama Plus HD
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="SYRIA",======SYRIA=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria Sattelite
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
+http://82.137.248.16:1935/Snews/stream31122019/chunklist_w501291572.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
+http://82.137.248.16:1935/Nour/stream31122019/chunklist_w1402125953.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
+http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/191.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/188.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
+http://161.35.215.36:9000/live/koka/koka/2.m3u8
+#EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/546.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
+http://82.137.248.16:1935/Ugarit/stream31122019/chunklist_w1636278344.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
+http://82.137.248.16:1935/SEdu/stream31122019/chunklist_w1584833335.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
+http://82.137.248.16:1935/Souryana/stream31122019/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
+http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/542.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/543.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
+http://51.15.3.161:8080/LDC/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Sat
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/544.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC 2
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/545.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/550.m3u8
+#EXTINF:-1 tvg-logo="http://www.akkarpress.com/wp-content/uploads/2014/08/IMG_9570.jpg" ,TL Lebanon
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/209.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy
+https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
+#EXTINF: tvg-logo="https://i1.wp.com/www.elmshaher.com/wp-content/uploads/2018/05/drama-e1525730543854.png", Rotana Drama HD
+https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic
+https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+#EXTINF: tvg-logo="http://jawaltv.com/images/ar/rkh.png", Rotana Khalijia
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+#EXTINF: tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/be4Nzd" group-title="Bein Movies",======Bein Movies=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF: tvg-logo="https://goo.gl/uxALCg",Bein Movies 1 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/122.m3u8
+#EXTINF: tvg-logo="https://goo.gl/kX1WhA",Bein Movies 2 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/123.m3u8
+#EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 3 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/124.m3u8
+#EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 4 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/125.m3u8
+#EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 1
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/126.m3u8
+#EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 2
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/127.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Bein Drama 1
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/128.m3u8
+#EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",Bein Fatafeat
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/129.m3u8
+#EXTINF:0,Bein Gourmet
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/130.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC HD ",======MBC HD=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+#EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m5.png",MBC 5 HD
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood HD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama HD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr HD
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2 HD
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq HD
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/48.m3u8
-#EXTINF:0,AR: MBC Varity HD
+#EXTINF:-1 tvg-logo="https://goldtv.tv/icons/mbc-variety.png", MBC Variety HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/54.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN",=====OSN========
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:0,OSN: Alfa Alyoum
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/83.m3u8
@@ -65,33 +197,8 @@ http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/101.m3u8
 #EXTINF:0,OSN: Binge
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/103.m3u8
-#EXTINF:0,Bein Movies 1
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/122.m3u8
-#EXTINF:0,Bein Movies 2
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/123.m3u8
-#EXTINF:0,Bein Movies 3
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/124.m3u8
-#EXTINF:0,Bein Movies 4
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/125.m3u8
-#EXTINF:0,Bein Series 1
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/126.m3u8
-#EXTINF:0,Bein Series 2
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/127.m3u8
-#EXTINF:0,Bein Drama 1
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/128.m3u8
-#EXTINF:0,Bein Fatafeat
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/129.m3u8
-#EXTINF:0,Bein Gourmet
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/130.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="MY HD",=====MY HD========
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:0,MYHD: Art Aflam 1
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/159.m3u8
@@ -122,78 +229,8 @@ http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/167.m3u8
 #EXTINF:0,MYHD: Fox Crime
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/168.m3u8
-#EXTINF:0,Bein Sport News HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/135.m3u8
-#EXTINF:0,Bein Sport News SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/136.m3u8
-#EXTINF:0,Bein Sport HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/137.m3u8
-#EXTINF:0,Bein Sport NBA
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/138.m3u8
-#EXTINF:0,Bein Sport 1 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/139.m3u8
-#EXTINF:0,Bein Sport 2 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/140.m3u8
-#EXTINF:0,Bein Sport 3 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/141.m3u8
-#EXTINF:0,Bein Sport 4 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/142.m3u8
-#EXTINF:0,Bein Sport 5 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/143.m3u8
-#EXTINF:0,Bein Sport 6 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/144.m3u8
-#EXTINF:0,Bein Sport 7 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/145.m3u8
-#EXTINF:0,Bein Sport 8 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/146.m3u8
-#EXTINF:0,Bein Sport 9 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/147.m3u8
-#EXTINF:0,Bein Sport 10 FHD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/148.m3u8
-#EXTINF:0,Bein Sport 1 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/149.m3u8
-#EXTINF:0,Bein Sport 2 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/150.m3u8
-#EXTINF:0,Bein Sport 3 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/151.m3u8
-#EXTINF:0,Bein Sport 4 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/152.m3u8
-#EXTINF:0,Bein Sport 5 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/153.m3u8
-#EXTINF:0,Bein Sport 6 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/154.m3u8
-#EXTINF:0,Bein Sport 7 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/155.m3u8
-#EXTINF:0,Bein Sport 8 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/156.m3u8
-#EXTINF:0,Bein Sport 9 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/157.m3u8
-#EXTINF:0,Bein Sport 10 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/158.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:0,Kids: Woody
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/490.m3u8
@@ -266,33 +303,82 @@ http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/184.m3u8
 #EXTINF:0,Kids: Duck Tv
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/185.m3u8
-#EXTINF:0,SY: Lana HD
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD",======BeIn Sports HD =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:0,Bein Sport News HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/188.m3u8
-#EXTINF:0,SY: LanaPlus
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/135.m3u8
+#EXTINF:0,Bein Sport News SD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/546.m3u8
-#EXTINF:0,SY: Sama
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/136.m3u8
+#EXTINF:0,Bein Sport HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/191.m3u8
-#EXTINF:0,LB: TL Lebanon
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/137.m3u8
+#EXTINF:0,Bein Sport NBA
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/209.m3u8
-#EXTINF:0,LB: MTV Lebanon
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/138.m3u8
+#EXTINF:0,Bein Sport 1 FHD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/542.m3u8
-#EXTINF:0,LB: Al Jadeed
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/139.m3u8
+#EXTINF:0,Bein Sport 2 FHD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/543.m3u8
-#EXTINF:0,LB: LBC Sat
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/140.m3u8
+#EXTINF:0,Bein Sport 3 FHD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/544.m3u8
-#EXTINF:0,LB: LBC 2
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/141.m3u8
+#EXTINF:0,Bein Sport 4 FHD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/545.m3u8
-#EXTINF:0,LB: LBC International
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/142.m3u8
+#EXTINF:0,Bein Sport 5 FHD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/550.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/143.m3u8
+#EXTINF:0,Bein Sport 6 FHD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/144.m3u8
+#EXTINF:0,Bein Sport 7 FHD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/145.m3u8
+#EXTINF:0,Bein Sport 8 FHD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/146.m3u8
+#EXTINF:0,Bein Sport 9 FHD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/147.m3u8
+#EXTINF:0,Bein Sport 10 FHD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/148.m3u8
+#EXTINF:0,Bein Sport 1 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/149.m3u8
+#EXTINF:0,Bein Sport 2 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/150.m3u8
+#EXTINF:0,Bein Sport 3 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/151.m3u8
+#EXTINF:0,Bein Sport 4 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/152.m3u8
+#EXTINF:0,Bein Sport 5 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/153.m3u8
+#EXTINF:0,Bein Sport 6 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/154.m3u8
+#EXTINF:0,Bein Sport 7 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/155.m3u8
+#EXTINF:0,Bein Sport 8 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/156.m3u8
+#EXTINF:0,Bein Sport 9 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/157.m3u8
+#EXTINF:0,Bein Sport 10 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/158.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Other Arabic",=====Other Arabic========
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:0,IRQ: Iraqia Sport HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/221.m3u8
@@ -365,6 +451,8 @@ http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/411.m3u8
 #EXTINF:0,Doc: Discovery Showc SE
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/412.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="WORLD",=====WORLD========
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:0,TR: Bein Sport Haber
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM99/RaeedTVresTM99/435.m3u8
