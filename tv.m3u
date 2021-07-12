@@ -951,130 +951,178 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1017
 #EXTINF:-1 tvg-id="" tvg-name="AR: PBs Kids" tvg-logo="" group-title="Kids",AR: PBs Kids
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1016
 
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN Sport Full HD ---★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★--- beIN Sport Full HD ---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beout Q--★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★--- beout Q--★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2990
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 FHD" tvg-logo="" group-title="beout Q",BEOUT 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3762
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 HD" tvg-logo="" group-title="beout Q",BEOUT 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2991
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 2 HD" tvg-logo="" group-title="beout Q",BEOUT 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2992
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 3 HD" tvg-logo="" group-title="beout Q",BEOUT 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2993
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 4 HD" tvg-logo="" group-title="beout Q",BEOUT 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2994
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 5 HD" tvg-logo="" group-title="beout Q",BEOUT 5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2995
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 6 HD" tvg-logo="" group-title="beout Q",BEOUT 6 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2996
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 7 HD" tvg-logo="" group-title="beout Q",BEOUT 7 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2997
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 8 HD" tvg-logo="" group-title="beout Q",BEOUT 8 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2998
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 9HD" tvg-logo="" group-title="beout Q",BEOUT 9HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2999
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 10 HD" tvg-logo="" group-title="beout Q",BEOUT 10 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3000
+
+#EXTINF:-1 tvg-id="" tvg-name="•●★★---BeOut Q SD ---★★●•" tvg-logo="" group-title="BeOut Q SD",•●★★---BeOut Q SD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3783
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 SD" tvg-logo="" group-title="BeOut Q SD",BEOUT 1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3747
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 2 SD" tvg-logo="" group-title="BeOut Q SD",BEOUT 2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3748
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 LOW" tvg-logo="" group-title="BeOut Q SD",BEOUT 1 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3785
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT 2 LOW" tvg-logo="" group-title="BeOut Q SD",BEOUT 2 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3786
+
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- BeIn Sport HEVC ---★★●•" tvg-logo="" group-title="BeIn Sport HEVC",•●★★--- BeIn Sport HEVC ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3220
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HEVC" tvg-logo="" group-title="Other Arab",beIN SPORTS PREMIUM1 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HEVC" tvg-logo="" group-title="BeIn Sport HEVC",beIN SPORTS PREMIUM1 HEVC
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/459
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS1 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS1 H265
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/452
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS2 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS2 H265
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/453
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS3 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS3 H265
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/454
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS4 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS4 H265
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/455
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS5 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS5 H265
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/456
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS6 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS6 H265
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/457
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS7 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS7 H265
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/458
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX1 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3739
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX2 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3741
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX3 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX3 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3743
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX4 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX4 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3745
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX5 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX5 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3749
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX6 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX6 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3752
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX1 FHD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3767
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX2 FHD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX2 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3768
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX3 FHD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX3 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3769
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX4 FHD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS MAX4 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3770
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 FHD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 1 FHD S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3771
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 HEVC S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 1 HEVC S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3772
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 HD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 1 HD S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3773
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 SD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 1 SD S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3774
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 FHD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 2 FHD S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3775
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 HEVC S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 2 HEVC S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3776
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 HD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 2 HD S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3777
-#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 SD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 2 SD S2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3778
-#EXTINF:-1 tvg-id="" tvg-name="beIN.sport MAX 6 HEVC" tvg-logo="" group-title="BeIn Sport HD 1",beIN.sport MAX 6 HEVC
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3790
-#EXTINF:-1 tvg-id="" tvg-name="beIN.sport MAX 5 HEVC" tvg-logo="" group-title="BeIn Sport HD 1",beIN.sport MAX 5 HEVC
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3789
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 4" tvg-logo="" group-title="BeIn Sport HD 1",BeIN Sport Max hevc 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3766
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 3" tvg-logo="" group-title="BeIn Sport HD 1",BeIN Sport Max hevc 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3765
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 2" tvg-logo="" group-title="BeIn Sport HD 1",BeIN Sport Max hevc 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3764
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 1" tvg-logo="" group-title="BeIn Sport HD 1",BeIN Sport Max hevc 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3763
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HEVC" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM2 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HEVC" tvg-logo="" group-title="BeIn Sport HEVC",beIN SPORTS PREMIUM2 HEVC
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/450
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 HEVC" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM3 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 HEVC" tvg-logo="" group-title="BeIn Sport HEVC",beIN SPORTS PREMIUM3 HEVC
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/451
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 1" tvg-logo="" group-title="BeIn Sport HEVC",BeIN Sport Max hevc 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3763
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 HEVC S2" tvg-logo="" group-title="BeIn Sport HEVC",BEIN. MAX 1 HEVC S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3772
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 2" tvg-logo="" group-title="BeIn Sport HEVC",BeIN Sport Max hevc 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3764
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 HEVC S2" tvg-logo="" group-title="BeIn Sport HEVC",BEIN. MAX 2 HEVC S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3776
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 3" tvg-logo="" group-title="BeIn Sport HEVC",BeIN Sport Max hevc 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3765
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max hevc 4" tvg-logo="" group-title="BeIn Sport HEVC",BeIN Sport Max hevc 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3766
+#EXTINF:-1 tvg-id="" tvg-name="beIN.sport MAX 5 HEVC" tvg-logo="" group-title="BeIn Sport HEVC",beIN.sport MAX 5 HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3789
+#EXTINF:-1 tvg-id="" tvg-name="beIN.sport MAX 6 HEVC" tvg-logo="" group-title="BeIn Sport HEVC",beIN.sport MAX 6 HEVC
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3790
+
+#EXTINF:-1 tvg-id="" tvg-name="•●★★---beIN MAX FULL HD---★★●•" tvg-logo="" group-title="beIN FULL HD",•●★★---beIN FULL-HD---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3761
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 FullHD" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS PREMIUM1 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3221
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 FullHD" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS PREMIUM2 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3222
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 FullHD" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS PREMIUM3 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3223
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX1 FHD" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS MAX1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3767
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 FHD S2" tvg-logo="" group-title="beIN FULL HD",BEIN. MAX 1 FHD S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3771
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX2 FHD" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS MAX2 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3768
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 FHD S2" tvg-logo="" group-title="beIN FULL HD",BEIN. MAX 2 FHD S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3775
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX3 FHD" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS MAX3 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3769
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX4 FHD" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS MAX4 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3770
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD1" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS 1 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3224
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD2" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS 2 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3225
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD3" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS 3 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3226
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD4" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS 4 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3227
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD5" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS 5 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3228
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD6" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS 6 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3230
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD7" tvg-logo="" group-title="beIN FULL HD",beIN SPORTS 7 FullHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3229
+
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- BeIn Sport HD 1 ---★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★--- BeIn Sport HD 1 ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3220
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS News" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS News
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2051
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD (Global)" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS HD (Global)
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/960
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 1 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN Sport XTRA 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3620
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 2 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN Sport XTRA 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3621
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM1 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS1 H265" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS1 HD 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/452
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS2 HD 1" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS2 HD 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/453
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS3 HD 1" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS3 HD 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/454
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS4 HD 1" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS4 HD 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/455
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS5 HD 1" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS5 HD 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/456
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS6 HD 1" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS6 HD 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/457
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS7 HD 1" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS7 HD 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/458
+
+#EXTINF:-1 tvg-id="" tvg-name="•●★★---beIN HD 2---★★●•" tvg-logo="" group-title="BeIn Sport HD 2",•●★★---beIN HD 2---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3738
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS PREMIUM1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/46
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM2 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS PREMIUM2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/47
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM3 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS PREMIUM3 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/48
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 1HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD (Global)" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS HD (Global)
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/960
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 1 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN Sport XTRA 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3620
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 2 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN Sport XTRA 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3621
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX1 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS MAX1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3739
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 HD S2" tvg-logo="" group-title="BeIn Sport HD 2",BEIN. MAX 1 HD S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3773
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX2 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS MAX2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3741
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 HD S2" tvg-logo="" group-title="BeIn Sport HD 2",BEIN. MAX 2 HD S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3777
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX3 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS MAX3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3743
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX4 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS MAX4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3745
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX5 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS MAX5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3749
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX6 HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS MAX6 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3752
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 1HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/49
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 2HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 2HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/50
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 3HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 3HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/51
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 4HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 4HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/52
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 5HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 5HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/53
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 6HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 6HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/54
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 7HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 7HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/55
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ENGLISH HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 1 ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ENGLISH HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 1 ENGLISH HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3001
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS 2 ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="BeIn Sport HD 2",beIN SPORTS 2 ENGLISH HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3002
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 FullHD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM1 FullHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3221
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 FullHD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM2 FullHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3222
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 FullHD" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS PREMIUM3 FullHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3223
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD1" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS FullHD1
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3224
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD2" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS FullHD2
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3225
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD3" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS FullHD3
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3226
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD4" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS FullHD4
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3227
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD5" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS FullHD5
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3228
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD6" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS FullHD6
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3230
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD7" tvg-logo="" group-title="BeIn Sport HD 1",beIN SPORTS FullHD7
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3229
+
+#EXTINF:-1 tvg-id="" tvg-name="•●★★---BeIn Sport SD 1---★★●•" tvg-logo="" group-title="BeIn Sport SD 1",•●★★---BeIn Sport SD 1---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3759
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX1 SD" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX1 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3740
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 1 SD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 1 SD S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3774
+#EXTINF:-1 tvg-id="" tvg-name="BEIN. MAX 2 SD S2" tvg-logo="" group-title="BeIn Sport HD 1",BEIN. MAX 2 SD S2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3778
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX2 SD" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX2 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3742
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX3 SD" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX3 SD
@@ -1085,32 +1133,8 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3746
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3750
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX6 SD" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX6 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3753
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX1 LOW" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX1 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3755
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX2 LOW" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX2 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3756
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX3 LOW" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX3 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3757
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX4 LOW" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX4 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3758
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX5 LOW" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX5 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3751
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX6 LOW" tvg-logo="" group-title="BeIn Sport SD 1",beIN SPORTS MAX6 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3754
-#EXTINF:-1 tvg-id="" tvg-name="•●★★---beoutQ MAX LOW ---★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★---beoutQ MAX LOW ---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3784
-#EXTINF:-1 tvg-id="" tvg-name="•●★★---beIN MAX FULL-HD---★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★---beIN MAX FULL-HD---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3761
-#EXTINF:-1 tvg-id="" tvg-name="•●★★---beIN MAX HD---★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★---beIN MAX HD---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3738
-#EXTINF:-1 tvg-id="" tvg-name="•●★★---beIN MAX SD---★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★---beIN MAX SD---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3759
-#EXTINF:-1 tvg-id="" tvg-name="•●★★---beIN MAX LOW---★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★---beIN MAX LOW---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3760
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beout Q--★★●•" tvg-logo="" group-title="BeIn Sport HD 1",•●★★--- beout Q--★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2990
 
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN SPORTS SD ---★★●•" tvg-logo="" group-title="BeIn Sport SD 2",•●★★--- beIN SPORTS SD ---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN SPORTS SD 2---★★●•" tvg-logo="" group-title="BeIn Sport SD 2",•●★★--- beIN SPORTS SD 2---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2873
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 SD" tvg-logo="" group-title="BeIn Sport SD 2",beIN SPORTS PREMIUM1 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/56
@@ -1141,6 +1165,18 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/62
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/63
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMINUM 3 LOW" tvg-logo="" group-title="Bein Sport Low",beIN SPORTS PREMINUM 3 LOW
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3791
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX1 LOW" tvg-logo="" group-title="BeIn Sport LOW",beIN SPORTS MAX1 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3755
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX2 LOW" tvg-logo="" group-title="BeIn Sport LOW",beIN SPORTS MAX2 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3756
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX3 LOW" tvg-logo="" group-title="BeIn Sport LOW",beIN SPORTS MAX3 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3757
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX4 LOW" tvg-logo="" group-title="BeIn Sport LOW",beIN SPORTS MAX4 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3758
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX5 LOW" tvg-logo="" group-title="BeIn Sport LOW",beIN SPORTS MAX5 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3751
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX6 LOW" tvg-logo="" group-title="BeIn Sport LOW",beIN SPORTS MAX6 LOW
+http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3754
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 LOW" tvg-logo="" group-title="Bein Sport Low",beIN SPORTS 1 LOW
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3792
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2LOW" tvg-logo="" group-title="Bein Sport Low",beIN SPORTS 2LOW
@@ -1153,49 +1189,6 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2110
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2111
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7LOW" tvg-logo="" group-title="Bein Sport Low",beIN SPORTS 7LOW
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2112
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="•●★★---BeOut Q S1 ---★★●•" tvg-logo="" group-title="BeOut Q S1",•●★★---BeOut Q S1 ---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3783
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 LOW" tvg-logo="" group-title="BeOut Q S2",BEOUT 1 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3785
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 2 LOW" tvg-logo="" group-title="BeOut Q S2",BEOUT 2 LOW
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3786
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 FHD" tvg-logo="" group-title="BeOut Q S1",BEOUT 1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3762
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2991
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 2 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2992
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 3 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 3 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2993
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 SD" tvg-logo="" group-title="BeOut Q S2",BEOUT 1 SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3747
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 2 SD" tvg-logo="" group-title="BeOut Q S2",BEOUT 2 SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3748
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 4 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 4 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2994
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 5 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 5 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2995
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 6 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 6 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2996
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 7 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 7 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2997
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 8 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 8 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2998
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 9HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 9HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2999
-#EXTINF:-1 tvg-id="" tvg-name="BEOUT 10 HD" tvg-logo="" group-title="BeOut Q S1",BEOUT 10 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3000
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Smart Sport ((كاس الاتحاد الاسيوي))" tvg-logo="" group-title="Other Sports",Smart Sport ((كاس الاتحاد الاسيوي))
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3779
@@ -1225,6 +1218,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1462
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1463
 #EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 4" tvg-logo="" group-title="Other Sports",AR: Alkass 4
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1464
+
 #EXTINF:-1 tvg-id="" tvg-name="==== IRAQ =====" tvg-logo="" group-title="Iraq",==== IRAQ =====
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3075
 #EXTINF:-1 tvg-id="" tvg-name="AR: AL HURRA" tvg-logo="" group-title="Iraq",AR: AL HURRA
@@ -1251,6 +1245,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3088
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3089
 #EXTINF:-1 tvg-id="" tvg-name="AR Rudaw TV" tvg-logo="" group-title="Iraq",AR Rudaw TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3091
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- ALGERIA ---★★●•" tvg-logo="" group-title="Algeria",•●★★--- ALGERIA ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/906
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:CANAL ALGERIE 2" tvg-logo="" group-title="Algeria",Algerian:CANAL ALGERIE 2
@@ -1315,6 +1310,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/928
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/929
 #EXTINF:-1 tvg-id="" tvg-name="Algerian: ALGERIE5" tvg-logo="" group-title="Algeria",Algerian: ALGERIE5
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/930
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- TUNISIA ---★★●•" tvg-logo="" group-title="Tunisia",•●★★--- TUNISIA ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/889
 #EXTINF:-1 tvg-id="" tvg-name="TN:WATANIA1" tvg-logo="" group-title="Tunisia",TN:WATANIA1
@@ -1371,6 +1367,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3113
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3114
 #EXTINF:-1 tvg-id="" tvg-name="AR: Medi1 Afrique FHD" tvg-logo="" group-title="Morroco",AR: Medi1 Afrique FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3115
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- MAROC ---★★●•" tvg-logo="" group-title="Morroco",•●★★--- MAROC ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/725
 #EXTINF:-1 tvg-id="" tvg-name="MA:ALOULA INT " tvg-logo="" group-title="Morroco",MA:ALOULA INT 
@@ -1395,6 +1392,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/734
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/735
 #EXTINF:-1 tvg-id="" tvg-name="MA:TAMAZIGHT " tvg-logo="" group-title="Morroco",MA:TAMAZIGHT 
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/736
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- LIBYA ---★★●•" tvg-logo="" group-title="Lebya",•●★★--- LIBYA ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3141
 #EXTINF:-1 tvg-id="" tvg-name="[LIB] Libya Sport Channel" tvg-logo="" group-title="Lebya",[LIB] Libya Sport Channel
@@ -1427,6 +1425,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3138
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3139
 #EXTINF:-1 tvg-id="" tvg-name="AR: Libyas Channel" tvg-logo="" group-title="Lebya",AR: Libyas Channel
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3140
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- SUDAN ---★★●•" tvg-logo="" group-title="Sudan",•●★★--- SUDAN ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3158
 #EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN" tvg-logo="" group-title="Sudan",AR: SUDAN
@@ -1459,6 +1458,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3155
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3156
 #EXTINF:-1 tvg-id="" tvg-name="AR: Sudania 24" tvg-logo="" group-title="Sudan",AR: Sudania 24
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3157
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- NEWS ---★★●•" tvg-logo="" group-title="News",•●★★--- NEWS ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/998
 #EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera" tvg-logo="" group-title="News",AR: Al Jazeera
@@ -1724,6 +1724,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3533
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3534
 #EXTINF:-1 tvg-id="" tvg-name="AR: RADIO UMM KULTHUM" tvg-logo="" group-title="Radio",AR: RADIO UMM KULTHUM
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3535
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- القرءان الكريــــــــــم---★★●•" tvg-logo="" group-title="Radio Islam",•●★★--- القرءان الكريــــــــــم---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3289
 #EXTINF:-1 tvg-id="" tvg-name="اذاعه القرءان الكريم من القاهرة" tvg-logo="" group-title="Radio Islam",اذاعه القرءان الكريم من القاهرة
