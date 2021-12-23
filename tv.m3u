@@ -1,619 +1,1556 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Arabic" tvg-logo="" group-title="News",Al Jazeera Arabic
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" group-title="News",Al Jazeera English
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/163.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya" tvg-logo="" group-title="News",Al Arabiya
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Hadath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg" group-title="MBC CHANNELS",Al Hadath
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/248.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="MBC CHANNELS",MBC 1 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/56.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC CHANNELS",MBC 2 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/57.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/280px-MBC_3_Transparent_Background_Logo.png" group-title="MBC CHANNELS",MBC 3 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="MBC CHANNELS",MBC 4 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5 HD" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="MBC CHANNELS",MBC 5 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION HD" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC CHANNELS",MBC ACTION HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA HD" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="MBC CHANNELS",MBC DRAMA HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA +" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="MBC CHANNELS",MBC DRAMA +
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/68.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX HD" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="MBC CHANNELS",MBC MAX HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Variety" tvg-logo="http://gui.cdniptv.com/images/35.png" group-title="MBC CHANNELS",MBC Variety
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/67.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Persia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MBC_Persia.jpg/220px-MBC_Persia.jpg" group-title="MBC CHANNELS",MBC Persia
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/313.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR HD" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="MBC CHANNELS",MBC MASR HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="MBC CHANNELS",MBC MASR 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ HD" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="MBC CHANNELS",MBC IRAQ HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="beIN",beIN Sports News
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/29.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIn Sports HD" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="beIN",beIn Sports HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/312.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="" group-title="UK",Sport TV 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/395.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="beIN",beIN Sports Premium 1 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/412.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="beIN",beIN Sports Premium 1 SD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/415.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN",beIN Sports Premium 2 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/413.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN",beIN Sports Premium 2 SD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/416.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="beIN",beIN Sports Premium 3 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/414.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="beIN",beIN Sports Premium 3 SD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/417.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN",beIN Sports 1 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/1.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports SD 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN",beIN Sports SD 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN",beIN Sports 2 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/20.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports SD 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN",beIN Sports SD 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN",beIN Sports 3 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/21.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports SD 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN",beIN Sports SD 3
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/34.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN",beIN Sports 4 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/22.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports SD 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN",beIN Sports SD 4
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/35.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN",beIN Sports 5 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/23.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports SD 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN",beIN Sports SD 5
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/36.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN",beIN Sports 6 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/24.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports SD 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN",beIN Sports SD 6
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/37.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN",beIN Sports 7 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports SD 7" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN",beIN Sports SD 7
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 1 HD" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="beIN",beIN Sports Xtra 1 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/319.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 HD" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="beIN",beIN Sports Xtra 2 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/494.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES1_DIGITAL_Mono.png" group-title="beIN",beIN Series 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/153.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="beIN",beIN Series 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/154.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Gourmet.png" group-title="beIN",beIN Gourmet
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/156.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fatafeat" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png" group-title="beIN",beIN Fatafeat
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/157.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Bara3em-1.png" group-title="beIN",beIN Baraem
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/155.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies HD 1 Premiere" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="beIN",beIN Movies HD 1 Premiere
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/158.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies HD 2 Action" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="beIN",beIN Movies HD 2 Action
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/159.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies HD 3 Drama" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="beIN",beIN Movies HD 3 Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/160.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies HD 4 Family" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="beIN",beIN Movies HD 4 Family
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/161.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala" tvg-logo="" group-title="OSN",OSN Yahala
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/114.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Oula" tvg-logo="" group-title="OSN",OSN Yahala Oula
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/115.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Cinema" tvg-logo="https://www.cne-eg.com/uploads/logos/202018101139277.png" group-title="OSN",OSN Yahala Cinema
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/116.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/musalsalat.png" group-title="OSN",OSN Musalsalat
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/117.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy" tvg-logo="" group-title="OSN",OSN Comedy
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/500.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Cinema 2" tvg-logo="" group-title="OSN",OSN Cinema 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/501.ts
-#EXTINF:-1 tvg-id="" tvg-name=" OSN Action" tvg-logo="" group-title="OSN", OSN Action
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/120.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Cinema 1" tvg-logo="" group-title="OSN",OSN Cinema 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/122.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART Aflam 1" tvg-logo="" group-title="OSN",OSN ART Aflam 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/124.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART Aflam 2" tvg-logo="" group-title="OSN",OSN ART Aflam 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/125.ts
-#EXTINF:-1 tvg-id="" tvg-name="Osn Art Cinema" tvg-logo="" group-title="OSN",Osn Art Cinema
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/126.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART Hekayat 1" tvg-logo="" group-title="OSN",OSN ART Hekayat 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/91.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART Hekayat 2" tvg-logo="" group-title="OSN",OSN ART Hekayat 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/127.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Music" tvg-logo="" group-title="OSN",OSN Music
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/128.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Fann" tvg-logo="" group-title="OSN",OSN Fann
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/129.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Mezze" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osnmezze.png" group-title="OSN",OSN Mezze
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/130.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies" tvg-logo="" group-title="OSN",OSN Star Movies
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/131.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies" tvg-logo="" group-title="OSN",OSN Movies
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/132.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star world" tvg-logo="http://gui.cdniptv.com/images/166.png" group-title="OSN",OSN Star world
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/133.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osnfirst1.png" group-title="OSN",OSN Movies First
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Baby" tvg-logo="" group-title="OSN",OSN Baby
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/136.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Junior" tvg-logo="" group-title="OSN",OSN Disney Junior
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/137.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First +2" tvg-logo="" group-title="OSN",OSN Movies First +2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/138.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Mix" tvg-logo="" group-title="OSN",OSN Mix
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/121.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Wild" tvg-logo="" group-title="OSN",OSN Nat Geo Wild
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/139.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN AL SAFWA" tvg-logo="" group-title="OSN",OSN AL SAFWA
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/140.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Enigma" tvg-logo="" group-title="OSN",OSN Enigma
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/141.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Aflam" tvg-logo="https://media.elcinema.com/tvguide/1262_1.png" group-title="UAE",ZEE Aflam
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/407.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ALWAN" tvg-logo="https://media.elcinema.com/tvguide/1261_1.png" group-title="UAE",ZEE ALWAN
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Wanasah TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="UAE",Wanasah TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="" group-title="lebanon",LBC HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL jadeed" tvg-logo="" group-title="lebanon",AL jadeed
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://gui.cdniptv.com/images/2.png" group-title="lebanon",MTV Lebanon
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/411.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lebanon TV" tvg-logo="" group-title="lebanon",Lebanon TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/441.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBC SAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LBC_INTERNATIONAL.png/171px-LBC_INTERNATIONAL.png" group-title="lebanon",LBC SAT HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/74.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALMAYADEEN TV" tvg-logo="" group-title="lebanon",ALMAYADEEN TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/84.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALMANAR HD" tvg-logo="" group-title="lebanon",ALMANAR HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/85.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTURE TV" tvg-logo="" group-title="lebanon",FUTURE TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/86.ts
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Hadith TV HD" tvg-logo="" group-title="islamic",AFG: Hadith TV HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/93.ts
-#EXTINF:-1 tvg-id="" tvg-name="QURAN KAREEM LIVE" tvg-logo="" group-title="islamic",QURAN KAREEM LIVE
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/94.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAKKAH LIVE" tvg-logo="" group-title="islamic",MAKKAH LIVE
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/96.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL RESALAH" tvg-logo="" group-title="islamic",AL RESALAH
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/97.ts
-#EXTINF:-1 tvg-id="" tvg-name="IQRAA" tvg-logo="" group-title="islamic",IQRAA
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/98.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALSUNNAH ALNABAWIYA" tvg-logo="" group-title="islamic",ALSUNNAH ALNABAWIYA
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/99.ts
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA Comedy" tvg-logo="" group-title="ROTANA Channels",ROTANA Comedy
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/101.ts
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="" group-title="ROTANA Channels",ROTANA MUSIC
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/100.ts
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" tvg-logo="" group-title="ROTANA Channels",ROTANA CINEMA
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/103.ts
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" tvg-logo="" group-title="ROTANA Channels",ROTANA CLASSIC
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/104.ts
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA khaleejiya" tvg-logo="" group-title="ROTANA Channels",ROTANA khaleejiya
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/105.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="ROTANA Channels",Rotana Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/106.ts
-#EXTINF:-1 tvg-id="" tvg-name="Saudi TV" tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/03/Al_Saudiya-1.jpg" group-title="Saudi Arabia",Saudi TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/107.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="kids",Cartoon Network Arabic
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/109.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png" group-title="kids",Spacetoon
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/110.ts
-#EXTINF:-1 tvg-id="" tvg-name="Majid TV" tvg-logo="https://i.imgur.com/RiJULAe.png" group-title="kids",Majid TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/299.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Al Aoula Maroc" tvg-logo="" group-title="Morocco", Al Aoula Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/146.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Laayoune Maroc" tvg-logo="" group-title="Morocco", Laayoune Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/149.ts
-#EXTINF:-1 tvg-id="" tvg-name="2M Maroc" tvg-logo="" group-title="Morocco",2M Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia Maroc" tvg-logo="" group-title="Morocco",Al Maghribia Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/147.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Arryadia Maroc" tvg-logo="" group-title="Morocco", Arryadia Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/148.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa Maroc" tvg-logo="" group-title="Morocco",Arrabiaa Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/150.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Assadissa Maroc" tvg-logo="" group-title="Morocco", Assadissa Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/151.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tamazight Maroc" tvg-logo="" group-title="Morocco",Tamazight Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/152.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="" group-title="Morocco",Tele Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/144.ts
-#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Maroc" tvg-logo="" group-title="Morocco",Medi 1 TV Maroc
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/143.ts
-#EXTINF:-1 tvg-id="" tvg-name="M24" tvg-logo="" group-title="Morocco",M24
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/142.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHADA TV" tvg-logo="" group-title="Morocco",CHADA TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/452.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alhayat EGYPT" tvg-logo="" group-title="Egypt",Alhayat EGYPT
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/168.ts
-#EXTINF:-1 tvg-id="" tvg-name="ONTime Sports" tvg-logo="" group-title="Egypt",ONTime Sports
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/172.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON E" tvg-logo="http://files.rednetcontent.com/chlogo/ON-E.png" group-title="Egypt",ON E
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/170.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBC TV" tvg-logo="https://shashatcom.faulio.com/storage/mediagallery/f3/12/small_6aacb64b11bd07aa726b64ea478a15f7690bb830.png" group-title="Saudi Arabia",SBC TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/173.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile TV" tvg-logo="http://files.rednetcontent.com/chlogo/Nile-TV.png" group-title="Egypt",Nile TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/178.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlNahar" tvg-logo="" group-title="Egypt",AlNahar
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/183.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlNahar Drama" tvg-logo="" group-title="Egypt",AlNahar Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/184.ts
-#EXTINF:-1 tvg-id="" tvg-name="DMC" tvg-logo="" group-title="Egypt",DMC
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/185.ts
-#EXTINF:-1 tvg-id="" tvg-name="DMC Drama" tvg-logo="" group-title="Egypt",DMC Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/186.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem" tvg-logo="https://shashatcom.faulio.com/storage/mediagallery/67/fe/small_bf2974aa110f1cb0b912c16df45dd1b3641579c3.png" group-title="Saudi Arabia",Al Quran Al Kareem
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/187.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="Egypt",CBC Sofra
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/188.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC Drama" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/CBCDRAMA.png" group-title="Egypt",CBC Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/189.ts
-#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="http://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="Saudi Arabia",Makkah TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/190.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cairo Drama" tvg-logo="" group-title="Egypt",Cairo Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/191.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cairo Cinema" tvg-logo="" group-title="Egypt",Cairo Cinema
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Masriya" tvg-logo="" group-title="Egypt",Al Masriya
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/194.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlThanya EGYPT" tvg-logo="" group-title="Egypt",AlThanya EGYPT
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/195.ts
-#EXTINF:-1 tvg-id="" tvg-name="Almehwar" tvg-logo="http://gui.cdniptv.com/images/595.png" group-title="Egypt",Almehwar
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/196.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cima AliBaba" tvg-logo="" group-title="Egypt",Cima AliBaba
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/198.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sada Elbalad Drama" tvg-logo="" group-title="Egypt",Sada Elbalad Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/202.ts
-#EXTINF:-1 tvg-id="" tvg-name="Star CINEMA 2" tvg-logo="" group-title="Egypt",Star CINEMA 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/203.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="" group-title="Egypt",Nile Cinema
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/204.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Comedy" tvg-logo="" group-title="Egypt",Nile Comedy
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/205.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="" group-title="Egypt",Nile Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/206.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Sports" tvg-logo="" group-title="Egypt",Nile Sports
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/208.ts
-#EXTINF:-1 tvg-id="" tvg-name="Star CINEMA 1" tvg-logo="" group-title="Egypt",Star CINEMA 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/209.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Drama" tvg-logo="" group-title="Egypt",Panorama Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/210.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Drama 2" tvg-logo="" group-title="Egypt",Panorama Drama 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/211.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Mekamelen" tvg-logo="" group-title="Egypt",Al Mekamelen
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/213.ts
-#EXTINF:-1 tvg-id="" tvg-name="ElWatan" tvg-logo="" group-title="Egypt",ElWatan
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/214.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Masrawia" tvg-logo="" group-title="Egypt",Al Masrawia
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/219.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dzair TV" tvg-logo="" group-title="Algeria",Dzair TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/222.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bahia TV" tvg-logo="" group-title="Algeria",Bahia TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/238.ts
-#EXTINF:-1 tvg-id="" tvg-name="Modern AFlam" tvg-logo="" group-title="Egypt",Modern AFlam
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/240.ts
-#EXTINF:-1 tvg-id="" tvg-name="Modern Drama" tvg-logo="" group-title="Egypt",Modern Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/242.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shabab Iraq Sport 1 HD" tvg-logo="https://i.ibb.co/7KPBcyz/FAMILY.png" group-title="Iraq",Shabab Iraq Sport 1 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/515.ts
-#EXTINF:-1 tvg-id="" tvg-name="Aliraqiya" tvg-logo="" group-title="Iraq",Aliraqiya
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/246.ts
-#EXTINF:-1 tvg-id="" tvg-name="Aliraqiya News" tvg-logo="" group-title="Iraq",Aliraqiya News
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/247.ts
-#EXTINF:-1 tvg-id="" tvg-name="DW Arabic" tvg-logo="" group-title="News",DW Arabic
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/281.ts
-#EXTINF:-1 tvg-id="" tvg-name="France 24 Arabic" tvg-logo="" group-title="News",France 24 Arabic
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/282.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Drama" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Arabic channels",Abu Dhabi Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/283.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arabic channels",Abu Dhabi Sports 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/284.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Arabic channels",Abu Dhabi Sports 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/285.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Arabic channels",Abu Dhabi Sports 3
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/286.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Arabic channels",Abu Dhabi Sports 4
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/287.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi TV" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="Arabic channels",Abu Dhabi TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/288.ts
-#EXTINF:-1 tvg-id="" tvg-name="Citruss TV" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="Arabic channels",Citruss TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/289.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arabic channels",Dubai Racing
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/290.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arabic channels",Dubai Racing 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/291.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 3" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arabic channels",Dubai Racing 3
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/292.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 1" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arabic channels",Dubai Sports 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/293.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Arabic channels",Dubai Sports 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/294.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Arabic channels",Dubai Sports 3
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/295.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai TV" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Arabic channels",Dubai TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/296.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Zaman" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Arabic channels",Dubai Zaman
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/297.ts
-#EXTINF:-1 tvg-id="" tvg-name="Emarat TV" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="Arabic channels",Emarat TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/298.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Abu Dhabi" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Arabic channels",National Geographic Abu Dhabi
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/300.ts
-#EXTINF:-1 tvg-id="" tvg-name="Noor Dubai" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="Arabic channels",Noor Dubai
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/301.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Arabic channels",Peace TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/302.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sama Dubai" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="Arabic channels",Sama Dubai
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/303.ts
-#EXTINF:-1 tvg-id="" tvg-name="Beity TV" tvg-logo="https://beity-tv.co/wp-content/uploads/2020/04/beity-logo.jpg" group-title="Saudi Arabia",Beity TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/304.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yas" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Arabic channels",Yas
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/305.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt TV" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Arabic channels",Ahlulbayt TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/306.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Araby" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="Arabic channels",Al Araby
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/307.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Hiwar" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="Arabic channels",Al Hiwar
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/308.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="Arabic channels",BBC Arabic
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/309.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="Arabic channels",BBC News
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="http://files.rednetcontent.com/chlogo/Nile-Culture.png" group-title="Egypt",Nile Culture
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/314.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="http://files.rednetcontent.com/chlogo/Nile-Life.png" group-title="Egypt",Nile Life
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/315.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nile Family " tvg-logo="http://gui.cdniptv.com/images/659.png" group-title="Egypt",Nile Family 
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/316.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBCI 2" tvg-logo="http://files.rednetcontent.com/chlogo/lbc.png" group-title="lebanon",LBCI 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya Al aama" tvg-logo="" group-title="Iraq",Al Iraqiya Al aama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/250.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya IRAQ" tvg-logo="" group-title="Iraq",Al Sharqiya IRAQ
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/251.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya News IRAQ" tvg-logo="" group-title="Iraq",Al Sharqiya News IRAQ
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/252.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Anwar" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/AlAnwar.png" group-title="Iraq",Al Anwar
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/258.ts
-#EXTINF:-1 tvg-id="" tvg-name="Karbala" tvg-logo="" group-title="Iraq",Karbala
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/262.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Taghier" tvg-logo="http://gui.cdniptv.com/images/424.png" group-title="Iraq",Al Taghier
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/265.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS  1" tvg-logo="" group-title="Germany",RMC SPORTS  1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/266.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 2" tvg-logo="http://files.rednetcontent.com/chlogo2/German/DAZN2BAR.png" group-title="Germany",RMC SPORTS 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/278.ts
-#EXTINF:-1 tvg-id="" tvg-name="Babylon" tvg-logo="" group-title="Iraq",Babylon
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/267.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hona Baghdad" tvg-logo="" group-title="Iraq",Hona Baghdad
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/269.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alhurra Iraq" tvg-logo="" group-title="Iraq",Alhurra Iraq
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/270.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zagros" tvg-logo="" group-title="Iraq",Zagros
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/271.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dijlah Tv" tvg-logo="http://gui.cdniptv.com/images/435.png" group-title="Iraq",Dijlah Tv
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/272.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alrasheed" tvg-logo="" group-title="Iraq",Alrasheed
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/276.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="" group-title="Iraq",Rudaw
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/279.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ACTION" tvg-logo="" group-title="Sky Channels",SKY SPORTS ACTION
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/75.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="http://files.rednetcontent.com/chlogo2/english/skysportarena.png" group-title="Sky Channels",SKY SPORTS ARENA
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/76.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="" group-title="Sky Channels",SKY SPORTS CRICKET
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/77.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD" tvg-logo="" group-title="Sky Channels",SKY SPORTS F1 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="" group-title="Sky Channels",SKY SPORTS MAIN EVENT
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MIX	" tvg-logo="" group-title="Sky Channels",SKY SPORTS MIX	
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/80.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS" tvg-logo="" group-title="Sky Channels",SKY SPORTS NEWS
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/81.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="" group-title="Sky Channels",SKY SPORTS CRICKET
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Janoubiya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_janoubiya_tv_tn.png" group-title="Tunisia",Al Janoubiya
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/389.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iqraa TV" tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Saudi Arabia",Iqraa TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/274.ts
-#EXTINF:-1 tvg-id="" tvg-name="22 Arab TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/22-arab-tv.png" group-title="Saudi Arabia",22 Arab TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/388.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ahlu Al Quran" tvg-logo="https://www.ahlu.tv/wp-content/uploads/2017/07/logo.png" group-title="Saudi Arabia",Ahlu Al Quran
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/311.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal TV" tvg-logo="http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png" group-title="Tunisia",Hannibal TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/387.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mosaique FM TV" tvg-logo="https://www.mosaiquefm.net/images/front/logoFooter.png" group-title="Tunisia",Mosaique FM TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/386.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunisia TV" tvg-logo="" group-title="Tunisia",Tunisia TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/385.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sahel TV" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logo.png" group-title="Tunisia",Sahel TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/384.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Khaleej" tvg-logo="https://i.ibb.co/SXW8qgX/Al-Khaleej.png" group-title="Saudi Arabia",Al Khaleej
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/383.ts
-#EXTINF:-1 tvg-id="" tvg-name="Attessia tv" tvg-logo="http://gui.cdniptv.com/images/576.png" group-title="Tunisia",Attessia tv
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/273.ts
-#EXTINF:-1 tvg-id="" tvg-name="Elhiwar Ettounsi" tvg-logo="http://gui.cdniptv.com/images/578.png" group-title="Tunisia",Elhiwar Ettounsi
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/268.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Aan TV" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="UAE",Al Aan TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/331.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Dafrah TV" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="UAE",Al Dafrah TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/332.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Wousta TV" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/0f905c68c3eb7a06454f4953614c32684970496a4c70616a537336554e54.png" group-title="UAE",Al Wousta TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/333.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="UAE",Dubai One
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/334.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah 2" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/aa5a9f2ce9f440410b796a6747566d6c58726961784a69665757426a3157.png" group-title="UAE",Sharjah 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/335.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah Sports" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="UAE",Sharjah Sports
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/336.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah TV" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png" group-title="UAE",Sharjah TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/337.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sharqiya from Kalba" tvg-logo="https://www.3indubai.com/wp-content/uploads/2020/10/21_tcm4-324401_w640.png" group-title="UAE",Sharqiya from Kalba
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/338.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sunna TV" tvg-logo="https://shashatcom.faulio.com/storage/mediagallery/74/7e/small_77cd28559f3b9cb650e13898b7097c7cd513679d.png" group-title="Saudi Arabia",Sunna TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/88.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL RAHMA" tvg-logo="http://files.rednetcontent.com/chlogo/al_rahma_Logo.png" group-title="islamic",AL RAHMA
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/95.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alhayat Musalsalat" tvg-logo="" group-title="Egypt",Alhayat Musalsalat
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/169.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON Drama" tvg-logo="" group-title="Egypt",ON Drama
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/171.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 1 UFC" tvg-logo="http://files.rednetcontent.com/chlogo/bt1.png" group-title="Sky Channels",Bt Sports 1 UFC
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/325.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syrian Educational TV" tvg-logo="https://i.ibb.co/fNth9nG/unnamed.png" group-title="Syria",Syrian Educational TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/70.ts
-#EXTINF:-1 tvg-id="" tvg-name="Souryana" tvg-logo="https://i.ibb.co/Z2W06W1/souryana-logo.png" group-title="Syria",Souryana
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alyaum TV" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="Syria",Alyaum TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/90.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syrian News" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="Syria",Syrian News
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/92.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" group-title="Syria",Syria TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/326.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syrian TV" tvg-logo="https://www.dreamboxgate.com/imgcache/2019/512088_dreambox-sat.com.png" group-title="Syria",Syrian TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/327.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syrian Drama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png" group-title="Syria",Syrian Drama TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/328.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nour Elsham TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sy-nour-el-sha-8263.jpg" group-title="Syria",Nour Elsham TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/329.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sama TV" tvg-logo="http://www.sama-tv.net/images/logo.png" group-title="Syria",Sama TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/87.ts
-#EXTINF:-1 tvg-id="" tvg-name="Halab Today TV" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2018/10/Asset-1-e1533308069247.png" group-title="Syria",Halab Today TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/89.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alghadye Almushreq" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="Yemen",Alghadye Almushreq
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/255.ts
-#EXTINF:-1 tvg-id="" tvg-name="Almahriah TV" tvg-logo="https://almahriah.net/images/logo.png" group-title="Yemen",Almahriah TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/256.ts
-#EXTINF:-1 tvg-id="" tvg-name="Almasirah TV" tvg-logo="https://www.almasirah.net/assets/images/logo.png" group-title="Yemen",Almasirah TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/259.ts
-#EXTINF:-1 tvg-id="" tvg-name="Almasirah Mubasher" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/almasirah-mubasher-ye.png" group-title="Yemen",Almasirah Mubasher
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/257.ts
-#EXTINF:-1 tvg-id="" tvg-name="Belqees TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/belqees_tv_ye.png" group-title="Yemen",Belqees TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/253.ts
-#EXTINF:-1 tvg-id="" tvg-name="Suhail TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/suhail_tv.png" group-title="Yemen",Suhail TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/260.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Shabab TV" tvg-logo="https://yemenshabab.net/images/logo.png" group-title="Yemen",Yemen Shabab TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/261.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yemen TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yemen_tv.png" group-title="Yemen",Yemen TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/263.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Today" tvg-logo="https://www.yementdy.tv/system/styles/default/images/Logo.png" group-title="Yemen",Yemen Today
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/264.ts
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Saudi Arabia",KSA SPORTS 1 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/391.ts
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Saudi Arabia",KSA SPORTS 2 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/392.ts
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Saudi Arabia",KSA SPORTS 3 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/393.ts
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Saudi Arabia",KSA SPORTS 4 HD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/394.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC 1" tvg-logo="" group-title="UK",BBC 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/397.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al rayyan TV" tvg-logo="https://www.alrayyan.tv//wp-content/uploads/2016/04/TVLogo.png" group-title="Qatar",Al rayyan TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/408.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Rayyan Qadeem" tvg-logo="https://www.alrayyan.tv/wp-content/uploads/2017/10/rayyanqadeem.png" group-title="Qatar",Al Rayyan Qadeem
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/409.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunisia NAT 1" tvg-logo="" group-title="Tunisia",Tunisia NAT 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/418.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tunisia NAT 2" tvg-logo="" group-title="Tunisia",Tunisia NAT 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/419.ts
-#EXTINF:-1 tvg-id="" tvg-name="Echorouk TV News" tvg-logo="" group-title="Algeria",Echorouk TV News
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/421.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTV 1" tvg-logo="" group-title="Algeria",ENTV 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/423.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Algérie" tvg-logo="" group-title="Algeria",Canal Algérie
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/236.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTV 3" tvg-logo="" group-title="Algeria",ENTV 3
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/434.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTV 4" tvg-logo="" group-title="Algeria",ENTV 4
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/431.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTV 5" tvg-logo="" group-title="Algeria",ENTV 5
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/432.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTV 6" tvg-logo="" group-title="Algeria",ENTV 6
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/464.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL BILAD" tvg-logo="" group-title="Algeria",EL BILAD
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/424.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL DJAZAIRIA One" tvg-logo="" group-title="Algeria",EL DJAZAIRIA One
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/425.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL FADJR TV" tvg-logo="" group-title="Algeria",EL FADJR TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/426.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL HAYAT TV" tvg-logo="" group-title="Algeria",EL HAYAT TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/427.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENNAHAR TV" tvg-logo="" group-title="Algeria",ENNAHAR TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/428.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lina TV" tvg-logo="" group-title="Algeria",Lina TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/429.ts
-#EXTINF:-1 tvg-id="" tvg-name="SamiraTV" tvg-logo="" group-title="Algeria",SamiraTV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/430.ts
-#EXTINF:-1 tvg-id="" tvg-name="Echorouk TV" tvg-logo="" group-title="Algeria",Echorouk TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/420.ts
-#EXTINF:-1 tvg-id="" tvg-name="El Adjwaa TV" tvg-logo="" group-title="Algeria",El Adjwaa TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/422.ts
-#EXTINF:-1 tvg-id="" tvg-name="Libya 218 NEWS" tvg-logo="https://www.218tv.net/wp-content/uploads/2020/04/218tv-logo.png" group-title="libya",Libya 218 NEWS
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/437.ts
-#EXTINF:-1 tvg-id="" tvg-name="218 tv" tvg-logo="https://www.218tv.net/wp-content/uploads/2020/04/218tv-logo.png" group-title="libya",218 tv
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/438.ts
-#EXTINF:-1 tvg-id="" tvg-name="Libya s Channel" tvg-logo="https://libyaschannel.com/wp-content/uploads/2016/07/logo.png" group-title="libya",Libya s Channel
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/439.ts
-#EXTINF:-1 tvg-id="" tvg-name="Libya Alhadath TV" tvg-logo="https://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="libya",Libya Alhadath TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/440.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hawacom" tvg-logo="" group-title="lebanon",Hawacom
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sudan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/77/Sudan_TV_Logo.png" group-title="Sudan",Sudan TV
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/472.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sudan 24" tvg-logo="https://samanews.ps/ar/uploads//images/4bb4370cc3bdf162e05a7bafc780346c.png" group-title="Sudan",Sudan 24
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/473.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sudan Bukra" tvg-logo="https://i2.wp.com/www.sudanbukra.net/wp-content/uploads/2021/03/cropped-logo-a13-2.png" group-title="Sudan",Sudan Bukra
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/474.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blue Nile" tvg-logo="https://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" group-title="Sudan",Blue Nile
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/475.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 1" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="Saudi Arabia",SSC SPORTS HD 1
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/508.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 2" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="Saudi Arabia",SSC SPORTS HD 2
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/509.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 3" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="Saudi Arabia",SSC SPORTS HD 3
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/510.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 4" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="Saudi Arabia",SSC SPORTS HD 4
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/511.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 5" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="Saudi Arabia",SSC SPORTS HD 5
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/512.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 6" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="Saudi Arabia",SSC SPORTS HD 6
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/513.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS HD 7" tvg-logo="https://i.ibb.co/58yn9k4/Saudi-Sports-Company-logo-20210721.png" group-title="Saudi Arabia",SSC SPORTS HD 7
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/514.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports premuim 1 radio" tvg-logo="" group-title="Radio Bein",bein Sports premuim 1 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/442.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports premuim 2 radio" tvg-logo="" group-title="Radio Bein",bein Sports premuim 2 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/443.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports premuim 3 radio" tvg-logo="" group-title="Radio Bein",bein Sports premuim 3 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/444.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports 1 radio" tvg-logo="" group-title="Radio Bein",bein Sports 1 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/445.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports 2 radio" tvg-logo="" group-title="Radio Bein",bein Sports 2 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/446.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports 3 radio" tvg-logo="" group-title="Radio Bein",bein Sports 3 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/447.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports 4 radio" tvg-logo="" group-title="Radio Bein",bein Sports 4 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/448.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports 5 radio" tvg-logo="" group-title="Radio Bein",bein Sports 5 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/449.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports 6 radio" tvg-logo="" group-title="Radio Bein",bein Sports 6 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/450.ts
-#EXTINF:-1 tvg-id="" tvg-name="bein Sports 7 radio" tvg-logo="" group-title="Radio Bein",bein Sports 7 radio
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/451.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alkass One" tvg-logo="" group-title="Arabic channels",Alkass One
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/516.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alkass Two" tvg-logo="" group-title="Arabic channels",Alkass Two
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/517.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alkass Four" tvg-logo="" group-title="Arabic channels",Alkass Four
-http://vt.vttpi.com:8000/live/822115960870886/477070913045358/518.ts
+#EXTINF:-1 group-title="SYRIA",•●★★--- SYRIA --★★●• 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1999
+#EXTINF:-1,SY: SYRIA. ALOULA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2000
+#EXTINF:-1,SY: SYRIA.DRAMA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2001
+#EXTINF:-1,Syr-Sama-TV+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2002
+#EXTINF:-1,SY: LANA Tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2003
+#EXTINF:-1,SY: Sama.alsham
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2013
+#EXTINF:-1,SY: SYRIA-TV2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2005
+#EXTINF:-1,SY: NOUREL SHAM
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2012
+#EXTINF:-1,SY: Halab-Today
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2011
+#EXTINF:-1,SY: Al.KhabarTV HD*
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2010
+#EXTINF:-1,SY:  LANA Tv HD*
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2009
+#EXTINF:-1,SY: Syria Education Channel
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2004
+#EXTINF:-1,SY: Syria alyoum
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2008
+#EXTINF:-1,SY: SYRIA.ALIKHBARIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2006
+#EXTINF:0,Fuse FM
+http://192.99.17.12:4986/;stream.mp3
+#EXTINF:0,Al Madina FM
+https://stream.almadinafm.com/;stream.mp3
+#EXTINF:-1 group-title="Lebanon",•●★★--- Lebanon ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3043
+#EXTINF:-1,LBC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3025
+#EXTINF:-1,LBCI.International
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3026
+#EXTINF:-1,LDC LEBANON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3027
+#EXTINF:-1,LEBANON TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3028
+#EXTINF:-1,MTV LEBANON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3029
+#EXTINF:-1,HAWACOM
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3030
+#EXTINF:-1,FUTURE LEBANON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3031
+#EXTINF:-1,NBN HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3032
+#EXTINF:-1,AL MAYADEEN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3033
+#EXTINF:-1,AL MANAR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3034
+#EXTINF:-1,AGHANI AGHANI
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3035
+#EXTINF:-1,NOURSAT LEBANON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3036
+#EXTINF:-1,NOUR AL SHAM
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3037
+#EXTINF:-1,AL JADEED LEBANON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3038
+#EXTINF:-1,AL EKHBARIYA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3039
+#EXTINF:-1,OTV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3040
+#EXTINF:-1,ARABICA MUSIC LEBANON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3042
+#EXTINF:-1 group-title="MBC HD",•●★★--- MBC HD ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/125
+#EXTINF:-1,MYHD: MBC 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/845
+#EXTINF:-1,MYHD: MBC 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/846
+#EXTINF:-1,MYHD: MBC 3 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/847
+#EXTINF:-1,MYHD: MBC 4 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/848
+#EXTINF:-1,MYHD: MBC 5 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2114
+#EXTINF:-1,MYHD: MBC Bollywood HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/849
+#EXTINF:-1,MYHD: MBC Massr HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/850
+#EXTINF:-1,MYHD: MBC Masr 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/851
+#EXTINF:-1,MYHD: MBC Drama HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/852
+#EXTINF:-1,MYHD: MBC Action HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/853
+#EXTINF:-1,MYHD: MBC Max HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/854
+#EXTINF:-1,MYHD: MBC Iraq HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/855
+#EXTINF:-1,MYHD: MBC Drama+ HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/856
+#EXTINF:-1,MYHD: MBC+Variety HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/857
+#EXTINF:-1,MYHD: MBC Persia
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3802
+#EXTINF:-1,MYHD: MBC Wanasah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3803
+#EXTINF:-1,AR: MBC FM
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3737
+#EXTINF:-1,MYHD: FOX Rewayat HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/859
+#EXTINF:-1,MYHD: FOX Life HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/860
+#EXTINF:-1,MYHD: Family Movies HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/861
+#EXTINF:-1,MYHD: FOX Crime HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/862
+#EXTINF:-1,MYHD: Fox Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/863
+#EXTINF:-1,MYHD: Docu Box HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/865
+#EXTINF:-1,MYHD: Fox Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/867
+#EXTINF:-1,MYHD: Planet Earth HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/869
+#EXTINF:-1,MYHD: Discovery SC HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/871
+#EXTINF:-1,MYHD: Gulli Arabic HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/872
+#EXTINF:-1,MYHD: Duck TV HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/874
+#EXTINF:-1,MBC_1 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2771
+#EXTINF:-1,MBC_2 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2772
+#EXTINF:-1,MBC_3 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2773
+#EXTINF:-1,MBC_4 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2774
+#EXTINF:-1,,MBC_5 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2775
+#EXTINF:-1,MBC_MAX sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2776
+#EXTINF:-1,MBC_ACTION sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2777
+#EXTINF:-1,MBC_DRAMA sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2778
+#EXTINF:-1,MBC_MASR sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2779
+#EXTINF:-1,MBC_MASR 2 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2780
+#EXTINF:-1,MBC_FM_PANORAMA sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2781
+#EXTINF:-1 group-title="OSN HD",•●★★--- OSN HD ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/124
+#EXTINF:-1,OSN YAHALA HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/156
+#EXTINF:-1,OSN Ya Hala Cinema
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/161
+#EXTINF:-1,OSN:  AL YAWM HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2828
+#EXTINF:-1,OSN:  Alfa Fann
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2830
+#EXTINF:-1,OSN :MIX HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3542
+#EXTINF:-1,OSN :POP UP HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3543
+#EXTINF:-1,OSN: TLC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3871
+#EXTINF:-1,OSN Star Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/159
+#EXTINF:-1,OSN Star World 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/160
+#EXTINF:-1,OSN: Star-Gold-HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3707
+#EXTINF:-1,OSN: E
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3284
+#EXTINF:-1,[OSN]  Planet Earth
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/968
+#EXTINF:-1,AR: OSN PLAY TRILLER HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/84
+#EXTINF:-1,OSN:  Nick Jr
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2172
+#EXTINF:-1, OSN Series HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3704
+#EXTINF:-1,AR: OSN SERIES FIRST HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/89
+#EXTINF:-1,[OSN] Mezze
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/975
+#EXTINF:-1,[OSN] OSN Boxoffice1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/973
+#EXTINF:-1,OSN OSN MOVIES BOX OFFICE 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/971
+#EXTINF:-1, OSN MOVIES BOX OFFICE 3 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/981
+#EXTINF:-1,OSN Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/155
+#EXTINF:-1,[OSN] OSN Movies First
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/980
+#EXTINF:-1,[OSN] OSN PLAY TRILLER HD 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/977
+#EXTINF:-1,[OSN] FX HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2826
+#EXTINF:-1,[OSN] OSN Kids
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/976
+#EXTINF:-1,[OSN] OSN PLAY PREMIERE 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/964
+#EXTINF:-1,[OSN] Movies firest
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2825
+#EXTINF:-1,[OSN] OSN Discovery H
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/969
+#EXTINF:-1,OSN: OSN BBC earth
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2831
+#EXTINF:-1,[OSN] OSN TRACE URBAN HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/966
+#EXTINF:-1,[OSN] OSN Comedy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/965
+#EXTINF:-1,OSN History Channel
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/167
+#EXTINF:-1,OSN PLAY PREMIERE 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3705
+#EXTINF:-1,OSN Discovery Science 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/168
+#EXTINF:-1,OSN Series First 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/170
+#EXTINF:-1,OSN Movies Disney
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/171
+#EXTINF:-1, OSN: Disney Channel
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/667
+#EXTINF:-1,OSN Disny Junior
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/162
+#EXTINF:-1,OSN: ON-DEMAND-EXTRA-HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2832
+#EXTINF:-1,OSN: NICKELODEON HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3541
+#EXTINF:-1,OSN Movies +2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/153
+#EXTINF:-1,OSN Disney XD HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2543
+#EXTINF:-1,[OSN] Alfa Mosalsalat
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/995
+#EXTINF:-1,AR: OSN Star Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/90
+#EXTINF:-1,OSN : ID
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/154
+#EXTINF:-1,OSN Nat Geo
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/157
+#EXTINF:-1,OSN Nat Geo Pepole
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/158
+#EXTINF:-1,OSN E
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/164
+#EXTINF:-1,OSN Discovery 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/165
+#EXTINF:-1,OSN  Movies First  
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/175
+#EXTINF:-1,OSN: Movies First  ++2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/738
+#EXTINF:-1,[OSN] Movies Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/963
+#EXTINF:-1,[OSN] wwe
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/994
+#EXTINF:-1,[OSN] Food
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/993
+#EXTINF:-1,[OSN] Alfa Cinema 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/991
+#EXTINF:-1,[OSN] Alfa Cinema 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/992
+#EXTINF:-1,[OSN] SYFY
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/990
+#EXTINF:-1,[OSN] OSN Ya Hala Aloula
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/988
+#EXTINF:-1,[OSN] : enigma
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/987
+#EXTINF:-1,[OSN] OSN Animal Planet
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/962
+#EXTINF:-1,[OSN] OSN Nat Geo Abudhabi
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/983
+#EXTINF:-1,[OSN] OSN Nat Geo Wild
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/982
+#EXTINF:-1,[OSN] nickToons
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/979
+#EXTINF:-1,[OSN] OSN ON DEMANDE 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/974
+#EXTINF:-1,OSN: Nickelodeon HD AR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2829
+#EXTINF:-1,AR: OSN Nat Geo SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/85
+#EXTINF:-1,AR: OSN Alyoum
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/86
+#EXTINF:-1,AR: OSN Nat Geo pepole 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/88
+#EXTINF:-1 group-title="BOX OFFICE",•●★★--- BOX OFFICE---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/513
+#EXTINF:-1,KAICER BOX OFFICE 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/494
+#EXTINF:-1,KAICER BOX OFFICE 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/512
+#EXTINF:-1,KAICER BOX OFFICE 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/515
+#EXTINF:-1,KAICER BOX OFFICE 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/514
+#EXTINF:-1,KAICER BOX OFFICE 5
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/516
+#EXTINF:-1,KAICER BOX OFFICE 6
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2465
+#EXTINF:-1,KAICER BOX OFFICE 7
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2466
+#EXTINF:-1,KAICER BOX Hendi 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1476
+#EXTINF:-1,KAICER BOX ARAB 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1477
+#EXTINF:-1,KAICER BOX ARAB 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1478
+#EXTINF:-1,KAICER BOX ARAB 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1479
+#EXTINF:-1,KAICER BOX ARAB 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1480
+#EXTINF:-1,[NETFLIX] Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2418
+#EXTINF:-1,[NETFLIX] Thriller
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2419
+#EXTINF:-1,[NETFLIX] SCi-Fi
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2420
+#EXTINF:-1,[NETFLIX] Hendy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2421
+#EXTINF:-1,[NETFLIX] Horror
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2422
+#EXTINF:-1,NETFLIX_Comedy+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2505
+#EXTINF:-1,NETFLIX_SCI FI
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2506
+#EXTINF:-1,NETFLIX_HOME_CINEMA_1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2507
+#EXTINF:-1,NETFLIX N action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2463
+#EXTINF:-1,Netflex Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2116
+#EXTINF:-1,Netflix SCF FI
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2041
+#EXTINF:-1,Netflix Kids
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2042
+#EXTINF:-1,Netflix Horror
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2043
+#EXTINF:-1,Netflix Comedy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2044
+#EXTINF:-1,NETFLIX  ACTION
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2047
+#EXTINF:-1,Netflix Comedy 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2346
+#EXTINF:-1,NETFLIX_DRAMA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2347
+#EXTINF:-1,NETFLIX ANIMATION HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2349
+#EXTINF:-1,Netflix Horror 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2350
+#EXTINF:-1,Netflix Bollywood
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2351
+#EXTINF:-1,NETFLIX_Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2357
+#EXTINF:-1,NETFLIX_THRILLER
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2358
+#EXTINF:-1,AR: Netflix Series
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3410
+#EXTINF:-1,AR: NETFLIX JR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3416
+#EXTINF:-1,AR: Netflix documentary
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3417
+#EXTINF:-1,AR: NETFLIX COMEDY +2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3422
+#EXTINF:-1,AR: Netflix Horror+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3429
+#EXTINF:-1,AR: NETFLIX Kids +1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3436
+#EXTINF:-1,AR: Netflix KIDS +2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3437
+#EXTINF:-1,AR: NETFLIX ARABIC 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3718
+#EXTINF:-1,AR: NETFLIX ARABIC 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3719
+#EXTINF:-1,AR: Netflix Romance HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3724
+#EXTINF:-1,Netflix+ Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3536
+#EXTINF:-1,Netflix +Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3537
+#EXTINF:-1,Netflix+ Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3538
+#EXTINF:-1,NETFLIX+ HORROR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3539
+#EXTINF:-1,shahid TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2464
+#EXTINF:-1,[Shahid Action]
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2423
+#EXTINF:-1,[Shahid Aflam]
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2424
+#EXTINF:-1,[Shahid Aflam2]
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2425
+#EXTINF:-1,[Shahid HINDI]
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2426
+#EXTINF:-1,[Shahid HORROR]
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2427
+#EXTINF:-1,[Shahid action 2]
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2428
+#EXTINF:-1,AR:SHAHID_ِAflam5+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3250
+#EXTINF:-1,AR:SHAHID_Aflam4+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3251
+#EXTINF:-1,AR:SHAHID_Aflam3+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3252
+#EXTINF:-1,AR:SHAHID Aflam2+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3253
+#EXTINF:-1,AR:SHAHID Aflam1+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3254
+#EXTINF:-1,Alkaicer Action Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2398
+#EXTINF:-1,Alkaicer B-Cinema
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2399
+#EXTINF:-1,Alkaicer Box-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2400
+#EXTINF:-1,Alkaicer Comedy-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2401
+#EXTINF:-1,Alkaicer Disney-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2402
+#EXTINF:-1,Alkaicer  Cinema_One
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2403
+#EXTINF:-1,Alkaicer Famely-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2404
+#EXTINF:-1,Alkaicer KidsCo-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2405
+#EXTINF:-1,Alkaicer MasterPiece-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2406
+#EXTINF:-1,Alkaicer Premiere-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2407
+#EXTINF:-1,Alkaicer Thriller-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2408
+#EXTINF:-1,Alkaicer W-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2409
+#EXTINF:-1,Alkaicer The-Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2410
+#EXTINF:-1,Alkaicer The-Movies2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2411
+#EXTINF:-1,TOM &JERRY LIVE
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2819
+#EXTINF:-1,Tom & Jerry TV 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3656
+#EXTINF:-1,SHAHID_CARTON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2928
+#EXTINF:-1,SHAHID_ZAMAN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2929
+#EXTINF:-1,SHAHID_ROAP
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2930
+#EXTINF:-1,SHAHID_ACTION
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2931
+#EXTINF:-1,Majestic movies3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3009
+#EXTINF:-1,Majestic Classic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3011
+#EXTINF:-1,Majestic cinema1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3014
+#EXTINF:-1,majestic cinema2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3015
+#EXTINF:-1,fushar-action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2978
+#EXTINF:-1,Egy Best Arabic Film
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3507
+#EXTINF:-1,HOME CINEMA 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3508
+#EXTINF:-1,HOME CINEMA 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3509
+#EXTINF:-1,HOME CINEMA 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3510
+#EXTINF:-1,HOME CINEMA 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3511
+#EXTINF:-1,HOME CINEMA 5
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3512
+#EXTINF:-1,HOME CINEMA 6
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3513
+#EXTINF:-1,Aroma Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3514
+#EXTINF:-1,Aroma Arabic Films
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3515
+#EXTINF:-1,Aroma Kids
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3516
+#EXTINF:-1,Aroma Discovery
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3517
+#EXTINF:-1,Aroma Drama Films
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3518
+#EXTINF:-1,Aroma Masra7yat
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3519
+#EXTINF:-1,Aroma Horror
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3520
+#EXTINF:-1,Aroma Zaman
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3521
+#EXTINF:-1,Aroma WWE
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3522
+#EXTINF:-1,Box Office 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3523
+#EXTINF:-1,Box Office 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3524
+#EXTINF:-1,Box Office 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3525
+#EXTINF:-1,Box Office 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3526
+#EXTINF:-1,beOUT Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3580
+#EXTINF:-1,beOUT Arabia
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3581
+#EXTINF:-1,beOUT Cinema
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3582
+#EXTINF:-1,Casper Action 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3886
+#EXTINF:-1,Casper Action 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3887
+#EXTINF:-1,Casper Action 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3888
+#EXTINF:-1,Casper Anime
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3889
+#EXTINF:-1,Casper Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3890
+#EXTINF:-1,Casper Comedy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3891
+#EXTINF:-1,Casper Documentary
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3892
+#EXTINF:-1,Casper Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3893
+#EXTINF:-1,Casper Turki مدبلج
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3894
+#EXTINF:-1,Casper horror
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3895
+#EXTINF:-1,AR: RADIO FAIROUZ
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3529
+#EXTINF:-1,AR: RADIO CLASSIC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3530
+#EXTINF:-1,AR: RADIO ZAMAN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3531
+#EXTINF:-1,AR: RADIO AMR DIAB
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3532
+#EXTINF:-1,AR: RADIO GEORGE WASOUF
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3533
+#EXTINF:-1,AR: RADIO ABDEL HALIM HAFEZ
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3534
+#EXTINF:-1,AR: RADIO UMM KULTHUM
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3535
+#EXTINF:-1,best tv movies ch
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3555
+#EXTINF:-1,Majestic Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3556
+#EXTINF:-1,Majestic Cinema
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3557
+#EXTINF:-1,Majestic Horror
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3558
+#EXTINF:-1,Mix Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3559
+#EXTINF:-1,Mix Cimena
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3560
+#EXTINF:-1,Mix Crime
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3561
+#EXTINF:-1,Mix Mystery
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3562
+#EXTINF:-1,Mix Sport Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3563
+#EXTINF:-1,Dragon Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3564
+#EXTINF:-1,Dragon Fantasia
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3565
+#EXTINF:-1,Dragon Horror
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3566
+#EXTINF:-1,Dragon Western
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3567
+#EXTINF:-1,Dragon Classic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3568
+#EXTINF:-1,Amazon Prime WAR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3569
+#EXTINF:-1,Amazon Prime Thriller
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3570
+#EXTINF:-1,Amazon Prime KIDS
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3571
+#EXTINF:-1,Amazon Prime Adventure
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3572
+#EXTINF:-1,Amazon Prime Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3573
+#EXTINF:-1,iflix Arabia
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3574
+#EXTINF:-1,iflix Turk
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3575
+#EXTINF:-1,iflix Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3576
+#EXTINF:-1,iflix Comedy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3577
+#EXTINF:-1,iflix moudablaj
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3578
+#EXTINF:-1,iflix Prime
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3579
+#EXTINF:-1,Masr7 Masr (مسرح مصر)
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3583
+#EXTINF:-1,Scare tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3585
+#EXTINF:-1,ShowTime1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3586
+#EXTINF:-1,showTime2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3587
+#EXTINF:-1,sarhan ACTION
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3590
+#EXTINF:-1,sarhan CLASSIC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3591
+#EXTINF:-1,ON Asia HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3592
+#EXTINF:-1,ON Horror HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3593
+#EXTINF:-1,ON Series HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3594
+#EXTINF:-1,ON comedy HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3595
+#EXTINF:-1,ON Docunentary HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3596
+#EXTINF:-1,ON LOVEH HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3597
+#EXTINF:-1,ON Turkey HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3598
+#EXTINF:-1,ON Arabic HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3599
+#EXTINF:-1,ON 2K Cinema HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3600
+#EXTINF:-1,ON Cartoon Zaman HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3601
+#EXTINF:-1,ON SCIFI HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3602
+#EXTINF:-1,ON Movies HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3603
+#EXTINF:-1,HULU Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3695
+#EXTINF:-1,HUlu Box-office
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3696
+#EXTINF:-1,Hulu Arabia
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3697
+#EXTINF:-1,Hulu Bollywood
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3698
+#EXTINF:-1,AR: NETFLIX DISNEY 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3726
+#EXTINF:-1,AR: SKY FLIX ACTION
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3727
+#EXTINF:-1,AR: SKY FLIX AFLAM 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3728
+#EXTINF:-1,AR: SKY FLIX AFLAM 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3729
+#EXTINF:-1,AR: SKY FLIX DRAMA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3730
+#EXTINF:-1,AR: SKY FLIX COMEDY
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3731
+#EXTINF:-1,AR: SKY FLIX HORROR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3732
+#EXTINF:-1,AR: SKY FLIX BOX OFFICE 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3733
+#EXTINF:-1,AR: SKY FLIX BOXOFFICE 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3734
+#EXTINF:-1,AR: SKY FLIX BOLLYWOODY
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3735
+#EXTINF:-1,AR: SKY FLIX ANIME 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3736
+#EXTINF:-1,SKYFLIX 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3691
+#EXTINF:-1,SKYFLIX 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3692
+#EXTINF:-1,SKYFLIX 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3693
+#EXTINF:-1,SKYFLIX 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3694
+#EXTINF:-1,AR: Shahid VIP Comedy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3722
+#EXTINF:-1,AR: Shahid VIP Horror
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3723
+#EXTINF:-1,AR: Shahid VIP INDIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3714
+#EXTINF:-1,AR: Shahid VIP Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3715
+#EXTINF:-1,AR: Shahid VIP TURKISH
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3716
+#EXTINF:-1,AR: Shahid VIP Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3713
+#EXTINF:-1,AR:Shahid VIP Documentary
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3717
+#EXTINF:-1,AR: Shahid VIP Wild
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3720
+#EXTINF:-1,AR: Shahid VIP Anime
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3721
+#EXTINF:-1,AR: Shahid VIP WAR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3725
+#EXTINF:-1 group-title="ART Channels",•●★★--- ART Channels ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/122
+#EXTINF:-1,AR: ART Aflam 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/997
+#EXTINF:-1,AR: ART Aflam  2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/102
+#EXTINF:-1,AR: ART Cinema
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/103
+#EXTINF:-1,AR: ART Hekayat 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/104
+#EXTINF:-1,AR: ART Hekayat 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/105
+#EXTINF:-1 group-title="KIDS",•●★★--- KIDS ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1009
+#EXTINF:-1,AR: hodhod
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1010
+#EXTINF:-1,AR: Cartoon Network
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1011
+#EXTINF:-1,AR: PBS Kids 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1012
+#EXTINF:-1,AR: Sky KIDS1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1013
+#EXTINF:-1,AR: KARAMEESH
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1014
+#EXTINF:-1,AR: Kooky
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1015
+#EXTINF:-1,AR: Toyor Al Ganna
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1020
+#EXTINF:-1,AR: Maged
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1019
+#EXTINF:-1,AR: Spacetoon
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1017
+#EXTINF:-1,AR: Mwaheb
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1016
+#EXTINF:-1 group-title="NEWS",•●★★--- NEWS ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/998
+#EXTINF:-1,AR: Al Jazeera
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/999
+#EXTINF:-1,AR: Al Jazeera Documentry
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1000
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3208
+#EXTINF:-1,AR: AlJazeera-English
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3209
+#EXTINF:-1,AR: AlJazeera Eng
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3210
+#EXTINF:-1,AR: Al Jazeera FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1003
+#EXTINF:-1,AR: Al ALArabiya
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1001
+#EXTINF:-1,AR: Al ALArabiya Alhadaath
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1002
+#EXTINF:-1,AR: BBC Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1005
+#EXTINF:-1,AR: RT News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1008
+#EXTINF:-1,AR: Sky News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1007
+#EXTINF:-1,AR: TRT-ELARABIYE
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1006
+#EXTINF:-1,AR: RT Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1004
+#EXTINF:-1, AR: FR 24 arabic HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3206
+#EXTINF:-1,AR: DW Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3207
+#EXTINF:-1,AR:  Alhurra
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3211
+#EXTINF:-1,CNN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3212
+#EXTINF:-1,France 24 (En Francais)
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3213
+#EXTINF:-1,AR:Houra News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3214
+#EXTINF:-1 group-title="Rotana",•●★★--- Rotana ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/176
+#EXTINF:-1,AR:Rotana Cinema 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/106
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/107
+#EXTINF:-1,AR:Rotana Aflam
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/108
+#EXTINF:-1,AR: Rotana  Comedy 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/109
+#EXTINF:-1,AR: Rotana Classic 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/110
+#EXTINF:-1,AR: Rotana Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3215
+#EXTINF:-1,AR: Rotana Comedy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3216
+#EXTINF:-1,AR: Rotana Clip
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3217
+#EXTINF:-1,AR: Rotana Kids HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3469
+#EXTINF:-1,AR: Rotana Khaliji
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3218
+#EXTINF:-1 group-title="Egypt",•●★★--- Egypt ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/511
+#EXTINF:-1,AR: ON Time Sport 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2397
+#EXTINF:-1,AR: ON Time Sport 1HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/507
+#EXTINF:-1,AR: ON Time Sport 2 SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2396
+#EXTINF:-1,AR: ON Time Sport 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/949
+#EXTINF:-1,AR: Time Sport
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/951
+#EXTINF:-1,AR: Alahly
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/952
+#EXTINF:-1,AR: Zamalek TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2068
+#EXTINF:-1,AR: :Al Oula
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3655
+#EXTINF:-1,AR:  Sada Elbabad
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/495
+#EXTINF:-1,AR:  Nile Sport
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/496
+#EXTINF:-1,AR:  Nile Comedy
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/497
+#EXTINF:-1,AR: Nile News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/498
+#EXTINF:-1,AR: D Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/499
+#EXTINF:-1,AR:CBC Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/500
+#EXTINF:-1,AR:CBC Sofra
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/501
+#EXTINF:-1,AR:CBC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/502
+#EXTINF:-1,AR:DMC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/503
+#EXTINF:-1,AR:Alnahar
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/504
+#EXTINF:-1,AR: ALnahar Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/505
+#EXTINF:-1,AR: ON Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/506
+#EXTINF:-1,AR: ON E
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/508
+#EXTINF:-1,AR: Alhayah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/509
+#EXTINF:-1,AR:  Maspero-Zaman
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/950
+#EXTINF:-1,AR: Mehwar
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/510
+#EXTINF:-1,AR : Zee Alwan
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3308
+#EXTINF:-1,AR : ZEE AFLAM
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3309
+#EXTINF:-1 group-title="Islam",•●★★--- Islami ---★★●•
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1,AR: Saudi Qraan
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/126
+#EXTINF:-1,AR: Saudi Sunna
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/958
+#EXTINF:-1,Masr Quran TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3020
+#EXTINF:-1,Ar: Quran TV 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3708
+#EXTINF:-1,AR: AL Nas tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3711
+#EXTINF:-1,AR: AL fath
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3712
+#EXTINF:-1,AR: Almajd TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2092
+#EXTINF:-1,AR: Almajd Quraan
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/957
+#EXTINF:-1,AR: Almajd Hadeth
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/956
+#EXTINF:-1,AR: Azhari Islamic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3647
+#EXTINF:-1,AR: Al Majd Kids
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3648
+#EXTINF:-1,AR: Al Majd Documentary
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3649
+#EXTINF:-1,AR: Al Majd Science
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3651
+#EXTINF:-1,AR:  Ayat
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2090
+#EXTINF:-1,AR:Al resalah 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2091
+#EXTINF:-1,AR:Al_Nas
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2089
+#EXTINF:-1,AR: Iqraa Africa
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3864
+#EXTINF:-1,AR: Albasira Islamic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3865
+#EXTINF:-1,AR:  Iqraa
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3867
+#EXTINF:-1 group-title="القرءان الكريــــــــــم",•●★★--- القرءان الكريــــــــــم---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3289
+#EXTINF:-1,اذاعه القرءان الكريم من القاهرة
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3295
+#EXTINF:-1,راديو مشارى بن راشد العفاسى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2739
+#EXTINF:-1,راديو احمد بن على العجمى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2740
+#EXTINF:-1,راديو محمد جبريل
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2741
+#EXTINF:-1,راديو عبدا الباسط عبد الصمد
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2742
+#EXTINF:-1,راديو فارس عياد
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3288
+#EXTINF:-1,راديو ابو بكر الشاطرى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2743
+#EXTINF:-1,راديو ماهر المعيقلى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2744
+#EXTINF:-1,راديو الحصرى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2745
+#EXTINF:-1,راديو احمد الطرابلسى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2746
+#EXTINF:-1,راديو الطبلاوي
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3285
+#EXTINF:-1,راديو الشريم
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3292
+#EXTINF:-1,راديو السديس
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3293
+#EXTINF:-1,راديو الحذيفى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3294
+#EXTINF:-1,راديو عبد الله علي جابر
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3286
+#EXTINF:-1,راديو محمد ايوب
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3290
+#EXTINF:-1,راديو خالد القحطانى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3287
+#EXTINF:-1,راديو ياسر الدوسرى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3540
+#EXTINF:-1,راديو محمد صديق المنشاوى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3291
+#EXTINF:-1,راديو سعد الغامدى
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3444
+#EXTINF:-1 group-title="beIN Sport Full HD",•●★★--- beIN Sport Full HD ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3220
+#EXTINF:-1,RMC 4K
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3881
+#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3221
+#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3222
+#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3223
+#EXTINF:-1,beIN SPORTS FullHD1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3224
+#EXTINF:-1,beIN SPORTS FullHD2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3225
+#EXTINF:-1,beIN SPORTS FullHD3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3226
+#EXTINF:-1,beIN SPORTS FullHD4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3227
+#EXTINF:-1,beIN SPORTS FullHD5
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3228
+#EXTINF:-1,beIN SPORTS FullHD6
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3230
+#EXTINF:-1,beIN SPORTS FullHD7
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3229
+#EXTINF:-1 group-title="beIN SPORTS Hevc 265H",•●★★--- beIN SPORTS Hevc 265H ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3703
+#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/459
+#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/450
+#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/451
+#EXTINF:-1,beIN SPORTS1 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/452
+#EXTINF:-1,beIN SPORTS2 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/453
+#EXTINF:-1,beIN SPORTS3 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3875
+#EXTINF:-1,beIN SPORTS4 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/455
+#EXTINF:-1,beIN SPORTS5 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/456
+#EXTINF:-1,beIN SPORTS6 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/457
+#EXTINF:-1,beIN SPORTS7 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/458
+#EXTINF:-1 group-title="beIN SPORTS HD",•●★★--- beIN SPORTS HD ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/117
+#EXTINF:-1,AR; Sriea A hd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3877
+#EXTINF:-1,Duhok Sports HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3874
+#EXTINF:-1,beIN SPORTS News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2051
+#EXTINF:-1,beIN SPORTS HD (Global)
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/960
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3620
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3621
+#EXTINF:-1,beIN SPORTS PREMIUM1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/46
+#EXTINF:-1,beIN SPORTS PREMIUM2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/47
+#EXTINF:-1,beIN SPORTS PREMIUM3 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/48
+#EXTINF:-1,beIN SPORTS 1HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/49
+#EXTINF:-1,beIN SPORTS 2HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/50
+#EXTINF:-1,beIN SPORTS 3HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/51
+#EXTINF:-1,beIN SPORTS 4HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/52
+#EXTINF:-1,beIN SPORTS 5HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/53
+#EXTINF:-1,beIN SPORTS 6HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/54
+#EXTINF:-1,beIN SPORTS 7HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/55
+#EXTINF:-1, beIN SPORTS 1 ENGLISH HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3001
+#EXTINF:-1, beIN SPORTS 2 ENGLISH HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3002
+#EXTINF:-1 group-title="beIN SPORTS SD",•●★★--- beIN SPORTS SD ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2873
+#EXTINF:-1,beIN SPORTS PREMIUM1 SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/56
+#EXTINF:-1,beIN SPORTS PREMIUM2 SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/57
+#EXTINF:-1,beIN SPORTS PREMIUM3 SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/58
+#EXTINF:-1,beIN SPORTS 1SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/59
+#EXTINF:-1,beIN SPORTS 2SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/60
+#EXTINF:-1,beIN SPORTS 3SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/93
+#EXTINF:-1,beIN SPORTS 4SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/92
+#EXTINF:-1,beIN SPORTS 5SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/91
+#EXTINF:-1,beIN SPORTS 6SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/61
+#EXTINF:-1,beIN SPORTS 7SD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1459
+#EXTINF:-1 group-title="beIN SPORTS LOW",•●★★--- beIN SPORTS LOW ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/119
+#EXTINF:-1,beIN SPORTS PREMINUM1 LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/62
+#EXTINF:-1,beIN SPORTS PREMINUM2 LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/63
+#EXTINF:-1,beIN SPORTS PREMINUM 3 LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3791
+#EXTINF:-1,beIN SPORTS 1 LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3792
+#EXTINF:-1,beIN SPORTS 2LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2108
+#EXTINF:-1,beIN SPORTS 4LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2109
+#EXTINF:-1,beIN SPORTS 5LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2110
+#EXTINF:-1,beIN SPORTS 6LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2111
+#EXTINF:-1,beIN SPORTS 7LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2112
+#EXTINF:-1,Radio Bein 1 PR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3546
+#EXTINF:-1,Radio Bein 2 PR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3547
+#EXTINF:-1,Radio Bein 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3548
+#EXTINF:-1,Radio Bein 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3549
+#EXTINF:-1,Radio Bein 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3550
+#EXTINF:-1,Radio Bein 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3551
+#EXTINF:-1,Radio Bein 5
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3552
+#EXTINF:-1,Radio Bein 6
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3553
+#EXTINF:-1,Radio Bein 7
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3554
+#EXTINF:-1 group-title="beIN Entertainment",•●★★--- beIN Entertainment ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/121
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/24
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/17
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/18
+#EXTINF:-1,AR: beIN Movies 4 HD 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/19
+#EXTINF:-1,AR: beIN Series 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/20
+#EXTINF:-1,AR: beIN Series 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/21
+#EXTINF:-1,AR:  beIN Outdoor
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/13
+#EXTINF:-1,AR:  beIN AMC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/14
+#EXTINF:-1,AR: beIN  Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/15
+#EXTINF:-1,AR: beIN  Gourmet
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/16
+#EXTINF:-1,AR: beIN Jeem HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/22
+#EXTINF:-1,AR: beIN Fox Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/23
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/25
+#EXTINF:-1,AR: beIN Baraeem
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2028
+#EXTINF:-1,AR :beIN_BOOMERANG
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2945
+#EXTINF:-1,AR: beIN DTX
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2946
+#EXTINF:-1,AR: beIN JUNIOR HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2947
+#EXTINF:-1,AR: beIN DREAMWORKS HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2948
+#EXTINF:-1,AR:Cartoon Network Arabic
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2949
+#EXTINF:-1,AR: beIN BOXOFFICE HD1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3276
+#EXTINF:-1,AR: beIN BOXOFFICE HD2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3706
+#EXTINF:-1,AR: beIN BOXOFFICE HD3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3709
+
+#EXTINF:-1 group-title="SUDAN",•●★★--- SUDAN ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3158
+#EXTINF:-1,AR: SUDAN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3142
+#EXTINF:-1,AR: Sudan AlIstijaba
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3143
+#EXTINF:-1,AR: Sudan Ashorooq
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3144
+#EXTINF:-1,AR: Sudan BlueNile
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3145
+#EXTINF:-1,AR: Sudan Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3146
+#EXTINF:-1,AR: Sudan Jazeera_Green
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3147
+#EXTINF:-1,AR: Sudan Kassala
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3148
+#EXTINF:-1,AR: Sudan Khartoum
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3149
+#EXTINF:-1,AR: Sudan Knowledge
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3150
+#EXTINF:-1,AR: Sudan Monwaat
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3151
+#EXTINF:-1,AR: Sudan Music
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3152
+#EXTINF:-1,AR: Sudan OmDorman
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3153
+#EXTINF:-1,AR: Sudan Sport HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3155
+#EXTINF:-1,AR: Sudan Tybah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3156
+#EXTINF:-1,AR: Sudania 24
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3157
+#EXTINF:-1 group-title="PALESTINE",•●★★--- PALESTINE ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/493
+#EXTINF:-1,AR: betlahem 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2843
+#EXTINF:-1,AR: Betlahem 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2842
+#EXTINF:-1,AR: FajerTV1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/584
+#EXTINF:-1,AR: FajerTV2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/587
+#EXTINF:-1,AR: palastine  live
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/590
+#EXTINF:-1,AR: FajerTV 1 1080
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/593
+#EXTINF:-1,AR: radio marah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/596
+#EXTINF:-1,AR: Raya
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/481
+#EXTINF:-1,AR: Ajyal
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/482
+#EXTINF:-1,Al nagah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/483
+#EXTINF:-1,AR: Palastine Sport 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3314
+#EXTINF:-1,AR: HalowTV HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3316
+#EXTINF:-1,AR: Palstine Today
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/486
+#EXTINF:-1,AR: Aqsa tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2944
+#EXTINF:-1,AR: nablus live
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3045
+#EXTINF:-1,AR: You sat
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/448
+#EXTINF:-1,AR: Fajr 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/449
+#EXTINF:-1 group-title="LIBYA",•●★★--- LIBYA ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3141
+#EXTINF:-1,[LIB] Libya Sport Channel
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3455
+#EXTINF:-1,AR: Libya Sport 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3652
+#EXTINF:-1,AR: LIBYA 218 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3128
+#EXTINF:-1,AR: Libya 218 News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3129
+#EXTINF:-1,AR: Libya AlAhrar
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3130
+#EXTINF:-1,AR: Libya Alhadath
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3131
+#EXTINF:-1,AR: Lpc
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3132
+#EXTINF:-1,AR: Libya Alwatanya
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3133
+#EXTINF:-1,AR: Libya elwatan
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3134
+#EXTINF:-1,AR: Libya 218 News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3135
+#EXTINF:-1,AR: LIBYA WTV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3136
+#EXTINF:-1,AR: Libya 218
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3137
+#EXTINF:-1,AR: Libya Tanasuh
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3138
+#EXTINF:-1,AR: Libya Waad
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3139
+#EXTINF:-1,AR: Libyas Channel
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3140
+#EXTINF:-1 group-title="MAROC",•●★★--- MAROC ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/725
+#EXTINF:-1, MA:ALOULA INT 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/726
+#EXTINF:-1, MA:ALMAGHRIBIA 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/727
+#EXTINF:-1, MA:2M 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/728
+#EXTINF:-1, MA: CHADA TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/729
+#EXTINF:-1, MA:ASSADISA 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/730
+#EXTINF:-1, MA: telemaroc 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/733
+#EXTINF:-1, MA:ARRIADIA 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/731
+#EXTINF:-1, MA:MEDI1 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/732
+#EXTINF:-1, MA:ALMAGHRIBIA NEWS 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/734
+#EXTINF:-1, MA:TELE MAROC 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/735
+#EXTINF:-1, MA:TAMAZIGHT 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/736
+#EXTINF:-1,AR: Alrrabia FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3107
+#EXTINF:-1,AR: AL MAGHRIBIA 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3109
+#EXTINF:-1,AR: AL MAGHRIBIA HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3110
+#EXTINF:-1,AR: Assadissa FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3111
+#EXTINF:-1,AR: Assadissa
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3112
+#EXTINF:-1,AR: Assabiaa FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3113
+#EXTINF:-1,AR: Tamazight HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3114
+#EXTINF:-1,AR: Medi1 Afrique FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3115
+#EXTINF:-1 group-title="TUNISIA",•●★★--- TUNISIA ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/889
+#EXTINF:-1,AR: Baya TV HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3878
+#EXTINF:-1,TN:WATANIA1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/890
+#EXTINF:-1,TN:WATANIA2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/891
+#EXTINF:-1,TN:ELHIWAR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/892
+#EXTINF:-1,TN:NESSMA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/893
+#EXTINF:-1,Tunisia Carthage
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2541
+#EXTINF:-1,TN:HANNIBAL
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/894
+#EXTINF:-1,TN:ATTESIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/895
+#EXTINF:-1,TN:MTUNISIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/896
+#EXTINF:-1,TN:TELEVISION1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/903
+#EXTINF:-1,TN:SAHELTV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/905
+#EXTINF:-1,TN:ALMOSTKELLA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/902
+#EXTINF:-1,TN:ALINSEN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/901
+#EXTINF:-1,TN:ZAYTOUNA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/900
+#EXTINF:-1,TN:TELVZATV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/899
+#EXTINF:-1,TN:JANOUBIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/898
+#EXTINF:-1,TN:TOUNESNA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/897
+#EXTINF:-1 group-title="ALGERIA",•●★★--- ALGERIA ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/906
+#EXTINF:-1,Algerian:CANAL ALGERIE 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/907
+#EXTINF:-1,Algerian:ALGERIE3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/908
+#EXTINF:-1,Algerian:shababia 6
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/909
+#EXTINF:-1,Algerian:ECHOUROUK
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/911
+#EXTINF:-1,Algerian:DJAZAIRIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/910
+#EXTINF:-1,Algerian:Echorouk BENNA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/912
+#EXTINF:-1,Algerian:Dzair 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/913
+#EXTINF:-1,Algerian:SAMIRA TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/915
+#EXTINF:-1,Algerian:ENTV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/917
+#EXTINF:-1,Algerian:Bahia Tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/946
+#EXTINF:-1,Algerian:TV BERBERE HD*
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/945
+#EXTINF:-1,Algerian:BEUR TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/918
+#EXTINF:-1,Algerian:ALHADEF
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/919
+#EXTINF:-1,AL MAGHRIBIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/943
+#EXTINF:-1,Algerian:ENTV TERRESTRE DZ
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/941
+#EXTINF:-1,Algerian:ELHAYA-ALGERIE
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/938
+#EXTINF:-1,Algerian: ENNAHAR TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/935
+#EXTINF:-1,Algerian:Awrass  TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/932
+#EXTINF:-1,Algerian: El-Heddaf.TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/933
+#EXTINF:-1,Algerian: BAHIA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/931
+#EXTINF:-1,Algerian: Samira
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/927
+#EXTINF:-1,Algerian:ENNAHAR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/924
+#EXTINF:-1,Algerian:Numidia--TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/922
+#EXTINF:-1,Algerian:ECHOUROUK News TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/923
+#EXTINF:-1,Algerian-ELBILAD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/926
+#EXTINF:-1,Algerian:Algeria-DZAIR 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/925
+#EXTINF:-1,Algerian: ALGERIE3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/928
+#EXTINF:-1,Algerian: ALGERIE4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/929
+#EXTINF:-1,Algerian: ALGERIE5
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/930
+
+#EXTINF:-1 group-title="IRAQ",==== IRAQ =====
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3075
+#EXTINF:-1,AR: AL HURRA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3076
+#EXTINF:-1,AR:Al Iraqiya
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3079
+#EXTINF:-1,AR:Al Iraqiya News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3080
+#EXTINF:-1,AR:Al Al Rafidain
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3081
+#EXTINF:-1,AR:Al Sharqiya News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3083
+#EXTINF:-1,AR:Babylon TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3085
+#EXTINF:-1,AR: News Dijlah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3086
+#EXTINF:-1,AR:Dijlah Tarab
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3087
+#EXTINF:-1,AR:KurdMax
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3088
+#EXTINF:-1,AR:Kurdistan TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3089
+#EXTINF:-1,AR Rudaw TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3091
+
+#EXTINF:-1 group-title="DE",•●★★--- DE  ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/123
+#EXTINF:-1,DE: 3 SAT FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1222
+#EXTINF:-1,DE: 13th Street FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1224
+#EXTINF:-1,DE: ANIXE
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1226
+#EXTINF:-1,DE: ARD One HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1228
+#EXTINF:-1,DE: A&E HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1225
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1232
+#EXTINF:-1,DE: AXN HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1233
+#EXTINF:-1,DE: BIBEL TV HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1237
+#EXTINF:-1,DE: Boomerang HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1238
+#EXTINF:-1,DE: Cartoon Network HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1239
+#EXTINF:-1,DE: Comedy Central HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1240
+#EXTINF:-1,DE: DAZN 1 Bar FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1242
+#EXTINF:-1,DE: DAZN 1 FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1243
+#EXTINF:-1,DE: DAZN 2 Bar FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1244
+#EXTINF:-1,DE: DAZN 2 FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1245
+#EXTINF:-1,DE: Deluxe Music HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1246
+#EXTINF:-1,DE: DEUTSCHES MUSIK HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1247
+#EXTINF:-1,DE: Discovery CHANNEL HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1248
+#EXTINF:-1,DE: Disney Channel FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1249
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1250
+#EXTINF:-1,DE: Disney Junior HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1251
+#EXTINF:-1,DE: Disney XD HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1252
+#EXTINF:-1,DE: DMAX FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1253
+#EXTINF:-1,DE: euronews HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1262
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1263
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1264
+#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1265
+#EXTINF:-1,DE: FOLX TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1267
+#EXTINF:-1,DE: FOX FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1268
+#EXTINF:-1,DE: Heimatkanal HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1269
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1270
+#EXTINF:-1,DE: HR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1271
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1273
+#EXTINF:-1,DE: Kabel 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1274
+#EXTINF:-1,DE: KIKA HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1279
+#EXTINF:-1,DE: MotorVision HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1282
+#EXTINF:-1,DE: MTV FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1283
+#EXTINF:-1,DE: MUNCHEN TV FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1284
+#EXTINF:-1,DE: N-TV HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1286
+#EXTINF:-1,DE: N24 Doku HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1287
+#EXTINF:-1,DE: MDR HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1280
+#EXTINF:-1,DE: NAT GEO FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1289
+#EXTINF:-1,DE: NAT GEO WILD FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1290
+#EXTINF:-1,DE: NDR Fernsehen HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1291
+#EXTINF:-1,DE: NDR HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1292
+#EXTINF:-1,DE: Nickelodeon HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1293
+#EXTINF:-1,DE: NITRO HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1294
+#EXTINF:-1,DE: ONE HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1298
+#EXTINF:-1,DE: Phoenix HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1299
+#EXTINF:-1,DE: Planet HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1300
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1311
+#EXTINF:-1,DE: PRO7 FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1312
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1315
+#EXTINF:-1,DE: RBB Berlin HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1316
+#EXTINF:-1,DE: Rnf
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1317
+#EXTINF:-1,DE: ROMANCE TV HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1318
+#EXTINF:-1,DE: RTL 1 FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1319
+#EXTINF:-1,DE: RTL 2 FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1320
+#EXTINF:-1,DE: RTL Crime FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1321
+#EXTINF:-1,DE: RTL HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1322
+#EXTINF:-1,DE: RTL II HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1323
+#EXTINF:-1,DE: RTL Living HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1324
+#EXTINF:-1,DE: RTL Nitro HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1325
+#EXTINF:-1,DE: RTL Passion FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1327
+#EXTINF:-1,DE: RTL plus HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1328
+#EXTINF:-1,DE: RTL Super
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1329
+#EXTINF:-1,DE: SAT 1 FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1330
+#EXTINF:-1,DE: SAT 1 GOLD FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1331
+#EXTINF:-1,DE: Servus HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1332
+#EXTINF:-1,DE: Sony HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1411
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1412
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1413
+#EXTINF:-1,DE: Sport 1 + HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1414
+#EXTINF:-1,DE: Sport 1 Plus HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1416
+#EXTINF:-1,DE: SRF 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1418
+#EXTINF:-1,DE: SUPER RTL FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1419
+#EXTINF:-1,DE: Sport Digital FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1417
+#EXTINF:-1,DE: SWR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1420
+#EXTINF:-1,DE: SyFy FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1421
+#EXTINF:-1,DE: tagesschau 24 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1422
+#EXTINF:-1,DE: TELE 5 FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1423
+#EXTINF:-1,DE: TLC HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1442
+#EXTINF:-1,DE: TNT COMEDY FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1443
+#EXTINF:-1,DE: TNT FILM HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1444
+#EXTINF:-1,DE: TNT SERIE HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1445
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1447
+#EXTINF:-1,DE: VOX FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1450
+#EXTINF:-1,DE: WDR HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1452
+#EXTINF:-1,DE: Welt
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1453
+#EXTINF:-1,DE: ZDF FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1455
+#EXTINF:-1,DE: ZDF info HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1456
+#EXTINF:-1,DE: ZDF NEO HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1457
+#EXTINF:-1,DE: ZEE ONE FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/145
