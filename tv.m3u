@@ -6,7 +6,7 @@ http://192.99.17.12:4986/;stream.mp3
 #EXTINF:0,Al Madina FM
 https://stream.almadinafm.com/;stream.mp3
 #EXTINF:-1,Syr-Sama-SY
-http://stream1.sama-tv.net:8080/hls/stream.m3u8
+http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1,SY: LANA-SY
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
 #EXTINF:-1,SY: SYRIA.DRAMA
