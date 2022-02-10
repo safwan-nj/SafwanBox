@@ -66,6 +66,370 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png",Rotana+ (1080p)
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 group-title="Safwan-SY",•●★★--- Safwan-SY ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/176
+#EXTINF:0 ,AL EKHBARIYA AL SORIYA
+http://red.ipfox.org:8080/1234/12345678/33733?checkedby:iptvcat.com
+#EXTINF:0 ,AL SAHAT
+http://red.ipfox.org:8080/1234/12345678/33729?checkedby:iptvcat.com
+#EXTINF:0 ,AIC
+http://red.ipfox.org:8080/1234/12345678/33734?checkedby:iptvcat.com
+#EXTINF:0 ,AL ALAM SYRIA TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49510?checkedby:iptvcat.com
+#EXTINF:0 ,Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Al Yawm (syria)
+http://red.ipfox.org:8080/1234/12345678/33723?checkedby:iptvcat.com
+#EXTINF:0 ,Al-Khabar Tele Site
+http://red.ipfox.org:8080/1234/12345678/33727?checkedby:iptvcat.com
+#EXTINF:0 ,Lana Plus
+http://red.ipfox.org:8080/1234/12345678/33715?checkedby:iptvcat.com
+#EXTINF:0 ,Lana TV HD
+http://red.ipfox.org:8080/1234/12345678/33713?checkedby:iptvcat.com
+#EXTINF:0 ,Lana TV HD +4
+http://red.ipfox.org:8080/1234/12345678/33714?checkedby:iptvcat.com
+#EXTINF:0 ,Minbij TV
+http://red.ipfox.org:8080/1234/12345678/33721?checkedby:iptvcat.com
+#EXTINF:0 ,Nour Al Sham TV
+http://red.ipfox.org:8080/1234/12345678/33732?checkedby:iptvcat.com
+#EXTINF:0 ,SAFA TV
+http://red.ipfox.org:8080/1234/12345678/33728?checkedby:iptvcat.com
+#EXTINF:0 ,Syria-news
+http://red.ipfox.org:8080/1234/12345678/33716?checkedby:iptvcat.com
+#EXTINF:0 ,SUROYO TV
+http://red.ipfox.org:8080/1234/12345678/33720?checkedby:iptvcat.com
+#EXTINF:0 ,SYRIA CH 1
+http://red.ipfox.org:8080/1234/12345678/33710?checkedby:iptvcat.com
+#EXTINF:0 ,SYRIA SATELLITE TV
+http://red.ipfox.org:8080/1234/12345678/33718?checkedby:iptvcat.com
+#EXTINF:0 ,Syria TV,SYRIA TV (1920×1080)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,SYRIAN EDUCATION
+http://red.ipfox.org:8080/1234/12345678/33722?checkedby:iptvcat.com
+#EXTINF:0 ,Sama TV
+http://red.ipfox.org:8080/1234/12345678/33731?checkedby:iptvcat.com
+#EXTINF:0 ,Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Syria Drama 24
+http://red.ipfox.org:8080/1234/12345678/33712?checkedby:iptvcat.com
+#EXTINF:0 ,Syrian Drama
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/52133?checkedby:iptvcat.com
+#EXTINF:0 ,Syrian Drama TV
+http://red.ipfox.org:8080/1234/12345678/33724?checkedby:iptvcat.com
+#EXTINF:0 ,Syrian Drama TV +4
+http://red.ipfox.org:8080/1234/12345678/33725?checkedby:iptvcat.com
+#EXTINF:0 ,Syrian TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Syrian TV HD
+http://red.ipfox.org:8080/1234/12345678/33711?checkedby:iptvcat.com
+
+
+#EXTINF:-1 group-title="Safwan-LB",•●★★--- Safwan-LB ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/176
+#EXTINF:0 ,AGHANI
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123038?checkedby:iptvcat.com
+#EXTINF:0 ,AL IMEN
+http://red.ipfox.org:8080/1234/12345678/32893?checkedby:iptvcat.com
+#EXTINF:0 ,AL Jadeed +2H
+http://red.ipfox.org:8080/1234/12345678/32885?checkedby:iptvcat.com
+#EXTINF:0 ,AL MANAR
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8250?checkedby:iptvcat.com
+#EXTINF:0 ,AL MANAR +2H
+http://red.ipfox.org:8080/1234/12345678/32888?checkedby:iptvcat.com
+#EXTINF:0 ,AL MANAR +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156519?checkedby:iptvcat.com
+#EXTINF:0 ,ALAAN TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1469?checkedby:iptvcat.com
+#EXTINF:0 ,ALIMAN
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123044?checkedby:iptvcat.com
+#EXTINF:0 ,ALJADEED +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156517?checkedby:iptvcat.com
+#EXTINF:0 ,ANB
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150235?checkedby:iptvcat.com
+#EXTINF:0 ,ANB +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156523?checkedby:iptvcat.com
+#EXTINF:0 ,ARABICA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123039?checkedby:iptvcat.com
+#EXTINF:0 ,Al Alam News TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150233?checkedby:iptvcat.com
+#EXTINF:0 ,Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Al Manar
+http://red.ipfox.org:8080/1234/12345678/32887?checkedby:iptvcat.com
+#EXTINF:0 ,Al Mayadeen
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/80388?checkedby:iptvcat.com
+#EXTINF:0 ,Al Mayadeen
+http://red.ipfox.org:8080/1234/12345678/32889?checkedby:iptvcat.com
+#EXTINF:0 ,Al-Jadeed TV HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8249?checkedby:iptvcat.com
+#EXTINF:0 ,Alaan TV
+http://red.ipfox.org:8080/1234/12345678/32897?checkedby:iptvcat.com
+#EXTINF:0 ,ETIHAD TV
+http://red.ipfox.org:8080/1234/12345678/32891?checkedby:iptvcat.com
+#EXTINF:0 ,FUTURE TV +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156528?checkedby:iptvcat.com
+#EXTINF:0 ,Future TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/194?checkedby:iptvcat.com
+#EXTINF:0 ,Future TV
+http://red.ipfox.org:8080/1234/12345678/32886?checkedby:iptvcat.com
+#EXTINF:0 ,HAWACOM
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123041?checkedby:iptvcat.com
+#EXTINF:0 ,Ifilm TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150234?checkedby:iptvcat.com
+#EXTINF:0 ,LBC +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156521?checkedby:iptvcat.com
+#EXTINF:0 ,LBC HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1343?checkedby:iptvcat.com
+#EXTINF:0 ,LBC HD
+http://red.ipfox.org:8080/1234/12345678/32874?checkedby:iptvcat.com
+#EXTINF:0 ,LBC International
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,LBC International +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156522?checkedby:iptvcat.com
+#EXTINF:0 ,LBC International HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199?checkedby:iptvcat.com
+#EXTINF:0 ,LBC International HD
+http://red.ipfox.org:8080/1234/12345678/32877?checkedby:iptvcat.com
+#EXTINF:0 ,LBC SAT
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8202?checkedby:iptvcat.com
+#EXTINF:0 ,LBC TV 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150231?checkedby:iptvcat.com
+#EXTINF:0 ,LDC LEBANON HD +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156520?checkedby:iptvcat.com
+#EXTINF:0 ,Lebanon TV [ Tele Liban ] HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/80390?checkedby:iptvcat.com
+#EXTINF:0 ,MTV HD
+http://red.ipfox.org:8080/1234/12345678/32872?checkedby:iptvcat.com
+#EXTINF:0 ,MTV HD +2H
+http://red.ipfox.org:8080/1234/12345678/32873?checkedby:iptvcat.com
+#EXTINF:0 ,MTV LEBANON +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156518?checkedby:iptvcat.com
+#EXTINF:0 ,MTV Lebanon 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150230?checkedby:iptvcat.com
+#EXTINF:0 ,MTV Lebanon HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/197?checkedby:iptvcat.com
+#EXTINF:0 ,Mariam TV
+http://red.ipfox.org:8080/1234/12345678/32895?checkedby:iptvcat.com
+#EXTINF:0 ,NBN
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/80389?checkedby:iptvcat.com
+#EXTINF:0 ,NBN 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150232?checkedby:iptvcat.com
+#EXTINF:0 ,NBN 4K +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156526?checkedby:iptvcat.com
+#EXTINF:0 ,NBN TV HD
+http://red.ipfox.org:8080/1234/12345678/32879?checkedby:iptvcat.com
+#EXTINF:0 ,NBN TV HD +2H
+http://red.ipfox.org:8080/1234/12345678/32880?checkedby:iptvcat.com
+#EXTINF:0 ,Nabaa TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Nour Al Shabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,ONE
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123042?checkedby:iptvcat.com
+#EXTINF:0 ,ONE TV HD
+http://red.ipfox.org:8080/1234/12345678/32892?checkedby:iptvcat.com
+#EXTINF:0 ,ONE TV LEBANON +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156524?checkedby:iptvcat.com
+#EXTINF:0 ,OTV LEBANON +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156525?checkedby:iptvcat.com
+#EXTINF:0 ,OTV Lebanon
+http://red.ipfox.org:8080/1234/12345678/32881?checkedby:iptvcat.com
+#EXTINF:0 ,OTV Lebanon HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1317?checkedby:iptvcat.com
+#EXTINF:0 ,Seventeen TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150229?checkedby:iptvcat.com
+#EXTINF:0 ,TELE LEBANON +6H
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156527?checkedby:iptvcat.com
+#EXTINF:0 ,Teleliban TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8251?checkedby:iptvcat.com
+#EXTINF:0 ,Teleliban TV
+http://red.ipfox.org:8080/1234/12345678/32883?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Safwan-EG",•●★★--- Safwan-EG --★★●• 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1999
+#EXTINF:0 ,4G AFLAM
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49524?checkedby:iptvcat.com
+#EXTINF:0 ,EG | Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,AL Hayat
+http://red.ipfox.org:8080/1234/12345678/33175?checkedby:iptvcat.com
+#EXTINF:0 ,AL Masriya
+http://red.ipfox.org:8080/1234/12345678/33150?checkedby:iptvcat.com
+#EXTINF:0 ,AL OULA
+http://red.ipfox.org:8080/1234/12345678/33147?checkedby:iptvcat.com
+#EXTINF:0 ,AL SA3AA MOSALSALATE
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28249?checkedby:iptvcat.com
+#EXTINF:0 ,AL Thanya
+http://red.ipfox.org:8080/1234/12345678/33148?checkedby:iptvcat.com
+#EXTINF:0 ,AL YOOM ZAMAN
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28248?checkedby:iptvcat.com
+#EXTINF:0 ,AL masriya
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28251?checkedby:iptvcat.com
+#EXTINF:0 ,ALASKANDRIA
+http://red.ipfox.org:8080/1234/12345678/33188?checkedby:iptvcat.com
+#EXTINF:0 ,ALDELTA
+http://red.ipfox.org:8080/1234/12345678/33187?checkedby:iptvcat.com
+#EXTINF:0 ,ALSA3EED
+http://red.ipfox.org:8080/1234/12345678/33189?checkedby:iptvcat.com
+#EXTINF:0 ,Al Ahly
+http://red.ipfox.org:8080/1234/12345678/33201?checkedby:iptvcat.com
+#EXTINF:0 ,Al Ahly TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28258?checkedby:iptvcat.com
+#EXTINF:0 ,Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Al Hayat Muslsalat
+http://red.ipfox.org:8080/1234/12345678/33176?checkedby:iptvcat.com
+#EXTINF:0 ,Al Hayat We Alnas
+http://red.ipfox.org:8080/1234/12345678/33177?checkedby:iptvcat.com
+#EXTINF:0 ,Al Kahera
+http://red.ipfox.org:8080/1234/12345678/33186?checkedby:iptvcat.com
+#EXTINF:0 ,Al Kahera Wal Nas
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28254?checkedby:iptvcat.com
+#EXTINF:0 ,Al Kahera Wal Nas  2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28253?checkedby:iptvcat.com
+#EXTINF:0 ,Al Nahar
+http://red.ipfox.org:8080/1234/12345678/33165?checkedby:iptvcat.com
+#EXTINF:0 ,Al Nahar Drama
+http://red.ipfox.org:8080/1234/12345678/33166?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Al Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,AlHadath Alyoum
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28243?checkedby:iptvcat.com
+#EXTINF:0 ,AlKahera Wal Nas +2
+http://red.ipfox.org:8080/1234/12345678/33172?checkedby:iptvcat.com
+#EXTINF:0 ,AlKahera Wal Nas 1
+http://red.ipfox.org:8080/1234/12345678/33171?checkedby:iptvcat.com
+#EXTINF:0 ,Alhayat We Alnas
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28241?checkedby:iptvcat.com
+#EXTINF:0 ,Alqanat 9
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28239?checkedby:iptvcat.com
+#EXTINF:0 ,Apple Cinema
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69975?checkedby:iptvcat.com
+#EXTINF:0 ,Apple Comedy
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69976?checkedby:iptvcat.com
+#EXTINF:0 ,Apple Film
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69973?checkedby:iptvcat.com
+#EXTINF:0 ,Apple Hekayat
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69974?checkedby:iptvcat.com
+#EXTINF:0 ,Apple Moslsalat
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69977?checkedby:iptvcat.com
+#EXTINF:0 ,CBC
+http://red.ipfox.org:8080/1234/12345678/33155?checkedby:iptvcat.com
+#EXTINF:0 ,CBC Drama
+http://red.ipfox.org:8080/1234/12345678/33157?checkedby:iptvcat.com
+#EXTINF:0 ,CBC Extra
+http://red.ipfox.org:8080/1234/12345678/33158?checkedby:iptvcat.com
+#EXTINF:0 ,CBC Sofra
+http://red.ipfox.org:8080/1234/12345678/33156?checkedby:iptvcat.com
+#EXTINF:0 ,Cima
+http://red.ipfox.org:8080/1234/12345678/33190?checkedby:iptvcat.com
+#EXTINF:0 ,DMC Drama
+http://red.ipfox.org:8080/1234/12345678/33174?checkedby:iptvcat.com
+#EXTINF:0 ,DMC HD
+http://red.ipfox.org:8080/1234/12345678/33173?checkedby:iptvcat.com
+#EXTINF:0 ,El Sharq
+http://red.ipfox.org:8080/1234/12345678/33152?checkedby:iptvcat.com
+#EXTINF:0 ,FAMILY DRAMA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/99401?checkedby:iptvcat.com
+#EXTINF:0 ,FAMILY DRAMA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28250?checkedby:iptvcat.com
+#EXTINF:0 ,Free TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49549?checkedby:iptvcat.com
+#EXTINF:0 ,MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,MISR ELBALAD
+http://red.ipfox.org:8080/1234/12345678/33198?checkedby:iptvcat.com
+#EXTINF:0 ,Mehwar
+http://red.ipfox.org:8080/1234/12345678/33154?checkedby:iptvcat.com
+#EXTINF:0 ,Mekameleen HD
+http://red.ipfox.org:8080/1234/12345678/33151?checkedby:iptvcat.com
+#EXTINF:0 ,Mekameleen TV
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,Melody CINEMA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49547?checkedby:iptvcat.com
+#EXTINF:0 ,Misr Al Zera3eya
+http://red.ipfox.org:8080/1234/12345678/33185?checkedby:iptvcat.com
+#EXTINF:0 ,Mix Bel Araby
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150564?checkedby:iptvcat.com
+#EXTINF:0 ,NILE CINEMA
+http://red.ipfox.org:8080/1234/12345678/33197?checkedby:iptvcat.com
+#EXTINF:0 ,NILE COMEDY
+http://red.ipfox.org:8080/1234/12345678/33196?checkedby:iptvcat.com
+#EXTINF:0 ,Nile Culture
+http://red.ipfox.org:8080/1234/12345678/33195?checkedby:iptvcat.com
+#EXTINF:0 ,Nile Family
+http://red.ipfox.org:8080/1234/12345678/33193?checkedby:iptvcat.com
+#EXTINF:0 ,Nile Life
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49551?checkedby:iptvcat.com
+#EXTINF:0 ,Nile Life
+http://red.ipfox.org:8080/1234/12345678/33192?checkedby:iptvcat.com
+#EXTINF:0 ,Nile News
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49550?checkedby:iptvcat.com
+#EXTINF:0 ,Nile News
+http://red.ipfox.org:8080/1234/12345678/33191?checkedby:iptvcat.com
+#EXTINF:0 ,Nile Sport
+http://red.ipfox.org:8080/1234/12345678/33200?checkedby:iptvcat.com
+#EXTINF:0 ,Nile TV
+http://red.ipfox.org:8080/1234/12345678/33149?checkedby:iptvcat.com
+#EXTINF:0 ,Nogoum_FM_TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49552?checkedby:iptvcat.com
+#EXTINF:0 ,ON Drama
+http://red.ipfox.org:8080/1234/12345678/33161?checkedby:iptvcat.com
+#EXTINF:0 ,ON E HD
+http://red.ipfox.org:8080/1234/12345678/33160?checkedby:iptvcat.com
+#EXTINF:0 ,ON TIME SPORT 1
+http://red.ipfox.org:8080/1234/12345678/33162?checkedby:iptvcat.com
+#EXTINF:0 ,ON TIME SPORT 2
+http://red.ipfox.org:8080/1234/12345678/33163?checkedby:iptvcat.com
+#EXTINF:0 ,ON TIME SPORT 3
+http://red.ipfox.org:8080/1234/12345678/33164?checkedby:iptvcat.com
+#EXTINF:0 ,Panorama Drama 1
+http://red.ipfox.org:8080/1234/12345678/33179?checkedby:iptvcat.com
+#EXTINF:0 ,Panorama Drama 2
+http://red.ipfox.org:8080/1234/12345678/33180?checkedby:iptvcat.com
+#EXTINF:0 ,Panorama Film
+http://red.ipfox.org:8080/1234/12345678/33181?checkedby:iptvcat.com
+#EXTINF:0 ,Panorama Food
+http://red.ipfox.org:8080/1234/12345678/33178?checkedby:iptvcat.com
+#EXTINF:0 ,SOWT MISR ALAMAMI TV
+http://red.ipfox.org:8080/1234/12345678/33199?checkedby:iptvcat.com
+#EXTINF:0 ,Sada ElBalad Drama
+http://red.ipfox.org:8080/1234/12345678/33170?checkedby:iptvcat.com
+#EXTINF:0 ,Sada ElBalad HD
+http://red.ipfox.org:8080/1234/12345678/33168?checkedby:iptvcat.com
+#EXTINF:0 ,Sada ElBalad Plus
+http://red.ipfox.org:8080/1234/12345678/33169?checkedby:iptvcat.com
+#EXTINF:0 ,TeN TV
+http://red.ipfox.org:8080/1234/12345678/33167?checkedby:iptvcat.com
+#EXTINF:0 ,The Kingdom Sat
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,WATAN TV
+http://red.ipfox.org:8080/1234/12345678/33153?checkedby:iptvcat.com
+#EXTINF:0 ,Zamalek
+http://red.ipfox.org:8080/1234/12345678/33202?checkedby:iptvcat.com
+
+
+
+
+
 #EXTINF:-1 group-title="SYRIA",•●★★--- SYRIA --★★●• 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1999
 
