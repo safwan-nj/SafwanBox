@@ -601,19 +601,18 @@ http://red.ipfox.org:8080/1234/12345678/33202?checkedby:iptvcat.com
 
 
 
-#EXTINF:-1 group-title="SYRIA",•●★★--- SYRIA --★★●• 
+#EXTINF:-1,•●★★--- SYRIA --★★●• 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1999
-
+#EXTINF:-1,SY: SYRIA. ALOULA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2000
 #EXTINF:-1,SY: SYRIA.DRAMA
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2001
 #EXTINF:-1,Syr-Sama-TV+
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2002
-#EXTINF:-1,SY: Sama.alsham
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2013
-#EXTINF:-1,SY: SYRIA. ALOULA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2000
 #EXTINF:-1,SY: LANA Tv
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2003
+#EXTINF:-1,SY: Sama.alsham
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2013
 #EXTINF:-1,SY: SYRIA-TV2
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2005
 #EXTINF:-1,SY: NOUREL SHAM
@@ -630,7 +629,31 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2004
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2008
 #EXTINF:-1,SY: SYRIA.ALIKHBARIA
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2006
-#EXTINF:-1 group-title="Lebanon",•●★★--- Lebanon ---★★●•
+#EXTINF:-1,==== IRAQ =====
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3075
+#EXTINF:-1,AR: AL HURRA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3076
+#EXTINF:-1,AR:Al Iraqiya
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3079
+#EXTINF:-1,AR:Al Iraqiya News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3080
+#EXTINF:-1,AR:Al Al Rafidain
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3081
+#EXTINF:-1,AR:Al Sharqiya News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3083
+#EXTINF:-1,AR:Babylon TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3085
+#EXTINF:-1,AR: News Dijlah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3086
+#EXTINF:-1,AR:Dijlah Tarab
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3087
+#EXTINF:-1,AR:KurdMax
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3088
+#EXTINF:-1,AR:Kurdistan TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3089
+#EXTINF:-1,AR Rudaw TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3091
+#EXTINF:-1,•●★★--- Lebanon ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3043
 #EXTINF:-1,LBC
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3025
@@ -666,7 +689,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3039
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3040
 #EXTINF:-1,ARABICA MUSIC LEBANON
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3042
-#EXTINF:-1 group-title="MBC HD",•●★★--- MBC HD ---★★●•
+#EXTINF:-1,•●★★--- MBC HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/125
 #EXTINF:-1,MYHD: MBC 1 HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/845
@@ -712,7 +735,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/861
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/862
 #EXTINF:-1,MYHD: Fox Action
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/863
-#EXTINF:-1,MYHD: Docu Box HD
+#EXTINF:-1,MYHD: FX HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/865
 #EXTINF:-1,MYHD: Fox Movies
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/867
@@ -746,7 +769,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2779
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2780
 #EXTINF:-1,MBC_FM_PANORAMA sd
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2781
-#EXTINF:-1 group-title="OSN HD",•●★★--- OSN HD ---★★●•
+#EXTINF:-1,•●★★--- OSN HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/124
 #EXTINF:-1,OSN YAHALA HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/156
@@ -772,8 +795,6 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3707
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3284
 #EXTINF:-1,[OSN]  Planet Earth
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/968
-#EXTINF:-1,AR: OSN PLAY TRILLER HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/84
 #EXTINF:-1,OSN:  Nick Jr
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2172
 #EXTINF:-1, OSN Series HD
@@ -794,7 +815,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/155
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/980
 #EXTINF:-1,[OSN] OSN PLAY TRILLER HD 2
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/977
-#EXTINF:-1,[OSN] FX HD
+#EXTINF:-1,[OSN] demonde xtra
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2826
 #EXTINF:-1,[OSN] OSN Kids
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/976
@@ -812,7 +833,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/966
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/965
 #EXTINF:-1,OSN History Channel
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/167
-#EXTINF:-1,OSN PLAY PREMIERE 2 HD
+#EXTINF:-1,OSN  movies
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3705
 #EXTINF:-1,OSN Discovery Science 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/168
@@ -884,7 +905,13 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/85
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/86
 #EXTINF:-1,AR: OSN Nat Geo pepole 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/88
-#EXTINF:-1 group-title="BOX OFFICE",•●★★--- BOX OFFICE---★★●•
+#EXTINF:-1,OSN | ONDEMAND EXTRA 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3946
+#EXTINF:-1,OSN | ONDEMAND EXTRA 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3947
+#EXTINF:-1,OSN | ONDEMAND EXTRA 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3948
+#EXTINF:-1,•●★★--- KAICER BOX OFFICE---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/513
 #EXTINF:-1,KAICER BOX OFFICE 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/494
@@ -954,7 +981,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2351
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2357
 #EXTINF:-1,NETFLIX_THRILLER
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2358
-#EXTINF:-1,AR: Netflix Series
+#EXTINF:-1,AR: Netflix Drama+
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3410
 #EXTINF:-1,AR: NETFLIX JR
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3416
@@ -988,7 +1015,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2464
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2423
 #EXTINF:-1,[Shahid Aflam]
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2424
-#EXTINF:-1,[Shahid Aflam2]
+#EXTINF:-1,[Shahid crime2]
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2425
 #EXTINF:-1,[Shahid HINDI]
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2426
@@ -1046,62 +1073,64 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2929
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2930
 #EXTINF:-1,SHAHID_ACTION
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2931
-#EXTINF:-1,Majestic movies3
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3009
-#EXTINF:-1,Majestic Classic
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3011
-#EXTINF:-1,Majestic cinema1
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3014
-#EXTINF:-1,majestic cinema2
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3015
-#EXTINF:-1,fushar-action
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2978
 #EXTINF:-1,Egy Best Arabic Film
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3507
-#EXTINF:-1,HOME CINEMA 1
+#EXTINF:-1,HBO Crime
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3508
-#EXTINF:-1,HOME CINEMA 2
+#EXTINF:-1,HBO drama,Comedy
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3509
-#EXTINF:-1,HOME CINEMA 3
+#EXTINF:-1,HBO Indian
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3510
-#EXTINF:-1,HOME CINEMA 4
+#EXTINF:-1,HBO Arabic
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3511
-#EXTINF:-1,HOME CINEMA 5
+#EXTINF:-1,HBO Action
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3512
-#EXTINF:-1,HOME CINEMA 6
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3513
-#EXTINF:-1,Aroma Action
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3514
-#EXTINF:-1,Aroma Arabic Films
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3515
-#EXTINF:-1,Aroma Kids
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3516
-#EXTINF:-1,Aroma Discovery
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3517
-#EXTINF:-1,Aroma Drama Films
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3518
-#EXTINF:-1,Aroma Masra7yat
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3519
-#EXTINF:-1,Aroma Horror
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3520
-#EXTINF:-1,Aroma Zaman
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3521
-#EXTINF:-1,Aroma WWE
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3522
-#EXTINF:-1,Box Office 1
+#EXTINF:-1,HBO Cartoon Zaman
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3523
-#EXTINF:-1,Box Office 2
+#EXTINF:-1,HBO Kids
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3524
-#EXTINF:-1,Box Office 3
+#EXTINF:-1,HBO Horror
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3525
-#EXTINF:-1,Box Office 4
+#EXTINF:-1,HBO Thriller
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3526
+#EXTINF:-1,OXN l YA HALA MOVIES 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3514
+#EXTINF:-1,OXN lYA HALA MOVIES 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3515
+#EXTINF:-1,OXN  YA HALA  CLIP
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3516
+#EXTINF:-1,OXN Box-Office
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3517
+#EXTINF:-1,OXN MIX
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3518
+#EXTINF:-1,OXN Tarab
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3519
+#EXTINF:-1,OXN Islamixc
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3520
+#EXTINF:-1,OXN Cinema 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3521
+#EXTINF:-1,OXN Cinema 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3522
 #EXTINF:-1,beOUT Action
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3580
 #EXTINF:-1,beOUT Arabia
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3581
 #EXTINF:-1,beOUT Cinema
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3582
+#EXTINF:-1,BeoutQ Afalm 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3938
+#EXTINF:-1,BeoutQ Afalm 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3939
+#EXTINF:-1,BeoutQ Afalm 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3940
+#EXTINF:-1,BeoutQ Afalm 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3941
+#EXTINF:-1,BeoutQ Cinema
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3942
+#EXTINF:-1,BeoutQ Movies
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3943
+#EXTINF:-1,BeoutQ Movies 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3944
 #EXTINF:-1,Casper Action 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3886
 #EXTINF:-1,Casper Action 2
@@ -1122,36 +1151,8 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3893
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3894
 #EXTINF:-1,Casper horror
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3895
-#EXTINF:-1,AR: RADIO FAIROUZ
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3529
-#EXTINF:-1,AR: RADIO CLASSIC
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3530
-#EXTINF:-1,AR: RADIO ZAMAN
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3531
-#EXTINF:-1,AR: RADIO AMR DIAB
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3532
-#EXTINF:-1,AR: RADIO GEORGE WASOUF
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3533
-#EXTINF:-1,AR: RADIO ABDEL HALIM HAFEZ
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3534
-#EXTINF:-1,AR: RADIO UMM KULTHUM
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3535
-#EXTINF:-1,best tv movies ch
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3555
-#EXTINF:-1,Majestic Arabic
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3556
-#EXTINF:-1,Majestic Cinema
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3557
-#EXTINF:-1,Majestic Horror
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3558
 #EXTINF:-1,Mix Action
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3559
-#EXTINF:-1,Mix Cimena
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3560
-#EXTINF:-1,Mix Crime
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3561
-#EXTINF:-1,Mix Mystery
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3562
 #EXTINF:-1,Mix Sport Movies
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3563
 #EXTINF:-1,Dragon Action
@@ -1208,8 +1209,6 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3594
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3595
 #EXTINF:-1,ON Docunentary HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3596
-#EXTINF:-1,ON LOVEH HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3597
 #EXTINF:-1,ON Turkey HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3598
 #EXTINF:-1,ON Arabic HD
@@ -1240,18 +1239,10 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3728
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3729
 #EXTINF:-1,AR: SKY FLIX DRAMA
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3730
-#EXTINF:-1,AR: SKY FLIX COMEDY
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3731
-#EXTINF:-1,AR: SKY FLIX HORROR
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3732
 #EXTINF:-1,AR: SKY FLIX BOX OFFICE 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3733
-#EXTINF:-1,AR: SKY FLIX BOXOFFICE 2
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3734
 #EXTINF:-1,AR: SKY FLIX BOLLYWOODY
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3735
-#EXTINF:-1,AR: SKY FLIX ANIME 1
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3736
 #EXTINF:-1,SKYFLIX 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3691
 #EXTINF:-1,SKYFLIX 2
@@ -1280,7 +1271,21 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3720
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3721
 #EXTINF:-1,AR: Shahid VIP WAR
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3725
-#EXTINF:-1 group-title="ART Channels",•●★★--- ART Channels ---★★●•
+#EXTINF:-1,watch it kids
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3949
+#EXTINF:-1,Fil max Action
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3950
+#EXTINF:-1,FILMAX AR MOVIES
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3951
+#EXTINF:-1,FILMAX CARTOON
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3952
+#EXTINF:-1,FILMAX  NETFLIX
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3953
+#EXTINF:-1,FILMAX  NETFLIX AR JR
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3954
+#EXTINF:-1,FILMAX AR FAMILY
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3955
+#EXTINF:-1,•●★★--- ART Channels ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/122
 #EXTINF:-1,AR: ART Aflam 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/997
@@ -1292,16 +1297,12 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/103
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/104
 #EXTINF:-1,AR: ART Hekayat 2
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/105
-#EXTINF:-1 group-title="KIDS",•●★★--- KIDS ---★★●•
+#EXTINF:-1,•●★★--- KIDS ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1009
-#EXTINF:-1,AR: hodhod
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1010
 #EXTINF:-1,AR: Cartoon Network
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1011
 #EXTINF:-1,AR: PBS Kids 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1012
-#EXTINF:-1,AR: Sky KIDS1 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1013
 #EXTINF:-1,AR: KARAMEESH
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1014
 #EXTINF:-1,AR: Kooky
@@ -1314,7 +1315,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1019
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1017
 #EXTINF:-1,AR: Mwaheb
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1016
-#EXTINF:-1 group-title="NEWS",•●★★--- NEWS ---★★●•
+#EXTINF:-1,•●★★--- NEWS ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/998
 #EXTINF:-1,AR: Al Jazeera
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/999
@@ -1334,8 +1335,6 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1001
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1002
 #EXTINF:-1,AR: BBC Arabic
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1005
-#EXTINF:-1,AR: RT News
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1008
 #EXTINF:-1,AR: Sky News
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1007
 #EXTINF:-1,AR: TRT-ELARABIYE
@@ -1354,7 +1353,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3212
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3213
 #EXTINF:-1,AR:Houra News
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3214
-#EXTINF:-1 group-title="Rotana",•●★★--- Rotana ---★★●•
+#EXTINF:-1,•●★★--- Rotana ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/176
 #EXTINF:-1,AR:Rotana Cinema 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/106
@@ -1364,8 +1363,6 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/107
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/108
 #EXTINF:-1,AR: Rotana  Comedy 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/109
-#EXTINF:-1,AR: Rotana Classic-SY
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1,AR: Rotana Classic 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/110
 #EXTINF:-1,AR: Rotana Drama
@@ -1378,7 +1375,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3217
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3469
 #EXTINF:-1,AR: Rotana Khaliji
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3218
-#EXTINF:-1 group-title="Egypt",•●★★--- Egypt ---★★●•
+#EXTINF:-1,•●★★--- Egypt ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/511
 #EXTINF:-1,AR: ON Time Sport 3
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2397
@@ -1394,8 +1391,6 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/951
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/952
 #EXTINF:-1,AR: Zamalek TV
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2068
-#EXTINF:-1,AR: :Al Oula
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3655
 #EXTINF:-1,AR:  Sada Elbabad
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/495
 #EXTINF:-1,AR:  Nile Sport
@@ -1432,8 +1427,102 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/510
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3308
 #EXTINF:-1,AR : ZEE AFLAM
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3309
-#EXTINF:-1 group-title="Islam",•●★★--- Islami ---★★●•
-https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1,•●★★--- SUDAN ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3158
+#EXTINF:-1,AR: SUDAN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3142
+#EXTINF:-1,AR: Sudan AlIstijaba
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3143
+#EXTINF:-1,AR: Sudan Ashorooq
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3144
+#EXTINF:-1,AR: Sudan BlueNile
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3145
+#EXTINF:-1,AR: Sudan Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3146
+#EXTINF:-1,AR: Sudan Jazeera_Green
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3147
+#EXTINF:-1,AR: Sudan Kassala
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3148
+#EXTINF:-1,AR: Sudan Khartoum
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3149
+#EXTINF:-1,AR: Sudan Knowledge
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3150
+#EXTINF:-1,AR: Sudan Monwaat
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3151
+#EXTINF:-1,AR: Sudan Music
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3152
+#EXTINF:-1,AR: Sudan OmDorman
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3153
+#EXTINF:-1,AR: Sudan Sport HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3155
+#EXTINF:-1,AR: Sudan Tybah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3156
+#EXTINF:-1,AR: Sudania 24
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3157
+#EXTINF:-1,•●★★--- PALESTINE ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/493
+#EXTINF:-1,Duhok Sports HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3874
+#EXTINF:-1,AR: MMN Sport
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2843
+#EXTINF:-1,AR: ASO Sport
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2842
+#EXTINF:-1,AR: FajerTV1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/584
+#EXTINF:-1,AR: Fajer 1 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/593
+#EXTINF:-1,AR: FajerTV2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/587
+#EXTINF:-1,AR: Fajr 2 sd
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/449
+#EXTINF:-1,AR: palastine  live
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/590
+#EXTINF:-1,AR: radio marah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/596
+#EXTINF:-1,AR: Raya
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/481
+#EXTINF:-1,AR: Ajyal
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/482
+#EXTINF:-1,Al nagah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/483
+#EXTINF:-1,AR: GK Sport 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3314
+#EXTINF:-1,AR: HalowTV HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3316
+#EXTINF:-1,AR: Palstine Today
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/486
+#EXTINF:-1,AR: Aqsa tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2944
+#EXTINF:-1,AR: nablus live
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3045
+#EXTINF:-1,AR: Alhorrya
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3956
+#EXTINF:-1,AR: Alhorrya radio
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3957
+#EXTINF:-1,AR: Watan Tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3958
+#EXTINF:-1,AR: adwaa tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3959
+#EXTINF:-1,AR: Rehan tv
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3960
+#EXTINF:-1,AR: Hala Ramallah
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3961
+#EXTINF:-1,AR: Water 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3962
+#EXTINF:-1,AR: Makan HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3963
+#EXTINF:-1,AR: Hala HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3964
+#EXTINF:-1,AR: PNN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3965
+#EXTINF:-1,AR: Mawwal TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3966
+#EXTINF:-1,Baladna TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3967
+#EXTINF:-1,Hekaya TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3968
+#EXTINF:-1,•●★★--- Islami ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/116
 #EXTINF:-1,AR: Saudi Qraan
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/126
 #EXTINF:-1,AR: Saudi Sunna
@@ -1472,7 +1561,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3864
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3865
 #EXTINF:-1,AR:  Iqraa
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3867
-#EXTINF:-1 group-title="القرءان الكريــــــــــم",•●★★--- القرءان الكريــــــــــم---★★●•
+#EXTINF:-1,•●★★--- القرءان الكريــــــــــم---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3289
 #EXTINF:-1,اذاعه القرءان الكريم من القاهرة
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3295
@@ -1514,10 +1603,8 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3540
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3291
 #EXTINF:-1,راديو سعد الغامدى
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3444
-#EXTINF:-1 group-title="beIN Sport Full HD",•●★★--- beIN Sport Full HD ---★★●•
+#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3220
-#EXTINF:-1,RMC 4K
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3881
 #EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3221
 #EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
@@ -1538,7 +1625,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3228
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3230
 #EXTINF:-1,beIN SPORTS FullHD7
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3229
-#EXTINF:-1 group-title="beIN SPORTS Hevc 265H",•●★★--- beIN SPORTS Hevc 265H ---★★●•
+#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3703
 #EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/459
@@ -1560,20 +1647,12 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/456
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/457
 #EXTINF:-1,beIN SPORTS7 H265
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/458
-#EXTINF:-1 group-title="beIN SPORTS HD",•●★★--- beIN SPORTS HD ---★★●•
+#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/117
-#EXTINF:-1,AR; Sriea A hd
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3877
-#EXTINF:-1,Duhok Sports HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3874
 #EXTINF:-1,beIN SPORTS News
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2051
 #EXTINF:-1,beIN SPORTS HD (Global)
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/960
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3620
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3621
 #EXTINF:-1,beIN SPORTS PREMIUM1 HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/46
 #EXTINF:-1,beIN SPORTS PREMIUM2 HD
@@ -1598,7 +1677,17 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/55
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3001
 #EXTINF:-1, beIN SPORTS 2 ENGLISH HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3002
-#EXTINF:-1 group-title="beIN SPORTS SD",•●★★--- beIN SPORTS SD ---★★●•
+#EXTINF:-1,beIN SPORTS 3 ENGLISH
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3970
+#EXTINF:-1,beIN SPORTS 1 FRENCH
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3972
+#EXTINF:-1,beIN SPORTS NBA 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3973
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3620
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3621
+#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2873
 #EXTINF:-1,beIN SPORTS PREMIUM1 SD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/56
@@ -1620,7 +1709,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/91
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/61
 #EXTINF:-1,beIN SPORTS 7SD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1459
-#EXTINF:-1 group-title="beIN SPORTS LOW",•●★★--- beIN SPORTS LOW ---★★●•
+#EXTINF:-1,•●★★--- beIN SPORTS LOW ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/119
 #EXTINF:-1,beIN SPORTS PREMINUM1 LOW
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/62
@@ -1632,6 +1721,8 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3791
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3792
 #EXTINF:-1,beIN SPORTS 2LOW
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2108
+#EXTINF:-1,beIN SPORTS 3 LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3937
 #EXTINF:-1,beIN SPORTS 4LOW
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2109
 #EXTINF:-1,beIN SPORTS 5LOW
@@ -1640,25 +1731,8 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2110
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2111
 #EXTINF:-1,beIN SPORTS 7LOW
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2112
-#EXTINF:-1,Radio Bein 1 PR
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3546
-#EXTINF:-1,Radio Bein 2 PR
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3547
-#EXTINF:-1,Radio Bein 1
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3548
-#EXTINF:-1,Radio Bein 2
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3549
-#EXTINF:-1,Radio Bein 3
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3550
-#EXTINF:-1,Radio Bein 4
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3551
-#EXTINF:-1,Radio Bein 5
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3552
-#EXTINF:-1,Radio Bein 6
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3553
-#EXTINF:-1,Radio Bein 7
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3554
-#EXTINF:-1 group-title="beIN Entertainment",•●★★--- beIN Entertainment ---★★●•
+
+#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/121
 #EXTINF:-1,AR: beIN Movies 1 HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/24
@@ -1704,243 +1778,8 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3276
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3706
 #EXTINF:-1,AR: beIN BOXOFFICE HD3
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3709
-
-#EXTINF:-1 group-title="SUDAN",•●★★--- SUDAN ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3158
-#EXTINF:-1,AR: SUDAN
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3142
-#EXTINF:-1,AR: Sudan AlIstijaba
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3143
-#EXTINF:-1,AR: Sudan Ashorooq
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3144
-#EXTINF:-1,AR: Sudan BlueNile
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3145
-#EXTINF:-1,AR: Sudan Drama
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3146
-#EXTINF:-1,AR: Sudan Jazeera_Green
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3147
-#EXTINF:-1,AR: Sudan Kassala
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3148
-#EXTINF:-1,AR: Sudan Khartoum
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3149
-#EXTINF:-1,AR: Sudan Knowledge
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3150
-#EXTINF:-1,AR: Sudan Monwaat
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3151
-#EXTINF:-1,AR: Sudan Music
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3152
-#EXTINF:-1,AR: Sudan OmDorman
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3153
-#EXTINF:-1,AR: Sudan Sport HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3155
-#EXTINF:-1,AR: Sudan Tybah
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3156
-#EXTINF:-1,AR: Sudania 24
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3157
-#EXTINF:-1 group-title="PALESTINE",•●★★--- PALESTINE ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/493
-#EXTINF:-1,AR: betlahem 1 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2843
-#EXTINF:-1,AR: Betlahem 2 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2842
-#EXTINF:-1,AR: FajerTV1 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/584
-#EXTINF:-1,AR: FajerTV2 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/587
-#EXTINF:-1,AR: palastine  live
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/590
-#EXTINF:-1,AR: FajerTV 1 1080
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/593
-#EXTINF:-1,AR: radio marah
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/596
-#EXTINF:-1,AR: Raya
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/481
-#EXTINF:-1,AR: Ajyal
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/482
-#EXTINF:-1,Al nagah
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/483
-#EXTINF:-1,AR: Palastine Sport 1 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3314
-#EXTINF:-1,AR: HalowTV HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3316
-#EXTINF:-1,AR: Palstine Today
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/486
-#EXTINF:-1,AR: Aqsa tv
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2944
-#EXTINF:-1,AR: nablus live
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3045
-#EXTINF:-1,AR: You sat
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/448
-#EXTINF:-1,AR: Fajr 2 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/449
-#EXTINF:-1 group-title="LIBYA",•●★★--- LIBYA ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3141
-#EXTINF:-1,[LIB] Libya Sport Channel
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3455
-#EXTINF:-1,AR: Libya Sport 2
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3652
-#EXTINF:-1,AR: LIBYA 218 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3128
-#EXTINF:-1,AR: Libya 218 News
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3129
-#EXTINF:-1,AR: Libya AlAhrar
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3130
-#EXTINF:-1,AR: Libya Alhadath
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3131
-#EXTINF:-1,AR: Lpc
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3132
-#EXTINF:-1,AR: Libya Alwatanya
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3133
-#EXTINF:-1,AR: Libya elwatan
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3134
-#EXTINF:-1,AR: Libya 218 News
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3135
-#EXTINF:-1,AR: LIBYA WTV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3136
-#EXTINF:-1,AR: Libya 218
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3137
-#EXTINF:-1,AR: Libya Tanasuh
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3138
-#EXTINF:-1,AR: Libya Waad
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3139
-#EXTINF:-1,AR: Libyas Channel
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3140
-#EXTINF:-1 group-title="MAROC",•●★★--- MAROC ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/725
-#EXTINF:-1, MA:ALOULA INT 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/726
-#EXTINF:-1, MA:ALMAGHRIBIA 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/727
-#EXTINF:-1, MA:2M 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/728
-#EXTINF:-1, MA: CHADA TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/729
-#EXTINF:-1, MA:ASSADISA 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/730
-#EXTINF:-1, MA: telemaroc 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/733
-#EXTINF:-1, MA:ARRIADIA 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/731
-#EXTINF:-1, MA:MEDI1 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/732
-#EXTINF:-1, MA:ALMAGHRIBIA NEWS 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/734
-#EXTINF:-1, MA:TELE MAROC 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/735
-#EXTINF:-1, MA:TAMAZIGHT 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/736
-#EXTINF:-1,AR: Alrrabia FHD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3107
-#EXTINF:-1,AR: AL MAGHRIBIA 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3109
-#EXTINF:-1,AR: AL MAGHRIBIA HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3110
-#EXTINF:-1,AR: Assadissa FHD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3111
-#EXTINF:-1,AR: Assadissa
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3112
-#EXTINF:-1,AR: Assabiaa FHD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3113
-#EXTINF:-1,AR: Tamazight HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3114
-#EXTINF:-1,AR: Medi1 Afrique FHD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3115
-#EXTINF:-1 group-title="TUNISIA",•●★★--- TUNISIA ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/889
-#EXTINF:-1,AR: Baya TV HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3878
-#EXTINF:-1,TN:WATANIA1
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/890
-#EXTINF:-1,TN:WATANIA2
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/891
-#EXTINF:-1,TN:ELHIWAR
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/892
-#EXTINF:-1,TN:NESSMA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/893
-#EXTINF:-1,Tunisia Carthage
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2541
-#EXTINF:-1,TN:HANNIBAL
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/894
-#EXTINF:-1,TN:ATTESIA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/895
-#EXTINF:-1,TN:MTUNISIA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/896
-#EXTINF:-1,TN:TELEVISION1
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/903
-#EXTINF:-1,TN:SAHELTV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/905
-#EXTINF:-1,TN:ALMOSTKELLA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/902
-#EXTINF:-1,TN:ALINSEN
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/901
-#EXTINF:-1,TN:ZAYTOUNA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/900
-#EXTINF:-1,TN:TELVZATV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/899
-#EXTINF:-1,TN:JANOUBIA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/898
-#EXTINF:-1,TN:TOUNESNA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/897
-#EXTINF:-1 group-title="ALGERIA",•●★★--- ALGERIA ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/906
-#EXTINF:-1,Algerian:CANAL ALGERIE 2
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/907
-#EXTINF:-1,Algerian:ALGERIE3
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/908
-#EXTINF:-1,Algerian:shababia 6
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/909
-#EXTINF:-1,Algerian:ECHOUROUK
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/911
-#EXTINF:-1,Algerian:DJAZAIRIA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/910
-#EXTINF:-1,Algerian:Echorouk BENNA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/912
-#EXTINF:-1,Algerian:Dzair 1
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/913
-#EXTINF:-1,Algerian:SAMIRA TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/915
-#EXTINF:-1,Algerian:ENTV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/917
-#EXTINF:-1,Algerian:Bahia Tv
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/946
-#EXTINF:-1,Algerian:TV BERBERE HD*
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/945
-#EXTINF:-1,Algerian:BEUR TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/918
-#EXTINF:-1,Algerian:ALHADEF
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/919
-#EXTINF:-1,AL MAGHRIBIA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/943
-#EXTINF:-1,Algerian:ENTV TERRESTRE DZ
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/941
-#EXTINF:-1,Algerian:ELHAYA-ALGERIE
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/938
-#EXTINF:-1,Algerian: ENNAHAR TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/935
-#EXTINF:-1,Algerian:Awrass  TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/932
-#EXTINF:-1,Algerian: El-Heddaf.TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/933
-#EXTINF:-1,Algerian: BAHIA
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/931
-#EXTINF:-1,Algerian: Samira
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/927
-#EXTINF:-1,Algerian:ENNAHAR
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/924
-#EXTINF:-1,Algerian:Numidia--TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/922
-#EXTINF:-1,Algerian:ECHOUROUK News TV
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/923
-#EXTINF:-1,Algerian-ELBILAD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/926
-#EXTINF:-1,Algerian:Algeria-DZAIR 3
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/925
-#EXTINF:-1,Algerian: ALGERIE3
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/928
-#EXTINF:-1,Algerian: ALGERIE4
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/929
-#EXTINF:-1,Algerian: ALGERIE5
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/930
+#EXTINF:-1,Bein BBC Earth HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3945
 
 #EXTINF:-1 group-title="IRAQ",==== IRAQ =====
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3075
@@ -1991,11 +1830,11 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1238
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1239
 #EXTINF:-1,DE: Comedy Central HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1240
-#EXTINF:-1,DE: DAZN 1 Bar FHD
+#EXTINF:-1,DE: DAZN 1  FHD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1242
 #EXTINF:-1,DE: DAZN 1 FHD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1243
-#EXTINF:-1,DE: DAZN 2 Bar FHD
+#EXTINF:-1,DE: DAZN 2  FHD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1244
 #EXTINF:-1,DE: DAZN 2 FHD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1245
@@ -2113,10 +1952,6 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1411
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1412
 #EXTINF:-1,DE: Spiegel TV Wissen HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1413
-#EXTINF:-1,DE: Sport 1 + HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1414
-#EXTINF:-1,DE: Sport 1 Plus HD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1416
 #EXTINF:-1,DE: SRF 1 HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1418
 #EXTINF:-1,DE: SUPER RTL FHD
@@ -2154,4 +1989,305 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1456
 #EXTINF:-1,DE: ZDF NEO HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1457
 #EXTINF:-1,DE: ZEE ONE FHD
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/145
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1458
+#EXTINF:-1,•●★★--- USA---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/844
+#EXTINF:-1,US:  ABC 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3653
+#EXTINF:-1,US: ABC News
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3654
+#EXTINF:-1,US: TNT HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3048
+#EXTINF:-1,US: TSN 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3057
+#EXTINF:-1,US:  TSN 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3056
+#EXTINF:-1,US: TSN 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3055
+#EXTINF:-1,US: TSN 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3054
+#EXTINF:-1,US: TSN 5
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3053
+#EXTINF:-1,US: ESPN HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3049
+#EXTINF:-1,US: ESPN 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3050
+#EXTINF:-1,US: ESPN U HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3052
+#EXTINF:-1,US: Bein Sport USA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/739
+#EXTINF:-1,US: beIN Sports Ñ
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/740
+#EXTINF:-1,US: ESPN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/742
+#EXTINF:-1,US: ESPN 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/743
+#EXTINF:-1,US: Longhorn Network
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/744
+#EXTINF:-1,US: Hallmark Drama
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/745
+#EXTINF:-1,US: Hallmark Movies and Mysteries
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/746
+#EXTINF:-1,US: HBO COMEDY HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/747
+#EXTINF:-1,US: NAT GEO WILD HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/748
+#EXTINF:-1,US: ESPN NEWS
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/750
+#EXTINF:-1,US: ESPN U
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/752
+#EXTINF:-1,US: Eleven Sports US
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/753
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/754
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/755
+#EXTINF:-1,US: Showtime Showcase
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/756
+#EXTINF:-1,US: ShowTime HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/757
+#EXTINF:-1,US: Starz Cinema HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/758
+#EXTINF:-1,US: STARZ East
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/759
+#EXTINF:-1,US: TBS HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/760
+#EXTINF:-1,US: Discovery Channel HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/761
+#EXTINF:-1,US: Fox Sports Arizona
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/764
+#EXTINF:-1,US: Fox Sports Detroit
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/765
+#EXTINF:-1,US: Fox Sports Florida
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/766
+#EXTINF:-1,US: Fox Tampa
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/767
+#EXTINF:-1,US: Fox Sacramento
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/769
+#EXTINF:-1,US: Fox Sport 2 4K+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/770
+#EXTINF:-1,US: Fox News GO
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/771
+#EXTINF:-1,US: Fox Nashville
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/772
+#EXTINF:-1,US: Fox  Sport 1 4K+
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/773
+#EXTINF:-1,US: Fox Los Angeles
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/774
+#EXTINF:-1,US: Fox Sports San Diego
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/775
+#EXTINF:-1,US: Fox  Houston
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/778
+#EXTINF:-1,US: GOLTV 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/780
+#EXTINF:-1,US: MLB NETWORK
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/781
+#EXTINF:-1,US: MSG HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/782
+#EXTINF:-1,US: MSNBC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/783
+#EXTINF:-1,US: Mav TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/784
+#EXTINF:-1,US: NBA TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/785
+#EXTINF:-1,US: NBCSN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/786
+#EXTINF:-1,US: NBC Sports Bay Area Plus
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/788
+#EXTINF:-1,US: NBC Sports Boston
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/789
+#EXTINF:-1,US: NBC Sports California Plus
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/791
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/792
+#EXTINF:-1,US: NBC Sports Nowrthwest
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/793
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/794
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/795
+#EXTINF:-1,US: NBCSN
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/796
+#EXTINF:-1,US: NESN PLUS
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/798
+#EXTINF:-1,US: NFL Network
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/799
+#EXTINF:-1,US: Olympic Channel
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/800
+#EXTINF:-1,US: Outside TV
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/801
+#EXTINF:-1,US: PAC-12 Arizona
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/802
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/804
+#EXTINF:-1,US: PAC-12 Oregon
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/805
+#EXTINF:-1,US: PAC-12 Washington
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/806
+#EXTINF:-1,US: Pac-12 Mountain
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/807
+#EXTINF:-1,US: Pac-12 Network
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/808
+#EXTINF:-1,US: PAC-12 Bay Area
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/803
+#EXTINF:-1,US: wwe Network
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/954
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/813
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (NL) HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/814
+#EXTINF:-1,BG: ELEVEN SPORTS 2 BELGIUM (NL) HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/815
+#EXTINF:-1,CA: SPORTSNET 1 ʜᴅ
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/816
+#EXTINF:-1,CA: SPORTSNET 360 ʜᴅ
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/817
+#EXTINF:-1,[CA]_LOVE NATURE HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3879
+#EXTINF:-1,Latino: Fox Sports 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/828
+#EXTINF:-1,Latino: Fox Sports 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/829
+#EXTINF:-1,UK: BT SPORT 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/838
+#EXTINF:-1,UK: BT SPORT 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/839
+#EXTINF:-1,UK: BT SPORT 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/840
+#EXTINF:-1,US: NBC HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/843
+
+#EXTINF:-1,•●★★--- World  ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/123
+#EXTINF:-1,Smart Sport ((كاس الاتحاد الاسيوي))
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3779
+#EXTINF:-1,AR: AD Sport 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/112
+#EXTINF:-1,AR: AD Sport 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/113
+#EXTINF:-1,AR: AD Sport 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/114
+#EXTINF:-1,AR: AD Sport 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/115
+#EXTINF:-1,AR: SSC Sport 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3833
+#EXTINF:-1,AR: SSC Sport 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3834
+#EXTINF:-1,AR: SSC Sport 3 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3835
+#EXTINF:-1,AR: SSC Sport 4 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3836
+#EXTINF:-1,AR: SSC Sport 5 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3837
+#EXTINF:-1,Ar: SSC Sport 6 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3838
+#EXTINF:-1,AR: SSC Sport 7 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3839
+#EXTINF:-1,AR: KSA Sports 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2053
+#EXTINF:-1,AR: KSA Sports 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2054
+#EXTINF:-1,AR: KSA SPORTS 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2055
+#EXTINF:-1,AR: ksa Sport 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2056
+#EXTINF:-1,AR: Sharjah Sports TV FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3233
+#EXTINF:-1,AR: Alkass 1
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1461
+#EXTINF:-1,AR: Alkass 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1462
+#EXTINF:-1,AR: Alkass 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1463
+#EXTINF:-1,AR: Alkass 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1464
+#EXTINF:-1,IR: Varzesh
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2113
+#EXTINF:-1,Arena Sport 2 (Serb)
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1466
+#EXTINF:-1,Arena Sport 3 (Serb
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1467
+#EXTINF:-1,Arena Sport 4 (Serb
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1468
+#EXTINF:-1,Arena Sport 5 (Serb)
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1469
+#EXTINF:-1,Arena Sport 1 (Serb)
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1465
+#EXTINF:-1,PT: Sport TV 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2165
+#EXTINF:-1,PT: Sport TV 1 HD 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2166
+#EXTINF:-1,PT: Sport TV 2 HD 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2167
+#EXTINF:-1,PT: Sport TV 3 HD 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2168
+#EXTINF:-1,PT: Sport TV 4 HD 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2169
+#EXTINF:-1,PT:  Sport TV 5 HD 
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2170
+#EXTINF:-1,MATCH 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2837
+#EXTINF:-1,TRT Sport HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2839
+#EXTINF:-1,RAI 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2836
+#EXTINF:-1,BT SPORT 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2840
+#EXTINF:-1,ZA: SuperSport Action HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3060
+#EXTINF:-1,ZA: SuperSport Cricket HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3061
+#EXTINF:-1,ZA: SuperSport Football HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3062
+#EXTINF:-1,ZA: SuperSport LaLiga
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3064
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3063
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3065
+#EXTINF:-1,ZA: SuperSport Premier League HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3067
+#EXTINF:-1,ZA: SuperSport PSL HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3068
+#EXTINF:-1,ZA: SuperSport Tennis FHD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3069
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3070
+#EXTINF:-1,ARGENTINA: TNT SPORT
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3072
+#EXTINF:-1,ARGENTINA: TYC
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3073
+#EXTINF:-1,POL: CANAL_SPORT
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3159
+#EXTINF:-1,AL: TRING_SPORT_1HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3169
+#EXTINF:-1,AL: TRING_SPORT_2HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3170
+#EXTINF:-1,AL: TRING_SPORT_3HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3171
+#EXTINF:-1,AL: TRING_SPORT_4HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3172
+#EXTINF:-1,AL:SUPER SPORT 1 NEWS
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3173
+#EXTINF:-1,AL:SUPER SPORT 2
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3174
+#EXTINF:-1,AL:SUPER SPORT 3
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3175
+#EXTINF:-1,AL:SUPER SPORT 4
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3176
+#EXTINF:-1,AL: EXPLORER_NATYRA
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3177
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3279
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3280
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3281
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3282
+#EXTINF:-1,ZDF HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3460
+#EXTINF:-1,20 Mediaset
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3461
+#EXTINF:-1,Italia 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3462
