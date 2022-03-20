@@ -600,9 +600,8 @@ http://red.ipfox.org:8080/1234/12345678/33202?checkedby:iptvcat.com
 
 
 
-
-#EXTINF:-1,•●★★--- SYRIA --★★●• 
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1999
+#EXTINF:-1 group-title="SYRIA",•●★★--- SYRIA ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/176
 #EXTINF:-1,SY: SYRIA. ALOULA
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2000
 #EXTINF:-1,SY: SYRIA.DRAMA
@@ -653,8 +652,8 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3088
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3089
 #EXTINF:-1,AR Rudaw TV
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3091
-#EXTINF:-1,•●★★--- Lebanon ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3043
+#EXTINF:-1 group-title="Lebanon",•●★★--- Lebanon ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/176
 #EXTINF:-1,LBC
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3025
 #EXTINF:-1,LBCI.International
@@ -689,7 +688,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3039
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3040
 #EXTINF:-1,ARABICA MUSIC LEBANON
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3042
-#EXTINF:-1,•●★★--- MBC HD ---★★●•
+#EXTINF:-1 group-title="MBC",•●★★--- MBC HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/125
 #EXTINF:-1,MYHD: MBC 1 HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/845
@@ -769,7 +768,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2779
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2780
 #EXTINF:-1,MBC_FM_PANORAMA sd
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2781
-#EXTINF:-1,•●★★--- OSN HD ---★★●•
+#EXTINF:-1 group-title="OSN",•●★★--- OSN HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/124
 #EXTINF:-1,OSN YAHALA HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/156
@@ -911,7 +910,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3946
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3947
 #EXTINF:-1,OSN | ONDEMAND EXTRA 3
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3948
-#EXTINF:-1,•●★★--- KAICER BOX OFFICE---★★●•
+#EXTINF:-1 group-title="BOX OFFICE",•●★★--- KAICER BOX OFFICE---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/513
 #EXTINF:-1,KAICER BOX OFFICE 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/494
@@ -1285,7 +1284,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3953
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3954
 #EXTINF:-1,FILMAX AR FAMILY
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3955
-#EXTINF:-1,•●★★--- ART Channels ---★★●•
+#EXTINF:-1 group-title="ART",•●★★--- ART Channels ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/122
 #EXTINF:-1,AR: ART Aflam 1
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/997
@@ -1297,7 +1296,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/103
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/104
 #EXTINF:-1,AR: ART Hekayat 2
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/105
-#EXTINF:-1,•●★★--- KIDS ---★★●•
+#EXTINF:-1 group-title="KIDS",•●★★--- KIDS ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1009
 #EXTINF:-1,AR: Cartoon Network
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1011
@@ -1315,7 +1314,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1019
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1017
 #EXTINF:-1,AR: Mwaheb
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1016
-#EXTINF:-1,•●★★--- NEWS ---★★●•
+#EXTINF:-1 group-title="NEWS",•●★★--- NEWS ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/998
 #EXTINF:-1,AR: Al Jazeera
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/999
@@ -1353,7 +1352,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3212
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3213
 #EXTINF:-1,AR:Houra News
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3214
-#EXTINF:-1,•●★★--- Rotana ---★★●•
+#EXTINF:-1 group-title="ROTANA",•●★★--- Rotana ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/176
 #EXTINF:-1,AR:Rotana Cinema 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/106
@@ -1375,7 +1374,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3217
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3469
 #EXTINF:-1,AR: Rotana Khaliji
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3218
-#EXTINF:-1,•●★★--- Egypt ---★★●•
+#EXTINF:-1 group-title="EGYPT",•●★★--- Egypt ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/511
 #EXTINF:-1,AR: ON Time Sport 3
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2397
@@ -1427,7 +1426,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/510
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3308
 #EXTINF:-1,AR : ZEE AFLAM
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3309
-#EXTINF:-1,•●★★--- SUDAN ---★★●•
+#EXTINF:-1 group-title="SUDAN",•●★★--- SUDAN ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3158
 #EXTINF:-1,AR: SUDAN
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3142
@@ -1459,7 +1458,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3155
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3156
 #EXTINF:-1,AR: Sudania 24
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3157
-#EXTINF:-1,•●★★--- PALESTINE ---★★●•
+#EXTINF:-1 group-title="PALESTINE",•●★★--- PALESTINE ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/493
 #EXTINF:-1,Duhok Sports HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3874
@@ -1521,7 +1520,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3966
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3967
 #EXTINF:-1,Hekaya TV
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3968
-#EXTINF:-1,•●★★--- Islami ---★★●•
+#EXTINF:-1 group-title="ISLAMIC",•●★★--- Islami ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/116
 #EXTINF:-1,AR: Saudi Qraan
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/126
@@ -1561,7 +1560,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3864
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3865
 #EXTINF:-1,AR:  Iqraa
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3867
-#EXTINF:-1,•●★★--- القرءان الكريــــــــــم---★★●•
+#EXTINF:-1 group-title="QURAN",•●★★--- القرءان الكريــــــــــم---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3289
 #EXTINF:-1,اذاعه القرءان الكريم من القاهرة
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3295
@@ -1603,7 +1602,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3540
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3291
 #EXTINF:-1,راديو سعد الغامدى
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3444
-#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
+#EXTINF:-1 group-title="bein fhd",•●★★--- beIN Sport Full HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3220
 #EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3221
@@ -1625,7 +1624,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3228
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3230
 #EXTINF:-1,beIN SPORTS FullHD7
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3229
-#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
+#EXTINF:-1 group-title="bein hvec",•●★★--- beIN SPORTS Hevc 265H ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3703
 #EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/459
@@ -1647,7 +1646,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/456
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/457
 #EXTINF:-1,beIN SPORTS7 H265
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/458
-#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
+#EXTINF:-1 group-title="bein hd",•●★★--- beIN SPORTS HD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/117
 #EXTINF:-1,beIN SPORTS News
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2051
@@ -1687,7 +1686,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3973
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3620
 #EXTINF:-1,beIN Sport XTRA 2 HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3621
-#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
+#EXTINF:-1 group-title="bein sd",•●★★--- beIN SPORTS SD ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2873
 #EXTINF:-1,beIN SPORTS PREMIUM1 SD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/56
@@ -1709,7 +1708,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/91
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/61
 #EXTINF:-1,beIN SPORTS 7SD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1459
-#EXTINF:-1,•●★★--- beIN SPORTS LOW ---★★●•
+#EXTINF:-1 group-title="bein low",•●★★--- beIN SPORTS LOW ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/119
 #EXTINF:-1,beIN SPORTS PREMINUM1 LOW
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/62
@@ -1732,7 +1731,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2111
 #EXTINF:-1,beIN SPORTS 7LOW
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/2112
 
-#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
+#EXTINF:-1 group-title="bein ENTERTAINMENT",•●★★--- beIN Entertainment ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/121
 #EXTINF:-1,AR: beIN Movies 1 HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/24
@@ -1990,7 +1989,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1456
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1457
 #EXTINF:-1,DE: ZEE ONE FHD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/1458
-#EXTINF:-1,•●★★--- USA---★★●•
+#EXTINF:-1 group-title="USA",•●★★--- USA---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/844
 #EXTINF:-1,US:  ABC 
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3653
@@ -2157,7 +2156,7 @@ http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/840
 #EXTINF:-1,US: NBC HD
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/843
 
-#EXTINF:-1,•●★★--- World  ---★★●•
+#EXTINF:-1 group-title="WORLD",•●★★--- World  ---★★●•
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/123
 #EXTINF:-1,Smart Sport ((كاس الاتحاد الاسيوي))
 http://tv.allkaicerteam.com:8080/kaicer_VIP8qe2fr/qxrgp1/3779
